@@ -64,7 +64,8 @@
           "[PHP](#php)",
           "[Python](#python)",
           "[R](#r)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Scala](#scala)"
         ]
       },
       {
@@ -5417,6 +5418,111 @@
               "2",
               "[@sudara](https://github.com/sudara)/[**fitter_happier**](https://github.com/sudara/fitter_happier)",
               "A Rails Plugin for adding a simple health check to your application",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Scala #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "99",
+              "[@manuelbernhardt](https://github.com/manuelbernhardt)/[**reactive-web-applica…**](https://github.com/manuelbernhardt/reactive-web-applications)",
+              "Sources of the sample applications of the Reactive Web Application book",
+              "[:arrow_upper_right:](http://manning.com/books/reactive-web-applications)"
+            ],
+            [
+              "28",
+              "[@manuelbernhardt](https://github.com/manuelbernhardt)/[**play2-groovy-templat…**](https://github.com/manuelbernhardt/play2-groovy-templates)",
+              "Groovy templates for Play! 2",
+              ""
+            ],
+            [
+              "10",
+              "[@manuelbernhardt](https://github.com/manuelbernhardt)/[**hello-play-dv13**](https://github.com/manuelbernhardt/hello-play-dv13)",
+              "Play! framework application scaffold, Devoxx 2013",
+              ""
+            ],
+            [
+              "10",
+              "[@heiflo](https://github.com/heiflo)/[**lift-basic-2.4-sbt-0…**](https://github.com/heiflo/lift-basic-2.4-sbt-0.11.2)",
+              "Lift 2.4 basic web application configured with sbt 0.11.2",
+              ""
+            ],
+            [
+              "4",
+              "[@scala-vienna](https://github.com/scala-vienna)/[**wordguess-client**](https://github.com/scala-vienna/wordguess-client)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@scala-vienna](https://github.com/scala-vienna)/[**wordguess-server**](https://github.com/scala-vienna/wordguess-server)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@scala-vienna](https://github.com/scala-vienna)/[**dojo-quickstart**](https://github.com/scala-vienna/dojo-quickstart)",
+              "Quick-start project for our coding dojos",
+              ""
+            ],
+            [
+              "3",
+              "[@mlangc](https://github.com/mlangc)/[**bracket-expression-b…**](https://github.com/mlangc/bracket-expression-beautifier)",
+              "A simple beautifier for bracket expressions, implemented for, but not limited to, Scala ASTs.",
+              ""
+            ],
+            [
+              "3",
+              "[@heiflo](https://github.com/heiflo)/[**play21-file-upload-s…**](https://github.com/heiflo/play21-file-upload-streaming)",
+              "Simple Play 2.1 application that demonstrates how to stream an HTTP multipart request",
+              ""
+            ],
+            [
+              "3",
+              "[@manuelbernhardt](https://github.com/manuelbernhardt)/[**reactive-mentions**](https://github.com/manuelbernhardt/reactive-mentions)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@Ceilican](https://github.com/Ceilican)/[**XMPP-Bot**](https://github.com/Ceilican/XMPP-Bot)",
+              "An XMPP bot implemented in Scala.",
+              ""
+            ],
+            [
+              "2",
+              "[@choedl](https://github.com/choedl)/[**libgdx_raindrops**](https://github.com/choedl/libgdx_raindrops)",
+              "libgdx tutorial where the player must catch falling raindrops with a bucket",
+              ""
+            ],
+            [
+              "2",
+              "[@kixi](https://github.com/kixi)/[**bitcoin-xchange**](https://github.com/kixi/bitcoin-xchange)",
+              "Proof of concept for a (Bitcoin) exchange software based on CQRS and Event Sourcing.",
+              ""
+            ],
+            [
+              "2",
+              "[@AlexanderDaniel](https://github.com/AlexanderDaniel)/[**play2-caching**](https://github.com/AlexanderDaniel/play2-caching)",
+              "Caching of Futures in Play 2.1",
+              ""
+            ],
+            [
+              "2",
+              "[@manuelbernhardt](https://github.com/manuelbernhardt)/[**play2-deadlock**](https://github.com/manuelbernhardt/play2-deadlock)",
+              "Example of deadlock in play2 with actors",
               ""
             ]
           ]
