@@ -68,7 +68,8 @@
           "[Scala](#scala)",
           "[Shell](#shell)",
           "[Swift](#swift)",
-          "[TeX](#tex)"
+          "[TeX](#tex)",
+          "[VimL](#viml)"
         ]
       },
       {
@@ -5625,6 +5626,39 @@
               "7",
               "[@hannestschofenig](https://github.com/hannestschofenig)/[**tschofenig-ids**](https://github.com/hannestschofenig/tschofenig-ids)",
               "Repository for Internet Drafts",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "VimL #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "7",
+              "[@znake](https://github.com/znake)/[**znake-vim**](https://github.com/znake/znake-vim)",
+              "A customized Railscasts theme I use in VIM",
+              ""
+            ],
+            [
+              "2",
+              "[@allanberger](https://github.com/allanberger)/[**vimfiles**](https://github.com/allanberger/vimfiles)",
+              "Vimfiles optimized for developing in Python",
+              ""
+            ],
+            [
+              "2",
+              "[@linluk](https://github.com/linluk)/[**my-dot-files**](https://github.com/linluk/my-dot-files)",
+              "this is where i save my dot files",
               ""
             ]
           ]
