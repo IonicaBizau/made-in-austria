@@ -65,7 +65,8 @@
           "[Python](#python)",
           "[R](#r)",
           "[Ruby](#ruby)",
-          "[Scala](#scala)"
+          "[Scala](#scala)",
+          "[Shell](#shell)"
         ]
       },
       {
@@ -5524,6 +5525,51 @@
               "[@manuelbernhardt](https://github.com/manuelbernhardt)/[**play2-deadlock**](https://github.com/manuelbernhardt/play2-deadlock)",
               "Example of deadlock in play2 with actors",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Shell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "95",
+              "[@simmac](https://github.com/simmac)/[**minimal_adb_fastboot**](https://github.com/simmac/minimal_adb_fastboot)",
+              "Installs the adb and fastboot binaries for OS X and Linux.",
+              ""
+            ],
+            [
+              "34",
+              "[@MacLemon](https://github.com/MacLemon)/[**mlbackup**](https://github.com/MacLemon/mlbackup)",
+              "An rsync 3 based disk-to-disk backup command line utility for Mac OS X. If you like it, please consider flattring! https://flattr.com/thing/141895/mlbackup",
+              "[:arrow_upper_right:](http://maclemon.at/mlbackup)"
+            ],
+            [
+              "22",
+              "[@close2](https://github.com/close2)/[**shell-xmpp-client**](https://github.com/close2/shell-xmpp-client)",
+              "Xmpp client written in bash / ash (openwrt).  It's only dependency is ncat (or similar) for the actual ssl connection.",
+              ""
+            ],
+            [
+              "5",
+              "[@MacLemon](https://github.com/MacLemon)/[**ongakuka**](https://github.com/MacLemon/ongakuka)",
+              "Remotely listen to your own music with iTunes hosted by mt-daapd and tunneled through ssh.",
+              ""
+            ],
+            [
+              "4",
+              "[@bmedicke](https://github.com/bmedicke)/[**periodic-screenshots**](https://github.com/bmedicke/periodic-screenshots)",
+              "bash script that periodically takes screenshots. i use it to create time-lapse videos of projects.",
+              "[:arrow_upper_right:](http://benjy.multimediatechnology.at/blog/2010/06/18/making-of-quantum-jumpnrun/)"
             ]
           ]
         }
