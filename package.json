@@ -66,7 +66,8 @@
           "[R](#r)",
           "[Ruby](#ruby)",
           "[Scala](#scala)",
-          "[Shell](#shell)"
+          "[Shell](#shell)",
+          "[Swift](#swift)"
         ]
       },
       {
@@ -5570,6 +5571,39 @@
               "[@bmedicke](https://github.com/bmedicke)/[**periodic-screenshots**](https://github.com/bmedicke/periodic-screenshots)",
               "bash script that periodically takes screenshots. i use it to create time-lapse videos of projects.",
               "[:arrow_upper_right:](http://benjy.multimediatechnology.at/blog/2010/06/18/making-of-quantum-jumpnrun/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Swift #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "63",
+              "[@aloco](https://github.com/aloco)/[**SimpleButton**](https://github.com/aloco/SimpleButton)",
+              "Simple UIButton subclass with additional state change animations (e.g. backgroundColor) and missing features",
+              ""
+            ],
+            [
+              "6",
+              "[@kasimir-technology](https://github.com/kasimir-technology)/[**AppReviewTimeMonitor**](https://github.com/kasimir-technology/AppReviewTimeMonitor)",
+              "Free OSX Application that puts the information from http://appreviewtimes.com/ in the statusbar",
+              ""
+            ],
+            [
+              "2",
+              "[@raphaelseher](https://github.com/raphaelseher)/[**HorizontalCalendarVi…**](https://github.com/raphaelseher/HorizontalCalendarView)",
+              "",
+              ""
             ]
           ]
         }
