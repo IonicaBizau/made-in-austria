@@ -52,7 +52,8 @@
           "[CSS](#css)",
           "[HTML](#html)",
           "[C](undefined)",
-          "[C++](#c-2)"
+          "[C++](#c-2)",
+          "[ActionScript](#actionscript)"
         ]
       },
       {
@@ -2063,6 +2064,57 @@
               "2",
               "[@agrippa1994](https://github.com/agrippa1994)/[**iOS-Encryption**](https://github.com/agrippa1994/iOS-Encryption)",
               "Encryption app for iOS",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "ActionScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2015",
+              "[@Gamua](https://github.com/Gamua)/[**Starling-Framework**](https://github.com/Gamua/Starling-Framework)",
+              "The Cross Platform Game Engine",
+              "[:arrow_upper_right:](http://www.starling-framework.org)"
+            ],
+            [
+              "323",
+              "[@Gamua](https://github.com/Gamua)/[**Starling-Extension-P…**](https://github.com/Gamua/Starling-Extension-Particle-System)",
+              "A particle system for the Starling framework, compatible with the \"Particle Designer\" from 71squared.com",
+              ""
+            ],
+            [
+              "35",
+              "[@Gamua](https://github.com/Gamua)/[**Flox-AS3**](https://github.com/Gamua/Flox-AS3)",
+              "The ActionScript 3 SDK for the Flox Game Backend",
+              ""
+            ],
+            [
+              "20",
+              "[@PrimaryFeather](https://github.com/PrimaryFeather)/[**Memory3D**](https://github.com/PrimaryFeather/Memory3D)",
+              "A simple implementation of \"Memory\" (also known as \"Concentration\") showcasing Starling's Sprite3D functionality.",
+              ""
+            ],
+            [
+              "8",
+              "[@Gamua](https://github.com/Gamua)/[**Starling-Extension-D…**](https://github.com/Gamua/Starling-Extension-Dynamic-Lighting)",
+              "Use normal maps for realistic light effects in the Starling Framework.",
+              ""
+            ],
+            [
+              "3",
+              "[@ripcurlx](https://github.com/ripcurlx)/[**make-it-easy-as3**](https://github.com/ripcurlx/make-it-easy-as3)",
+              "A tiny framework that makes it easy to write Test Data Builders in ActionScript 3",
               ""
             ]
           ]
