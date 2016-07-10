@@ -47,7 +47,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -1095,6 +1096,303 @@
               "2",
               "[@phax](https://github.com/phax)/[**erechnung.gv.at-webs…**](https://github.com/phax/erechnung.gv.at-webservice-client)",
               "Utility classes and projects for the use with ER>B - the national Austrian Invoicing solution",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "875",
+              "[@techtalk](https://github.com/techtalk)/[**SpecFlow**](https://github.com/techtalk/SpecFlow)",
+              "Binding business requirements to .Net code",
+              "[:arrow_upper_right:](http://www.specflow.org/)"
+            ],
+            [
+              "689",
+              "[@nefarius](https://github.com/nefarius)/[**ScpToolkit**](https://github.com/nefarius/ScpToolkit)",
+              "Windows Driver and XInput Wrapper for Sony DualShock 3/4 Controllers",
+              "[:arrow_upper_right:](http://forums.pcsx2.net/Thread-ScpToolkit-XInput-Wrapper-aka-ScpServer-Reloaded)"
+            ],
+            [
+              "609",
+              "[@henon](https://github.com/henon)/[**GitSharp**](https://github.com/henon/GitSharp)",
+              "A Git implementation for .Net and Mono",
+              "[:arrow_upper_right:](http://www.eqqon.com/index.php/GitSharp)"
+            ],
+            [
+              "403",
+              "[@filoe](https://github.com/filoe)/[**cscore**](https://github.com/filoe/cscore)",
+              "An advanced audio library, written in C#. Provides tons of features. From playing/recording audio to decoding/encoding audio streams/files to processing audio data in realtime (e.g. applying custom effects during playback, create visualizations,...). The possibilities are nearly unlimited. ",
+              ""
+            ],
+            [
+              "388",
+              "[@flagbug](https://github.com/flagbug)/[**YoutubeExtractor**](https://github.com/flagbug/YoutubeExtractor)",
+              "A .NET library, that allows to download videos from YouTube and/or extract their audio track (currently only for flash videos).",
+              ""
+            ],
+            [
+              "183",
+              "[@flagbug](https://github.com/flagbug)/[**Espera**](https://github.com/flagbug/Espera)",
+              "Espera is a media player that plays your music, YouTube videos, SoundCloud songs and has a special \"party mode\".",
+              "[:arrow_upper_right:](http://getespera.com/)"
+            ],
+            [
+              "128",
+              "[@techtalk](https://github.com/techtalk)/[**SpecFlow-Examples**](https://github.com/techtalk/SpecFlow-Examples)",
+              "Examples for SpecFlow usage",
+              "[:arrow_upper_right:](www.specflow.org)"
+            ],
+            [
+              "56",
+              "[@henon](https://github.com/henon)/[**GitSharp.Demo**](https://github.com/henon/GitSharp.Demo)",
+              "Git# Demo for Windows (WPF)",
+              "[:arrow_upper_right:](http://www.eqqon.com/index.php/GitSharp)"
+            ],
+            [
+              "36",
+              "[@techtalk](https://github.com/techtalk)/[**JiraRestClient**](https://github.com/techtalk/JiraRestClient)",
+              "A simple client for Atlassian JIRA service REST API",
+              ""
+            ],
+            [
+              "31",
+              "[@jguertl](https://github.com/jguertl)/[**SharePlugin**](https://github.com/jguertl/SharePlugin)",
+              "Simple way to share a message or link on a social network in your Xamarin.Forms projects.",
+              ""
+            ],
+            [
+              "29",
+              "[@flagbug](https://github.com/flagbug)/[**Lager**](https://github.com/flagbug/Lager)",
+              "A cross-platform settings storage for .NET",
+              ""
+            ],
+            [
+              "29",
+              "[@flagbug](https://github.com/flagbug)/[**FlagConsole**](https://github.com/flagbug/FlagConsole)",
+              "A .NET library, that helps to build text-based console application interfaces.  It provides controls like panel, textfield, list view, menu and label. It also offers drawing capabilitys for rectangles, lines and ellipses/circles.",
+              ""
+            ],
+            [
+              "24",
+              "[@flagbug](https://github.com/flagbug)/[**FlagFtp**](https://github.com/flagbug/FlagFtp)",
+              "FlagFtp is a FTP library for .NET, that supports various operations, such as retrieving file lists, write and read from/to files, retrieving file and directory infos, etc...",
+              ""
+            ],
+            [
+              "23",
+              "[@tibel](https://github.com/tibel)/[**Caliburn.Light**](https://github.com/tibel/Caliburn.Light)",
+              "The magic-free Caliburn.Light, a powerful framework designed for building applications across current XAML platforms.",
+              ""
+            ],
+            [
+              "20",
+              "[@flagbug](https://github.com/flagbug)/[**FlagSync**](https://github.com/flagbug/FlagSync)",
+              "FlagSync is a synchronization and backup tool, written in C#, that allows you to synchronize or backup your files with local folders (or an extern harddrive or flashdrive) and FTP-Servers, as well as synchronize your non-iPod MP3-Player with iTunes.",
+              ""
+            ],
+            [
+              "19",
+              "[@AdmiralCurtiss](https://github.com/AdmiralCurtiss)/[**WfcPatcher**](https://github.com/AdmiralCurtiss/WfcPatcher)",
+              "Patches NDS games to allow them to connect to a custom NWFC server.",
+              ""
+            ],
+            [
+              "17",
+              "[@akoeplinger](https://github.com/akoeplinger)/[**mono-winforms-netcor…**](https://github.com/akoeplinger/mono-winforms-netcore)",
+              "",
+              ""
+            ],
+            [
+              "12",
+              "[@tibel](https://github.com/tibel)/[**Weakly**](https://github.com/tibel/Weakly)",
+              "Weakly is a collection of some useful weak-reference types.",
+              ""
+            ],
+            [
+              "12",
+              "[@davidroth](https://github.com/davidroth)/[**RuntimeControllerFac…**](https://github.com/davidroth/RuntimeControllerFactory)",
+              "An Asp.net MVC 2 ControllerFactory including some classes which allows you to edit your Controller classes at runtime, without restarting your application - powered by Mono C# compiler as a service..",
+              "[:arrow_upper_right:](http://blog.fusonic.net/2011/04/scripting-asp-net-mvc-controllers-at-runtime/)"
+            ],
+            [
+              "11",
+              "[@henon](https://github.com/henon)/[**TicGit.net**](https://github.com/henon/TicGit.net)",
+              "A simple distributed issue tracker based on git",
+              "[:arrow_upper_right:](http://www.eqqon.com/index.php/TicGit.net)"
+            ],
+            [
+              "11",
+              "[@flagbug](https://github.com/flagbug)/[**UnofficialGitterApp**](https://github.com/flagbug/UnofficialGitterApp)",
+              "An unofficial Android app for http://gitter.im",
+              ""
+            ],
+            [
+              "10",
+              "[@tibel](https://github.com/tibel)/[**Caliburn.Micro.Extra…**](https://github.com/tibel/Caliburn.Micro.Extras)",
+              "Some additions to Caliburn.Micro framework.",
+              ""
+            ],
+            [
+              "10",
+              "[@flagbug](https://github.com/flagbug)/[**ClickOnceToSquirrelM…**](https://github.com/flagbug/ClickOnceToSquirrelMigrator)",
+              "A helper library for the migration from ClickOnce to Squirrel.Windows",
+              ""
+            ],
+            [
+              "9",
+              "[@flagbug](https://github.com/flagbug)/[**ReactiveMarrow**](https://github.com/flagbug/ReactiveMarrow)",
+              "This library extends Reactive Extensions with a few helpers",
+              ""
+            ],
+            [
+              "8",
+              "[@Switcherlapp97](https://github.com/Switcherlapp97)/[**RubiksCubeSolver**](https://github.com/Switcherlapp97/RubiksCubeSolver)",
+              "",
+              ""
+            ],
+            [
+              "8",
+              "[@flagbug](https://github.com/flagbug)/[**Espera.Mobile**](https://github.com/flagbug/Espera.Mobile)",
+              "",
+              "[:arrow_upper_right:](http://getespera.com/)"
+            ],
+            [
+              "7",
+              "[@AdmiralCurtiss](https://github.com/AdmiralCurtiss)/[**ToVPatcher**](https://github.com/AdmiralCurtiss/ToVPatcher)",
+              "Patcher for the PS3 Tales of Vesperia fan-translation.",
+              "[:arrow_upper_right:](http://talesofvesperia.net/)"
+            ],
+            [
+              "7",
+              "[@AdmiralCurtiss](https://github.com/AdmiralCurtiss)/[**HyoutaTools**](https://github.com/AdmiralCurtiss/HyoutaTools)",
+              "A collection of tools for extracting and/or reinserting data from/into video games.",
+              ""
+            ],
+            [
+              "7",
+              "[@davidroth](https://github.com/davidroth)/[**Entityframework6**](https://github.com/davidroth/Entityframework6)",
+              "Contains a modified branch of EF (DbModelStore) for improved startup performance. For further information, please read my blog post.",
+              "[:arrow_upper_right:](http://www.fusonic.net/en/blog/2014/07/09/three-steps-for-fast-entityframework-6.1-first-query-performance/)"
+            ],
+            [
+              "7",
+              "[@henon](https://github.com/henon)/[**manic_digger**](https://github.com/henon/manic_digger)",
+              "an open source clone of minecraft",
+              "[:arrow_upper_right:](http://manicdigger.sourceforge.net)"
+            ],
+            [
+              "7",
+              "[@flagbug](https://github.com/flagbug)/[**Rareform**](https://github.com/flagbug/Rareform)",
+              "This is my personal common library, for .NET, written in C#. It contains classes and methods that I need in nearly every application I write. Feel free to use and contribute.",
+              ""
+            ],
+            [
+              "6",
+              "[@nefarius](https://github.com/nefarius)/[**CntlmUI**](https://github.com/nefarius/CntlmUI)",
+              "Graphical User Interface and Startup-Agent for the Cntlm Authorization Proxy",
+              "[:arrow_upper_right:](http://nefarius.at/cntlmui/)"
+            ],
+            [
+              "4",
+              "[@nefarius](https://github.com/nefarius)/[**TrueMount-3**](https://github.com/nefarius/TrueMount-3)",
+              "Automounter for TrueCrypt",
+              ""
+            ],
+            [
+              "4",
+              "[@Tigraine](https://github.com/Tigraine)/[**pandora-container**](https://github.com/Tigraine/pandora-container)",
+              "Yet another lightweight IoC container",
+              "[:arrow_upper_right:](http://www.tigraine.at)"
+            ],
+            [
+              "4",
+              "[@flagbug](https://github.com/flagbug)/[**Espera.Network**](https://github.com/flagbug/Espera.Network)",
+              "Network classes and helpers for the Espera remote control API",
+              "[:arrow_upper_right:](http://getespera.com/)"
+            ],
+            [
+              "4",
+              "[@techtalk](https://github.com/techtalk)/[**SpecFlow.VisualStudi…**](https://github.com/techtalk/SpecFlow.VisualStudio)",
+              "Visual Studio extension of SpecFlow (extracted from the main SpecFlow repo)",
+              ""
+            ],
+            [
+              "4",
+              "[@SabotageAndi](https://github.com/SabotageAndi)/[**efl-sharp**](https://github.com/SabotageAndi/efl-sharp)",
+              "C# Bindings for Enlightenment Foundation Libraries",
+              ""
+            ],
+            [
+              "3",
+              "[@henon](https://github.com/henon)/[**WPFTestRunner**](https://github.com/henon/WPFTestRunner)",
+              "A simple ad hoc WPF Test Runner for NUnit",
+              ""
+            ],
+            [
+              "3",
+              "[@nefarius](https://github.com/nefarius)/[**WpfRichText.Ex**](https://github.com/nefarius/WpfRichText.Ex)",
+              "Simple WYSIWYG HTML editor control for WPF",
+              "[:arrow_upper_right:](http://nefarius.at)"
+            ],
+            [
+              "3",
+              "[@nefarius](https://github.com/nefarius)/[**TrueMount-2**](https://github.com/nefarius/TrueMount-2)",
+              "Automounter for TrueCrypt.",
+              "[:arrow_upper_right:](http://wiki.nefarius.at/windows/truemount2)"
+            ],
+            [
+              "3",
+              "[@saxx](https://github.com/saxx)/[**TrelloMite**](https://github.com/saxx/TrelloMite)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@davidroth](https://github.com/davidroth)/[**propertyexpressionan…**](https://github.com/davidroth/propertyexpressionanalyzer)",
+              "A custom refactoring that transforms common property-expression helper code to the new c# 6 nameof expression",
+              "[:arrow_upper_right:](http://www.fusonic.net/en/blog/2015/03/16/roslyn-code-analyzer-fun/)"
+            ],
+            [
+              "3",
+              "[@flagbug](https://github.com/flagbug)/[**FlvExtract**](https://github.com/flagbug/FlvExtract)",
+              "A portable (PCL) .NET library that extracts the audio and/or video tracks from FLV files",
+              ""
+            ],
+            [
+              "2",
+              "[@nefarius](https://github.com/nefarius)/[**StreamsFinder**](https://github.com/nefarius/StreamsFinder)",
+              "Microsoft´s new technology file system has a pretty unknown feature called data streams. Find hidden ones easily with this tool!",
+              "[:arrow_upper_right:](http://nefarius.at/streamsfinder/)"
+            ],
+            [
+              "2",
+              "[@Tigraine](https://github.com/Tigraine)/[**elms-connector**](https://github.com/Tigraine/elms-connector)",
+              "A connector for Microsoft's ELMS Campus verification",
+              "[:arrow_upper_right:](http://www.tigraine.at)"
+            ],
+            [
+              "2",
+              "[@saxx](https://github.com/saxx)/[**Wuzlstats**](https://github.com/saxx/Wuzlstats)",
+              "Web app to track wuzl (tabletop soccer) score.",
+              ""
+            ],
+            [
+              "2",
+              "[@bojanbjelic](https://github.com/bojanbjelic)/[**xsltr**](https://github.com/bojanbjelic/xsltr)",
+              "Performs xsl transformations. msxls replacement",
               ""
             ]
           ]
