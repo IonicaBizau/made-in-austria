@@ -62,7 +62,8 @@
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[R](#r)"
         ]
       },
       {
@@ -4660,6 +4661,45 @@
               "[@thet](https://github.com/thet)/[**elevate.cynin.buildo…**](https://github.com/thet/elevate.cynin.buildout)",
               "elevate cynin buildout",
               "[:arrow_upper_right:](http://elevate.at/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "R #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "8",
+              "[@zozlak](https://github.com/zozlak)/[**ZPD**](https://github.com/zozlak/ZPD)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@rhochreiter](https://github.com/rhochreiter)/[**financeR**](https://github.com/rhochreiter/financeR)",
+              "Financial Engineering with R",
+              ""
+            ],
+            [
+              "5",
+              "[@rhochreiter](https://github.com/rhochreiter)/[**modopt.matlab**](https://github.com/rhochreiter/modopt.matlab)",
+              "Modeling Optimization Problems with R - MatLab(R) compatibility functions",
+              ""
+            ],
+            [
+              "2",
+              "[@zozlak](https://github.com/zozlak)/[**useR2015**](https://github.com/zozlak/useR2015)",
+              "",
+              ""
             ]
           ]
         }
