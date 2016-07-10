@@ -59,7 +59,8 @@
           "[Go](#go)",
           "[Haskell](#haskell)",
           "[Lua](#lua)",
-          "[Objective-C](#objective-c)"
+          "[Objective-C](#objective-c)",
+          "[Perl](#perl)"
         ]
       },
       {
@@ -3328,6 +3329,147 @@
               "[@m2mtech](https://github.com/m2mtech)/[**topplaces-2013-14**](https://github.com/m2mtech/topplaces-2013-14)",
               "Flickr Photo Viewer from cs193p",
               "[:arrow_upper_right:](http://cs193p.m2m.at/tag/topplaces+2013-14/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Perl #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "20",
+              "[@szbalint](https://github.com/szbalint)/[**WWW--Curl**](https://github.com/szbalint/WWW--Curl)",
+              "Perl binding for libcurl",
+              "[:arrow_upper_right:](http://curl.haxx.se)"
+            ],
+            [
+              "15",
+              "[@mtw](https://github.com/mtw)/[**Bio-ViennaNGS**](https://github.com/mtw/Bio-ViennaNGS)",
+              "A Perl extension and collection of utilities for Next-Generation Sequencing (NGS) data analysis",
+              ""
+            ],
+            [
+              "9",
+              "[@base64tokyo](https://github.com/base64tokyo)/[**stocks**](https://github.com/base64tokyo/stocks)",
+              "Lightweight demo app to aggregate, store, serve & visualize data using Web::Machine, PSGI, D3.js, bower, App::Cmd, DBIC etc.",
+              ""
+            ],
+            [
+              "5",
+              "[@base64tokyo](https://github.com/base64tokyo)/[**pathed**](https://github.com/base64tokyo/pathed)",
+              "munge the Bash PATH environment variable",
+              ""
+            ],
+            [
+              "5",
+              "[@TheFox](https://github.com/TheFox)/[**blackbox**](https://github.com/TheFox/blackbox)",
+              "Create and manage AES256 encrypted loop devices (.img files) under Linux.",
+              "[:arrow_upper_right:](http://fox21.at)"
+            ],
+            [
+              "4",
+              "[@TheFox](https://github.com/TheFox)/[**polymorphic**](https://github.com/TheFox/polymorphic)",
+              "A polymorphic perl script.",
+              "[:arrow_upper_right:](http://fox21.at)"
+            ],
+            [
+              "4",
+              "[@fhelmberger](https://github.com/fhelmberger)/[**Plack-Middleware-Fir…**](https://github.com/fhelmberger/Plack-Middleware-FirePHP)",
+              "Plack Middleware for FirePHP::Dispatcher",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Plack-Middleware-FirePHP)"
+            ],
+            [
+              "4",
+              "[@TheFox](https://github.com/TheFox)/[**dlc2txt**](https://github.com/TheFox/dlc2txt)",
+              "Decrypt .dlc files. Containers sucks. Really!",
+              "[:arrow_upper_right:](http://blog.fox21.at/2009/04/09/dlc2txt-1-0-0.html)"
+            ],
+            [
+              "4",
+              "[@abraxxa](https://github.com/abraxxa)/[**DBICx-Generator-ExtJ…**](https://github.com/abraxxa/DBICx-Generator-ExtJS-Model)",
+              "DBICx::Generator::ExtJS::Model",
+              ""
+            ],
+            [
+              "3",
+              "[@base64tokyo](https://github.com/base64tokyo)/[**dip**](https://github.com/base64tokyo/dip)",
+              "Dynamic instrumentation like DTrace, using aspects",
+              "[:arrow_upper_right:](http://metacpan.org/release/dip)"
+            ],
+            [
+              "2",
+              "[@leyrer](https://github.com/leyrer)/[**Cryptogram2Kindle**](https://github.com/leyrer/Cryptogram2Kindle)",
+              "Cryptogram2Kindle is a small script I wrote to send Bruce Schneiers Crypto-Gram Newsletter to my Kindle for easier reading",
+              ""
+            ],
+            [
+              "2",
+              "[@abraxxa](https://github.com/abraxxa)/[**SQL-Translator-Produ…**](https://github.com/abraxxa/SQL-Translator-Producer-ExtJS-Model-File)",
+              "SQL::Translator::Producer for creating ExtJS model classes",
+              "[:arrow_upper_right:](http://sqlfairy.sourceforge.net)"
+            ],
+            [
+              "2",
+              "[@fhelmberger](https://github.com/fhelmberger)/[**Class-Value-Net**](https://github.com/fhelmberger/Class-Value-Net)",
+              "Network-related value objects",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Class-Value-Net)"
+            ],
+            [
+              "2",
+              "[@fhelmberger](https://github.com/fhelmberger)/[**Data-Storage**](https://github.com/fhelmberger/Data-Storage)",
+              "Base class for storages",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Data-Storage)"
+            ],
+            [
+              "2",
+              "[@ofalk](https://github.com/ofalk)/[**Nagios**](https://github.com/ofalk/Nagios)",
+              "Nagios plugins and scripts",
+              ""
+            ],
+            [
+              "2",
+              "[@ofalk](https://github.com/ofalk)/[**Scripts**](https://github.com/ofalk/Scripts)",
+              "Script for this and that",
+              ""
+            ],
+            [
+              "2",
+              "[@poettler-ric](https://github.com/poettler-ric)/[**scripts**](https://github.com/poettler-ric/scripts)",
+              "Some little helpers I wrote",
+              ""
+            ],
+            [
+              "2",
+              "[@base64tokyo](https://github.com/base64tokyo)/[**App-perlfind**](https://github.com/base64tokyo/App-perlfind)",
+              "A more knowledgeable perldoc",
+              "[:arrow_upper_right:](https://metacpan.org/release/App-perlfind)"
+            ],
+            [
+              "2",
+              "[@base64tokyo](https://github.com/base64tokyo)/[**App-Benchmark**](https://github.com/base64tokyo/App-Benchmark)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@gonter](https://github.com/gonter)/[**docu-tools**](https://github.com/gonter/docu-tools)",
+              "collection of tools to process documentation items in various formats",
+              ""
+            ],
+            [
+              "2",
+              "[@base64tokyo](https://github.com/base64tokyo)/[**CatalystX-Crudite**](https://github.com/base64tokyo/CatalystX-Crudite)",
+              "Framework for Catalyst-based CMS Web Applications",
+              ""
             ]
           ]
         }
