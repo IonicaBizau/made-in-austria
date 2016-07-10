@@ -38,5 +38,710 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/made-in-austria/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/made-in-austria#readme"
+  "homepage": "https://github.com/IonicaBizau/made-in-austria#readme",
+  "blah": {
+    "installation": [
+      {
+        "h2": "Contents"
+      },
+      {
+        "ul": [
+          "[JavaScript](#javascript)"
+        ]
+      },
+      {
+        "h3": "JavaScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "10524",
+              "[@enyo](https://github.com/enyo)/[**dropzone**](https://github.com/enyo/dropzone)",
+              "Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.",
+              "[:arrow_upper_right:](http://www.dropzonejs.com)"
+            ],
+            [
+              "1841",
+              "[@michael](https://github.com/michael)/[**github**](https://github.com/michael/github)",
+              "A higher-level wrapper around the Github API. Intended for the browser.",
+              ""
+            ],
+            [
+              "1372",
+              "[@okonet](https://github.com/okonet)/[**react-dropzone**](https://github.com/okonet/react-dropzone)",
+              "Simple HTML5 drag-drop zone with React.js.",
+              "[:arrow_upper_right:](http://okonet.ru/react-dropzone/)"
+            ],
+            [
+              "1175",
+              "[@enyo](https://github.com/enyo)/[**opentip**](https://github.com/enyo/opentip)",
+              "Opentip is an open source javascript tooltip based on the protoype framework.",
+              "[:arrow_upper_right:](http://www.opentip.org)"
+            ],
+            [
+              "554",
+              "[@michael](https://github.com/michael)/[**multiselect**](https://github.com/michael/multiselect)",
+              "jQuery UI Multiselect Widget",
+              "[:arrow_upper_right:](http://www.quasipartikel.at/multiselect)"
+            ],
+            [
+              "269",
+              "[@okonet](https://github.com/okonet)/[**modalbox**](https://github.com/okonet/modalbox)",
+              "Mac OS X style javascript pop-ups for your browser (based on prototype + script.aculo.us)",
+              "[:arrow_upper_right:](http://okonet.ru/projects/modalbox)"
+            ],
+            [
+              "263",
+              "[@michael](https://github.com/michael)/[**dance**](https://github.com/michael/dance)",
+              "Don't be shy - take your data for a dance.",
+              "[:arrow_upper_right:](http://quasipartikel.at/2012/04/25/dancing-with-data/)"
+            ],
+            [
+              "237",
+              "[@michael](https://github.com/michael)/[**unveil**](https://github.com/michael/unveil)",
+              "A data-driven visualization toolkit",
+              ""
+            ],
+            [
+              "190",
+              "[@DominikGuzei](https://github.com/DominikGuzei)/[**flawless.css**](https://github.com/DominikGuzei/flawless.css)",
+              "A full stack html5 and css3 framework that uses less.js as it's core to provide a truly modular system with addons and other cute stuff ;-D",
+              ""
+            ],
+            [
+              "120",
+              "[@michael](https://github.com/michael)/[**askken**](https://github.com/michael/askken)",
+              "Visual Knowledge Browser",
+              "[:arrow_upper_right:](http://askken.heroku.com)"
+            ],
+            [
+              "92",
+              "[@okonet](https://github.com/okonet)/[**lint-staged**](https://github.com/okonet/lint-staged)",
+              "Lint JS and CSS files staged by git",
+              ""
+            ],
+            [
+              "90",
+              "[@pangratz](https://github.com/pangratz)/[**ember.js-dashboard**](https://github.com/pangratz/ember.js-dashboard)",
+              "Activity of the Ember.js community at a glance: Twitter, GitHub, StackOverflow and Reddit",
+              "[:arrow_upper_right:](http://code418.com/ember.js-dashboard/)"
+            ],
+            [
+              "78",
+              "[@DominikGuzei](https://github.com/DominikGuzei)/[**Class.js**](https://github.com/DominikGuzei/Class.js)",
+              "Lightning fast class system. Beautiful API. Rock solid debugging. 0.6 kb",
+              ""
+            ],
+            [
+              "75",
+              "[@michael](https://github.com/michael)/[**donut**](https://github.com/michael/donut)",
+              "Radial Navigator built with Processing.js",
+              "[:arrow_upper_right:](http://quasipartikel.at/donut)"
+            ],
+            [
+              "63",
+              "[@pangratz](https://github.com/pangratz)/[**dnd-file-upload**](https://github.com/pangratz/dnd-file-upload)",
+              "drag and drop file upload for a html5 capable browser",
+              "[:arrow_upper_right:](http://code.google.com/p/dnd-file-upload/)"
+            ],
+            [
+              "61",
+              "[@pangratz](https://github.com/pangratz)/[**dashboard**](https://github.com/pangratz/dashboard)",
+              "GitHub Dashboard using Ember.js and Twitter Bootstrap",
+              "[:arrow_upper_right:](http://pangratz.github.com/dashboard)"
+            ],
+            [
+              "60",
+              "[@enyo](https://github.com/enyo)/[**stateless-html-examp…**](https://github.com/enyo/stateless-html-example)",
+              "This is an example repository for a colorglare.com article",
+              "[:arrow_upper_right:](http://www.colorglare.com/stateless-html-example)"
+            ],
+            [
+              "53",
+              "[@pangratz](https://github.com/pangratz)/[**ember-memento**](https://github.com/pangratz/ember-memento)",
+              "Undo / Redo functionality for Ember.Object's",
+              ""
+            ],
+            [
+              "48",
+              "[@michael](https://github.com/michael)/[**dejavis**](https://github.com/michael/dejavis)",
+              "Visual Analytics for the Browser",
+              "[:arrow_upper_right:](http://dejavis.org)"
+            ],
+            [
+              "47",
+              "[@DominikGuzei](https://github.com/DominikGuzei)/[**ember-routing-statec…**](https://github.com/DominikGuzei/ember-routing-statechart-example)",
+              "Example for fat-client ember application with routing and statechart",
+              ""
+            ],
+            [
+              "38",
+              "[@pangratz](https://github.com/pangratz)/[**ember-couchdb-adapte…**](https://github.com/pangratz/ember-couchdb-adapter)",
+              "CouchDBAdapter for Ember-Data",
+              ""
+            ],
+            [
+              "36",
+              "[@okonet](https://github.com/okonet)/[**cooltips**](https://github.com/okonet/cooltips)",
+              "CoolTips is a replacement for conventional web-browser tooltips. Cooltips is fully unobtrusive Class based on Prototype &amp; Script.aculo.us, which is functional without any images (pure CSS).",
+              "[:arrow_upper_right:](http://code.google.com/p/tooltips/)"
+            ],
+            [
+              "35",
+              "[@michael](https://github.com/michael)/[**tween**](https://github.com/michael/tween)",
+              "Motion Tweening for Processing.js",
+              "[:arrow_upper_right:](http://quasipartikel.at/2009/11/30/motion-tweening-for-processingjs/)"
+            ],
+            [
+              "34",
+              "[@michael](https://github.com/michael)/[**dejavis-sandbox**](https://github.com/michael/dejavis-sandbox)",
+              "A sandbox for pluggable data visualizations",
+              "[:arrow_upper_right:](http://dejavis.org)"
+            ],
+            [
+              "33",
+              "[@okonet](https://github.com/okonet)/[**webpack-long-term-ca…**](https://github.com/okonet/webpack-long-term-cache-demo)",
+              "A demo config showing how to enable long-term caching using Webpack. Read [medium link] for details.",
+              ""
+            ],
+            [
+              "30",
+              "[@michael](https://github.com/michael)/[**ken**](https://github.com/michael/ken)",
+              "Visual Knowledge Browser",
+              "[:arrow_upper_right:](http://michael.github.com/ken)"
+            ],
+            [
+              "28",
+              "[@michael](https://github.com/michael)/[**reader**](https://github.com/michael/reader)",
+              "A stand-alone reader for Substance Documents (can be used as a blog)",
+              "[:arrow_upper_right:](http://substance.github.com/reader)"
+            ],
+            [
+              "24",
+              "[@pangratz](https://github.com/pangratz)/[**irc-log-viewer**](https://github.com/pangratz/irc-log-viewer)",
+              "CouchApp using Ember.js to show IRC logs stored in a CouchDB",
+              ""
+            ],
+            [
+              "23",
+              "[@okonet](https://github.com/okonet)/[**ejs-loader**](https://github.com/okonet/ejs-loader)",
+              "EJS (Underscore/LoDash Templates) loader for webpack",
+              ""
+            ],
+            [
+              "21",
+              "[@guybrush](https://github.com/guybrush)/[**showdown**](https://github.com/guybrush/showdown)",
+              "MIRROR of http://attacklab.net/showdown (newer/forked/npm version here: https://github.com/coreyti/showdown)",
+              "[:arrow_upper_right:](https://github.com/coreyti/showdown)"
+            ],
+            [
+              "20",
+              "[@oberhamsi](https://github.com/oberhamsi)/[**prettytiles-gamejs**](https://github.com/oberhamsi/prettytiles-gamejs)",
+              "CPU heavy ISO landscape generator ported from processing to gamejs",
+              "[:arrow_upper_right:](http://gamejs.org/apps/prettytiles/)"
+            ],
+            [
+              "16",
+              "[@DominikGuzei](https://github.com/DominikGuzei)/[**Compact.js**](https://github.com/DominikGuzei/Compact.js)",
+              "A modular javascript framework based on require.js and an intuitive way to build class hierarchies",
+              ""
+            ],
+            [
+              "15",
+              "[@hns](https://github.com/hns)/[**ride**](https://github.com/hns/ride)",
+              "Ringo in-browser code editing",
+              ""
+            ],
+            [
+              "14",
+              "[@oberhamsi](https://github.com/oberhamsi)/[**planetary-gamejs**](https://github.com/oberhamsi/planetary-gamejs)",
+              "physics game, a gamejs app",
+              "[:arrow_upper_right:](http://gamejs.org/apps/planetary/)"
+            ],
+            [
+              "13",
+              "[@michael](https://github.com/michael)/[**multiple_select**](https://github.com/michael/multiple_select)",
+              "MooTools based multiple select widget",
+              "[:arrow_upper_right:](http://www.wollzelle.com/os/multiple-select-widget/)"
+            ],
+            [
+              "12",
+              "[@okonet](https://github.com/okonet)/[**react-container-dime…**](https://github.com/okonet/react-container-dimensions)",
+              "Wrapper component that detects element resize and passes new dimensions down the tree. Based on https://github.com/wnr/element-resize-de…",
+              ""
+            ],
+            [
+              "12",
+              "[@guybrush](https://github.com/guybrush)/[**backbone-rpc-example**](https://github.com/guybrush/backbone-rpc-example)",
+              "sync backbone-models via dnode!",
+              "[:arrow_upper_right:](http://guybrush.no.de)"
+            ],
+            [
+              "11",
+              "[@ddprrt](https://github.com/ddprrt)/[**connect-php**](https://github.com/ddprrt/connect-php)",
+              "PHP middleware for https://github.com/senchalabs/connect",
+              ""
+            ],
+            [
+              "11",
+              "[@michael](https://github.com/michael)/[**stacks**](https://github.com/michael/stacks)",
+              "Visualizing groups of items as self-organizing stacks",
+              "[:arrow_upper_right:](http://dejavis.org/stacks)"
+            ],
+            [
+              "11",
+              "[@okonet](https://github.com/okonet)/[**yaml-loader**](https://github.com/okonet/yaml-loader)",
+              "YAML loader for webpack (converts YAML to JSON)",
+              ""
+            ],
+            [
+              "10",
+              "[@guybrush](https://github.com/guybrush)/[**nexus**](https://github.com/guybrush/nexus)",
+              "remote program installation and control (work in progress/proof of concept)",
+              "[:arrow_upper_right:](https://npmjs.org/package/nexus)"
+            ],
+            [
+              "10",
+              "[@hns](https://github.com/hns)/[**ringo-modulr**](https://github.com/hns/ringo-modulr)",
+              "A port of the modulr client-side CommonJS module implementation to RingoJS",
+              ""
+            ],
+            [
+              "10",
+              "[@ddprrt](https://github.com/ddprrt)/[**konamicode.js**](https://github.com/ddprrt/konamicode.js)",
+              "Easter-egg your website with the konami-code",
+              ""
+            ],
+            [
+              "9",
+              "[@hns](https://github.com/hns)/[**hiccup.js**](https://github.com/hns/hiccup.js)",
+              "A port of the Hiccup HTML generation library to JavaScript",
+              ""
+            ],
+            [
+              "9",
+              "[@oberhamsi](https://github.com/oberhamsi)/[**telemachus-gamejs**](https://github.com/oberhamsi/telemachus-gamejs)",
+              "shoot'em'up game, a gamejs app",
+              "[:arrow_upper_right:](http://gamejs.org/apps/telemachus/)"
+            ],
+            [
+              "9",
+              "[@michael](https://github.com/michael)/[**bullets**](https://github.com/michael/bullets)",
+              "Unveil.js graphics demo",
+              "[:arrow_upper_right:](http://dejavis.org/bullets)"
+            ],
+            [
+              "8",
+              "[@hns](https://github.com/hns)/[**ringo-node-benchmark**](https://github.com/hns/ringo-node-benchmark)",
+              "HTTP benchmark comparing RingoJS and Node.js with a focus on object allocation",
+              ""
+            ],
+            [
+              "8",
+              "[@michael](https://github.com/michael)/[**chart**](https://github.com/michael/chart)",
+              "A simple charting library that strictly separates data from graphical representation",
+              "[:arrow_upper_right:](http://quasipartikel.at/chart)"
+            ],
+            [
+              "8",
+              "[@michael](https://github.com/michael)/[**talk**](https://github.com/michael/talk)",
+              "Let's talk data. In realtime.",
+              ""
+            ],
+            [
+              "8",
+              "[@michael](https://github.com/michael)/[**scatterplot**](https://github.com/michael/scatterplot)",
+              "An interactive, animated Scatterplot for the Dejavis sandbox",
+              "[:arrow_upper_right:](http://dejavis.org/scatterplot)"
+            ],
+            [
+              "8",
+              "[@guybrush](https://github.com/guybrush)/[**dnode-balancer**](https://github.com/guybrush/dnode-balancer)",
+              "",
+              ""
+            ],
+            [
+              "8",
+              "[@enyo](https://github.com/enyo)/[**md5**](https://github.com/enyo/md5)",
+              "MD5 algorithm written by Paul Johnston",
+              ""
+            ],
+            [
+              "7",
+              "[@hns](https://github.com/hns)/[**berkeleystore**](https://github.com/hns/berkeleystore)",
+              "A RingoJS datastore implementation based on Oracle (formerly Sleepycat) Berkeley DB.",
+              ""
+            ],
+            [
+              "7",
+              "[@michael](https://github.com/michael)/[**matrix**](https://github.com/michael/matrix)",
+              "Matrix Plot",
+              "[:arrow_upper_right:](http://quasipartikel.at/matrix/)"
+            ],
+            [
+              "7",
+              "[@oberhamsi](https://github.com/oberhamsi)/[**gameoflife-gamejs**](https://github.com/oberhamsi/gameoflife-gamejs)",
+              "Conway's Game of Life for GameJs",
+              "[:arrow_upper_right:](http://apps.gamejs.org/gameoflife/2opt/)"
+            ],
+            [
+              "7",
+              "[@michael](https://github.com/michael)/[**linechart**](https://github.com/michael/linechart)",
+              "Interactive, animated Linechart, built with Unveil.js",
+              "[:arrow_upper_right:](http://dejavis.org/linechart)"
+            ],
+            [
+              "6",
+              "[@oberhamsi](https://github.com/oberhamsi)/[**pirateking-gamejs**](https://github.com/oberhamsi/pirateking-gamejs)",
+              "Pirate King",
+              "[:arrow_upper_right:](http://apps.gamejs.org/pirateking/alpha/)"
+            ],
+            [
+              "6",
+              "[@DominikGuzei](https://github.com/DominikGuzei)/[**ember-testing-on-rai…**](https://github.com/DominikGuzei/ember-testing-on-rails)",
+              "Example that shows how to setup a complete testing environment for Ember.js apps on Rails",
+              ""
+            ],
+            [
+              "6",
+              "[@michael](https://github.com/michael)/[**hub**](https://github.com/michael/hub)",
+              "Substance Hub",
+              ""
+            ],
+            [
+              "6",
+              "[@guybrush](https://github.com/guybrush)/[**socketvat**](https://github.com/guybrush/socketvat)",
+              "eventvat + nssocket",
+              "[:arrow_upper_right:](https://npmjs.org/package/socketvat)"
+            ],
+            [
+              "6",
+              "[@michael](https://github.com/michael)/[**envision**](https://github.com/michael/envision)",
+              "A Collection Browser and Visualizer",
+              ""
+            ],
+            [
+              "6",
+              "[@oberhamsi](https://github.com/oberhamsi)/[**ositestats**](https://github.com/oberhamsi/ositestats)",
+              "Web statistics, analytics server. PageImpressions, Uniques, Distributions for Traffic Sources, Browser/Os,...",
+              ""
+            ],
+            [
+              "5",
+              "[@DominikGuzei](https://github.com/DominikGuzei)/[**sproutcore-statechar…**](https://github.com/DominikGuzei/sproutcore-statecharts-usecase)",
+              "A sample application to illustrate the benefits of statecharts in sproutcore",
+              ""
+            ],
+            [
+              "5",
+              "[@hns](https://github.com/hns)/[**ringo-cometd**](https://github.com/hns/ringo-cometd)",
+              "A cometd/bayeux plugin for ringo/webapp",
+              ""
+            ],
+            [
+              "5",
+              "[@hns](https://github.com/hns)/[**cassandrastore**](https://github.com/hns/cassandrastore)",
+              "A RingoJS JavaScript client for the Cassandra distributed database",
+              ""
+            ],
+            [
+              "5",
+              "[@michael](https://github.com/michael)/[**ndogen-client**](https://github.com/michael/ndogen-client)",
+              "On-the-fly documentation generation powered by ndogen",
+              ""
+            ],
+            [
+              "5",
+              "[@pangratz](https://github.com/pangratz)/[**emberjs-couchapp-gem**](https://github.com/pangratz/emberjs-couchapp-gem)",
+              "Gem to create basic CouchApp which uses Ember.js",
+              ""
+            ],
+            [
+              "5",
+              "[@hns](https://github.com/hns)/[**ringo-storable**](https://github.com/hns/ringo-storable)",
+              "A Ringo Storable implementation in pure ES5",
+              ""
+            ],
+            [
+              "4",
+              "[@hns](https://github.com/hns)/[**commonize**](https://github.com/hns/commonize)",
+              "A utility to convert RingoJS modules into pure CommonJS modules",
+              ""
+            ],
+            [
+              "4",
+              "[@hns](https://github.com/hns)/[**hns.github.com**](https://github.com/hns/hns.github.com)",
+              "",
+              "[:arrow_upper_right:](http://hns.github.com/)"
+            ],
+            [
+              "4",
+              "[@michael](https://github.com/michael)/[**library**](https://github.com/michael/library)",
+              "A home for Substance documents. Think of it as a database for digital documents.",
+              "[:arrow_upper_right:](http://prose.io/#substance/library/master/README.md)"
+            ],
+            [
+              "4",
+              "[@DominikGuzei](https://github.com/DominikGuzei)/[**node-ase-utils**](https://github.com/DominikGuzei/node-ase-utils)",
+              "Node package to encode / decode Adobe Swatch Exchange Files (ASE)",
+              ""
+            ],
+            [
+              "4",
+              "[@oberhamsi](https://github.com/oberhamsi)/[**nocms**](https://github.com/oberhamsi/nocms)",
+              "Content managment system for lazy, unorganized people.",
+              ""
+            ],
+            [
+              "4",
+              "[@pangratz](https://github.com/pangratz)/[**ember-library-templa…**](https://github.com/pangratz/ember-library-template)",
+              "Template for a new Ember.js library project",
+              ""
+            ],
+            [
+              "4",
+              "[@enyo](https://github.com/enyo)/[**enyo.github.io**](https://github.com/enyo/enyo.github.io)",
+              "User page",
+              ""
+            ],
+            [
+              "4",
+              "[@oberhamsi](https://github.com/oberhamsi)/[**ringo-oauth**](https://github.com/oberhamsi/ringo-oauth)",
+              "oauth web helpers for ringo",
+              ""
+            ],
+            [
+              "3",
+              "[@oberhamsi](https://github.com/oberhamsi)/[**ringo-webtutorial**](https://github.com/oberhamsi/ringo-webtutorial)",
+              "markdown source for http://ringojs.org/wiki/Tutorial (should be replaced with a tutorial on stick after Ringo 0.7 release)",
+              "[:arrow_upper_right:](http://ringojs.org/wiki/Tutorial)"
+            ],
+            [
+              "3",
+              "[@okonet](https://github.com/okonet)/[**dialogbox**](https://github.com/okonet/dialogbox)",
+              "Mootools & Prototype.js class for unobtrusive facebook-style dialogboxes",
+              ""
+            ],
+            [
+              "3",
+              "[@okonet](https://github.com/okonet)/[**metalsmith-remote-js…**](https://github.com/okonet/metalsmith-remote-json-to-files)",
+              "Fetch JSON from remote URLs, transform and inject as files into metalsmith pipeline",
+              ""
+            ],
+            [
+              "3",
+              "[@okonet](https://github.com/okonet)/[**colorist**](https://github.com/okonet/colorist)",
+              "Creates a palette from the given image (drag'n'drop)",
+              "[:arrow_upper_right:](http://okonet.ru)"
+            ],
+            [
+              "3",
+              "[@okonet](https://github.com/okonet)/[**attr-accept**](https://github.com/okonet/attr-accept)",
+              "JavaScript implementation of the \"accept\" attribute for HTML5 <input type=\"file\">",
+              ""
+            ],
+            [
+              "3",
+              "[@okonet](https://github.com/okonet)/[**CalendarPad**](https://github.com/okonet/CalendarPad)",
+              "A Mootools based class for a 3 months date selector.",
+              ""
+            ],
+            [
+              "3",
+              "[@guybrush](https://github.com/guybrush)/[**unhosted-nodejs**](https://github.com/guybrush/unhosted-nodejs)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@guybrush](https://github.com/guybrush)/[**nexus-web**](https://github.com/guybrush/nexus-web)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@hns](https://github.com/hns)/[**ringo-xmpp**](https://github.com/hns/ringo-xmpp)",
+              "A RingoJS package for writing server-side XMPP components",
+              ""
+            ],
+            [
+              "3",
+              "[@DominikGuzei](https://github.com/DominikGuzei)/[**nerdcompanion**](https://github.com/DominikGuzei/nerdcompanion)",
+              "Create and Share Rails Guides easily",
+              "[:arrow_upper_right:](http://nerdcompanion.com)"
+            ],
+            [
+              "3",
+              "[@DominikGuzei](https://github.com/DominikGuzei)/[**honeymoon**](https://github.com/DominikGuzei/honeymoon)",
+              "Advanced integration of the Sinon.js Mocking Library for the Jasmine BDD Framework",
+              ""
+            ],
+            [
+              "3",
+              "[@oberhamsi](https://github.com/oberhamsi)/[**y8y2**](https://github.com/oberhamsi/y8y2)",
+              "Real-time strategy game based on the board-game Pandemic.",
+              ""
+            ],
+            [
+              "3",
+              "[@ddprrt](https://github.com/ddprrt)/[**lessig**](https://github.com/ddprrt/lessig)",
+              "Lessig - try Less online",
+              ""
+            ],
+            [
+              "3",
+              "[@oberhamsi](https://github.com/oberhamsi)/[**ringo-tutorial-demob…**](https://github.com/oberhamsi/ringo-tutorial-demoblog)",
+              "demoblog app developed in course of tutorial",
+              "[:arrow_upper_right:](http://ringojs.org/wiki/Tutorial/)"
+            ],
+            [
+              "3",
+              "[@pangratz](https://github.com/pangratz)/[**babel-plugin-htmlbar…**](https://github.com/pangratz/babel-plugin-htmlbars-inline-precompile)",
+              "Babel plugin to replace tagged template strings with precompiled HTMLBars templates",
+              ""
+            ],
+            [
+              "3",
+              "[@oberhamsi](https://github.com/oberhamsi)/[**ringo-signpost**](https://github.com/oberhamsi/ringo-signpost)",
+              "signpost lib packaged for ringo",
+              ""
+            ],
+            [
+              "3",
+              "[@hns](https://github.com/hns)/[**jetson**](https://github.com/hns/jetson)",
+              "A streaming JSON parser for RingoJS based on Jackson",
+              ""
+            ],
+            [
+              "3",
+              "[@guybrush](https://github.com/guybrush)/[**bfydir**](https://github.com/guybrush/bfydir)",
+              "http-server to browserify *.js in a dir",
+              "[:arrow_upper_right:](https://npmjs.org/package/bfydir)"
+            ],
+            [
+              "3",
+              "[@DanielG](https://github.com/DanielG)/[**panscroll**](https://github.com/DanielG/panscroll)",
+              "User script to pan webpages using the middle mouse button.",
+              ""
+            ],
+            [
+              "2",
+              "[@oberhamsi](https://github.com/oberhamsi)/[**ringo-geoip**](https://github.com/oberhamsi/ringo-geoip)",
+              "maxmind geoip package",
+              ""
+            ],
+            [
+              "2",
+              "[@DominikGuzei](https://github.com/DominikGuzei)/[**Handshake-Server**](https://github.com/DominikGuzei/Handshake-Server)",
+              "This is the ruby server of the Handshake project",
+              ""
+            ],
+            [
+              "2",
+              "[@DominikGuzei](https://github.com/DominikGuzei)/[**Handshake-Js-Api**](https://github.com/DominikGuzei/Handshake-Js-Api)",
+              "An evented javascript API for Handshake to facilitate websocket communication between games and control devices",
+              ""
+            ],
+            [
+              "2",
+              "[@hns](https://github.com/hns)/[**wiki-ng**](https://github.com/hns/wiki-ng)",
+              "A minimal wiki demo app for helma-ng",
+              "[:arrow_upper_right:](http://hensotest.appspot.com/)"
+            ],
+            [
+              "2",
+              "[@enyo](https://github.com/enyo)/[**copypastor**](https://github.com/enyo/copypastor)",
+              "Another source code sharer",
+              ""
+            ],
+            [
+              "2",
+              "[@oberhamsi](https://github.com/oberhamsi)/[**creepyforest-gamejs**](https://github.com/oberhamsi/creepyforest-gamejs)",
+              "game sketch audio, gamejs app",
+              "[:arrow_upper_right:](http://gamejs.org/apps/creepyforest/)"
+            ],
+            [
+              "2",
+              "[@enyo](https://github.com/enyo)/[**functionbind**](https://github.com/enyo/functionbind)",
+              "A function.bind() IE polyfill",
+              ""
+            ],
+            [
+              "2",
+              "[@enyo](https://github.com/enyo)/[**nibble**](https://github.com/enyo/nibble)",
+              "CSS framework based on nib",
+              ""
+            ],
+            [
+              "2",
+              "[@guybrush](https://github.com/guybrush)/[**n-semver**](https://github.com/guybrush/n-semver)",
+              "semver for n",
+              "[:arrow_upper_right:](https://npmjs.org/package/n-semver)"
+            ],
+            [
+              "2",
+              "[@guybrush](https://github.com/guybrush)/[**unhosted.js**](https://github.com/guybrush/unhosted.js)",
+              "Client side Unhosted implementation for the browser",
+              "[:arrow_upper_right:](http://unhosted.org)"
+            ],
+            [
+              "2",
+              "[@ddprrt](https://github.com/ddprrt)/[**tooling-workshop**](https://github.com/ddprrt/tooling-workshop)",
+              "samples for my front-end tooling workshop on Grunt, Yeoman and Gulp",
+              ""
+            ],
+            [
+              "2",
+              "[@oberhamsi](https://github.com/oberhamsi)/[**steering**](https://github.com/oberhamsi/steering)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@michael](https://github.com/michael)/[**map**](https://github.com/michael/map)",
+              "Substance Map Node Type",
+              ""
+            ],
+            [
+              "2",
+              "[@oberhamsi](https://github.com/oberhamsi)/[**httpclient-jetty**](https://github.com/oberhamsi/httpclient-jetty)",
+              "A scalable HTTP client that provides both synchronous and asynchronous modes of operation.",
+              ""
+            ],
+            [
+              "2",
+              "[@michael](https://github.com/michael)/[**substance**](https://github.com/michael/substance)",
+              "Copy of Substance for legacy purposes.",
+              ""
+            ],
+            [
+              "2",
+              "[@enyo](https://github.com/enyo)/[**excanvas**](https://github.com/enyo/excanvas)",
+              "Excanvas (modified so it works in IE8)",
+              ""
+            ],
+            [
+              "2",
+              "[@michael](https://github.com/michael)/[**substance-editor**](https://github.com/michael/substance-editor)",
+              "Substance Editor",
+              ""
+            ],
+            [
+              "2",
+              "[@DominikGuzei](https://github.com/DominikGuzei)/[**Stylekit**](https://github.com/DominikGuzei/Stylekit)",
+              "The source code for the StyleKit project written in Google Web Toolkit",
+              "[:arrow_upper_right:](http://wizzart.at/stylekit)"
+            ]
+          ]
+        }
+      }
+    ]
+  }
 }
