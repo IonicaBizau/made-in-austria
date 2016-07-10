@@ -56,7 +56,8 @@
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
           "[CoffeeScript](#coffeescript)",
-          "[Go](#go)"
+          "[Go](#go)",
+          "[Haskell](#haskell)"
         ]
       },
       {
@@ -2374,6 +2375,183 @@
               "[@eaigner](https://github.com/eaigner)/[**govat**](https://github.com/eaigner/govat)",
               "Validate EU VAT numbers in Go",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Haskell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "109",
+              "[@hvr](https://github.com/hvr)/[**cassava**](https://github.com/hvr/cassava)",
+              "Easy CSV parsing",
+              "[:arrow_upper_right:](http://hackage.haskell.org/package/cassava)"
+            ],
+            [
+              "28",
+              "[@hvr](https://github.com/hvr)/[**packunused**](https://github.com/hvr/packunused)",
+              "Tool for detecting redundant Cabal package dependencies",
+              ""
+            ],
+            [
+              "22",
+              "[@ameingast](https://github.com/ameingast)/[**postgresql-simple-mi…**](https://github.com/ameingast/postgresql-simple-migration)",
+              "PostgreSQL Schema Migrations for Haskell",
+              ""
+            ],
+            [
+              "15",
+              "[@hvr](https://github.com/hvr)/[**uhttpc**](https://github.com/hvr/uhttpc)",
+              "`uhttpc` - µHTTP client library",
+              "[:arrow_upper_right:](http://hackage.haskell.org/package/uhttpc)"
+            ],
+            [
+              "12",
+              "[@hvr](https://github.com/hvr)/[**base-noprelude**](https://github.com/hvr/base-noprelude)",
+              "All of `base` without the `Prelude` module",
+              "[:arrow_upper_right:](http://hackage.haskell.org/package/base-noprelude)"
+            ],
+            [
+              "12",
+              "[@nionita](https://github.com/nionita)/[**Barbarossa**](https://github.com/nionita/Barbarossa)",
+              "Chess engine entirely written in Haskell",
+              ""
+            ],
+            [
+              "11",
+              "[@visq](https://github.com/visq)/[**llvm-regexp**](https://github.com/visq/llvm-regexp)",
+              "Demo: Creating Regular Expression Matcher's using the haskell bindings to LLVM",
+              ""
+            ],
+            [
+              "7",
+              "[@ian-ross](https://github.com/ian-ross)/[**hnetcdf**](https://github.com/ian-ross/hnetcdf)",
+              "Haskell NetCDF library",
+              ""
+            ],
+            [
+              "7",
+              "[@ian-ross](https://github.com/ian-ross)/[**ggp**](https://github.com/ian-ross/ggp)",
+              "Generalised game playing stuff",
+              ""
+            ],
+            [
+              "6",
+              "[@hvr](https://github.com/hvr)/[**hackage-cli**](https://github.com/hvr/hackage-cli)",
+              "CLI tool for Hackage",
+              ""
+            ],
+            [
+              "6",
+              "[@hvr](https://github.com/hvr)/[**token-bucket**](https://github.com/hvr/token-bucket)",
+              "Haskell rate limiter library using lazy token bucket algorithm",
+              "[:arrow_upper_right:](https://hackage.haskell.org/package/token-bucket)"
+            ],
+            [
+              "5",
+              "[@ian-ross](https://github.com/ian-ross)/[**arb-fft**](https://github.com/ian-ross/arb-fft)",
+              "Pure Haskell arbitrary length FFT library",
+              ""
+            ],
+            [
+              "5",
+              "[@nionita](https://github.com/nionita)/[**Abulafia**](https://github.com/nionita/Abulafia)",
+              "An UCI chess engine in Haskell",
+              ""
+            ],
+            [
+              "4",
+              "[@hvr](https://github.com/hvr)/[**hackage-matrix-build…**](https://github.com/hvr/hackage-matrix-builder)",
+              "Build Hackage package versions against multiple GHC versions",
+              "[:arrow_upper_right:](http://matrix.hackage.haskell.org)"
+            ],
+            [
+              "4",
+              "[@hvr](https://github.com/hvr)/[**lzma**](https://github.com/hvr/lzma)",
+              "",
+              "[:arrow_upper_right:](https://hackage.haskell.org/package/lzma)"
+            ],
+            [
+              "4",
+              "[@hvr](https://github.com/hvr)/[**Hs2010To201x**](https://github.com/hvr/Hs2010To201x)",
+              "Automatic H2010 to H201x Refactoring",
+              ""
+            ],
+            [
+              "3",
+              "[@andy-morris](https://github.com/andy-morris)/[**Dircolors**](https://github.com/andy-morris/Dircolors)",
+              "Preprocessor for more expressive .dircolors files",
+              ""
+            ],
+            [
+              "3",
+              "[@hvr](https://github.com/hvr)/[**hs-deepseq-th**](https://github.com/hvr/hs-deepseq-th)",
+              "(Deprecated) Template Haskell deriver for NFData instances",
+              "[:arrow_upper_right:](http://hackage.haskell.org/package/deepseq-th)"
+            ],
+            [
+              "3",
+              "[@langthom](https://github.com/langthom)/[**stats**](https://github.com/langthom/stats)",
+              "A small command line tool for statistical computations on csv files completely written in Haskell.",
+              ""
+            ],
+            [
+              "3",
+              "[@epsilonhalbe](https://github.com/epsilonhalbe)/[**accelerate-typelits**](https://github.com/epsilonhalbe/accelerate-typelits)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@ameingast](https://github.com/ameingast)/[**wai-middleware-etag**](https://github.com/ameingast/wai-middleware-etag)",
+              " WAI ETag middleware for static files",
+              ""
+            ],
+            [
+              "2",
+              "[@ameingast](https://github.com/ameingast)/[**brainhuck**](https://github.com/ameingast/brainhuck)",
+              "A Brainfuck interpreter written in Haskell",
+              ""
+            ],
+            [
+              "2",
+              "[@fberg](https://github.com/fberg)/[**xmonad-config**](https://github.com/fberg/xmonad-config)",
+              "my xmonad configuration",
+              ""
+            ],
+            [
+              "2",
+              "[@visq](https://github.com/visq)/[**fragroute**](https://github.com/visq/fragroute)",
+              "Computing and visualizing routes for Fragment Switches in the TTSoC architecture",
+              ""
+            ],
+            [
+              "2",
+              "[@haraldsteinlechner](https://github.com/haraldsteinlechner)/[**research**](https://github.com/haraldsteinlechner/research)",
+              "My Research and Related Work",
+              ""
+            ],
+            [
+              "2",
+              "[@hvr](https://github.com/hvr)/[**ghci-ng**](https://github.com/hvr/ghci-ng)",
+              "GHCi Technology Preview",
+              "[:arrow_upper_right:](http://hackage.haskell.org/package/ghci-ng)"
+            ],
+            [
+              "2",
+              "[@hvr](https://github.com/hvr)/[**cryptohash-md5**](https://github.com/hvr/cryptohash-md5)",
+              "Fast, pure and practical MD5 implementation",
+              "[:arrow_upper_right:](https://hackage.haskell.org/package/cryptohash-md5)"
             ]
           ]
         }
