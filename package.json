@@ -55,7 +55,8 @@
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
-          "[CoffeeScript](#coffeescript)"
+          "[CoffeeScript](#coffeescript)",
+          "[Go](#go)"
         ]
       },
       {
@@ -2255,6 +2256,123 @@
               "2",
               "[@aschuch](https://github.com/aschuch)/[**wine-api**](https://github.com/aschuch/wine-api)",
               "A simple RESTful JSON API server to manage a wine collection.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Go #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "653",
+              "[@eaigner](https://github.com/eaigner)/[**hood**](https://github.com/eaigner/hood)",
+              "Database agnostic ORM for Go",
+              ""
+            ],
+            [
+              "187",
+              "[@eaigner](https://github.com/eaigner)/[**jet**](https://github.com/eaigner/jet)",
+              "Jet is a super-flexible and lightweight SQL interface for Go",
+              ""
+            ],
+            [
+              "99",
+              "[@tux21b](https://github.com/tux21b)/[**ChessBuddy**](https://github.com/tux21b/ChessBuddy)",
+              "Play chess with Go, HTML5, WebSockets and random strangers!",
+              "[:arrow_upper_right:](http://chess.tux21b.org/)"
+            ],
+            [
+              "79",
+              "[@eaigner](https://github.com/eaigner)/[**shield**](https://github.com/eaigner/shield)",
+              "Bayesian text classifier with flexible tokenizers and storage backends for Go",
+              ""
+            ],
+            [
+              "19",
+              "[@eaigner](https://github.com/eaigner)/[**dkim**](https://github.com/eaigner/dkim)",
+              "DKIM signing for Go",
+              ""
+            ],
+            [
+              "14",
+              "[@tux21b](https://github.com/tux21b)/[**goco**](https://github.com/tux21b/goco)",
+              "Some experiments with concurrent data structures in Go.",
+              ""
+            ],
+            [
+              "13",
+              "[@eaigner](https://github.com/eaigner)/[**s3**](https://github.com/eaigner/s3)",
+              "Advanced S3 library for Go",
+              ""
+            ],
+            [
+              "13",
+              "[@eaigner](https://github.com/eaigner)/[**last**](https://github.com/eaigner/last)",
+              "System memory aware LRU cache in Go",
+              ""
+            ],
+            [
+              "11",
+              "[@tux21b](https://github.com/tux21b)/[**imp**](https://github.com/tux21b/imp)",
+              "a modern typesetting system",
+              ""
+            ],
+            [
+              "8",
+              "[@eaigner](https://github.com/eaigner)/[**ladybug**](https://github.com/eaigner/ladybug)",
+              "GitHub Issues fronted for customers",
+              ""
+            ],
+            [
+              "6",
+              "[@eaigner](https://github.com/eaigner)/[**glb**](https://github.com/eaigner/glb)",
+              "Go load balancing library supporting TCP, HTTP/S and Websockets",
+              ""
+            ],
+            [
+              "4",
+              "[@eaigner](https://github.com/eaigner)/[**opendkim**](https://github.com/eaigner/opendkim)",
+              "libopendkim wrapper for Go",
+              ""
+            ],
+            [
+              "3",
+              "[@tux21b](https://github.com/tux21b)/[**gocqldriver**](https://github.com/tux21b/gocqldriver)",
+              "The gocqldriver package provides a \"database/sql\" driver for CQL, the Cassandra query language.",
+              ""
+            ],
+            [
+              "3",
+              "[@eaigner](https://github.com/eaigner)/[**clam**](https://github.com/eaigner/clam)",
+              "clamav bindings for Go",
+              ""
+            ],
+            [
+              "3",
+              "[@eaigner](https://github.com/eaigner)/[**libspf2**](https://github.com/eaigner/libspf2)",
+              "Go wrapper for libspf2 ",
+              ""
+            ],
+            [
+              "2",
+              "[@linecker](https://github.com/linecker)/[**delta**](https://github.com/linecker/delta)",
+              "Highlight timestamp gaps.",
+              ""
+            ],
+            [
+              "2",
+              "[@eaigner](https://github.com/eaigner)/[**govat**](https://github.com/eaigner/govat)",
+              "Validate EU VAT numbers in Go",
               ""
             ]
           ]
