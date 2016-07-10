@@ -53,7 +53,8 @@
           "[HTML](#html)",
           "[C](undefined)",
           "[C++](#c-2)",
-          "[ActionScript](#actionscript)"
+          "[ActionScript](#actionscript)",
+          "[Clojure](#clojure)"
         ]
       },
       {
@@ -2115,6 +2116,99 @@
               "3",
               "[@ripcurlx](https://github.com/ripcurlx)/[**make-it-easy-as3**](https://github.com/ripcurlx/make-it-easy-as3)",
               "A tiny framework that makes it easy to write Test Data Builders in ActionScript 3",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Clojure #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "570",
+              "[@pkamenarsky](https://github.com/pkamenarsky)/[**atea**](https://github.com/pkamenarsky/atea)",
+              "A minimalistic menu bar time tracker for MacOS",
+              ""
+            ],
+            [
+              "51",
+              "[@bpsm](https://github.com/bpsm)/[**edn-java**](https://github.com/bpsm/edn-java)",
+              "a reader for extensible data notation",
+              ""
+            ],
+            [
+              "5",
+              "[@bpsm](https://github.com/bpsm)/[**xombie**](https://github.com/bpsm/xombie)",
+              "Teaching Clojure to love the XOM",
+              ""
+            ],
+            [
+              "4",
+              "[@bendlas](https://github.com/bendlas)/[**clojure.repl**](https://github.com/bendlas/clojure.repl)",
+              "Better dir utility",
+              ""
+            ],
+            [
+              "4",
+              "[@bendlas](https://github.com/bendlas)/[**davstore**](https://github.com/bendlas/davstore)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@bpsm](https://github.com/bpsm)/[**big-ivan**](https://github.com/bpsm/big-ivan)",
+              "Teaching Clojure to validate, parse and construct BIC and IBAN values.",
+              ""
+            ],
+            [
+              "2",
+              "[@pkamenarsky](https://github.com/pkamenarsky)/[**tellme**](https://github.com/pkamenarsky/tellme)",
+              "A minimalist 1on1 web chat",
+              ""
+            ],
+            [
+              "2",
+              "[@bpsm](https://github.com/bpsm)/[**empty-maven-clojure-…**](https://github.com/bpsm/empty-maven-clojure-project)",
+              "A (mostly) empty clojure project based on clojure-maven-plugin",
+              ""
+            ],
+            [
+              "2",
+              "[@andeee](https://github.com/andeee)/[**enclojean**](https://github.com/andeee/enclojean)",
+              "Clojure EnOcean library",
+              ""
+            ],
+            [
+              "2",
+              "[@andeee](https://github.com/andeee)/[**netzwaechterlein**](https://github.com/andeee/netzwaechterlein)",
+              "A simple approach of building a netwatch service in clojurescript",
+              ""
+            ],
+            [
+              "2",
+              "[@bendlas](https://github.com/bendlas)/[**ai-challenge**](https://github.com/bendlas/ai-challenge)",
+              "google ai challenge 2011",
+              ""
+            ],
+            [
+              "2",
+              "[@bendlas](https://github.com/bendlas)/[**newfact**](https://github.com/bendlas/newfact)",
+              "New refactoring tool for clojure",
+              ""
+            ],
+            [
+              "2",
+              "[@bendlas](https://github.com/bendlas)/[**starfleets**](https://github.com/bendlas/starfleets)",
+              "Coding for fun",
               ""
             ]
           ]
