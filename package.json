@@ -46,7 +46,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -738,6 +739,363 @@
               "[@DominikGuzei](https://github.com/DominikGuzei)/[**Stylekit**](https://github.com/DominikGuzei/Stylekit)",
               "The source code for the StyleKit project written in Google Web Toolkit",
               "[:arrow_upper_right:](http://wizzart.at/stylekit)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "10019",
+              "[@PhilJay](https://github.com/PhilJay)/[**MPAndroidChart**](https://github.com/PhilJay/MPAndroidChart)",
+              "A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.",
+              ""
+            ],
+            [
+              "420",
+              "[@manmal](https://github.com/manmal)/[**hn-android**](https://github.com/manmal/hn-android)",
+              "Hacker News client with a focus on reliability and usability.",
+              "[:arrow_upper_right:](https://play.google.com/store/apps/details?id=com.manuelmaly.hn)"
+            ],
+            [
+              "389",
+              "[@Pirngruber](https://github.com/Pirngruber)/[**AndroidIM**](https://github.com/Pirngruber/AndroidIM)",
+              "Android Instant Messaging Application",
+              ""
+            ],
+            [
+              "219",
+              "[@Wrdlbrnft](https://github.com/Wrdlbrnft)/[**Searchable-RecyclerV…**](https://github.com/Wrdlbrnft/Searchable-RecyclerView-Demo)",
+              "An example app using a SearchView to filter items in a RecyclerView while taking full advantage of item animations!",
+              ""
+            ],
+            [
+              "213",
+              "[@PhilJay](https://github.com/PhilJay)/[**CircleDisplay**](https://github.com/PhilJay/CircleDisplay)",
+              "Android View for displaying and selecting values in a circle-shaped View, with animations and touch gestures.",
+              ""
+            ],
+            [
+              "108",
+              "[@PhilJay](https://github.com/PhilJay)/[**ValueBar**](https://github.com/PhilJay/ValueBar)",
+              "A beautiful Android custom View that works similar to a range or seekbar. With animations.",
+              ""
+            ],
+            [
+              "56",
+              "[@Kaljurand](https://github.com/Kaljurand)/[**Inimesed**](https://github.com/Kaljurand/Inimesed)",
+              "An Android app that lets you search your contacts by voice. Internet not required. Based on Pocketsphinx. Uses Estonian acoustic models.",
+              "[:arrow_upper_right:](http://kaljurand.github.io/Inimesed/)"
+            ],
+            [
+              "38",
+              "[@christophstrobl](https://github.com/christophstrobl)/[**spring-data-solr-sho…**](https://github.com/christophstrobl/spring-data-solr-showcase)",
+              "Sample Spring MVC Application demonstrating usage of Spring Data Solr.",
+              ""
+            ],
+            [
+              "38",
+              "[@Kaljurand](https://github.com/Kaljurand)/[**K6nele**](https://github.com/Kaljurand/K6nele)",
+              "An Android app that offers speech-to-text services to other apps",
+              "[:arrow_upper_right:](http://kaljurand.github.io/K6nele/)"
+            ],
+            [
+              "34",
+              "[@diwi](https://github.com/diwi)/[**diewald_fluid**](https://github.com/diwi/diewald_fluid)",
+              "processing library - fluid-simulation",
+              "[:arrow_upper_right:](http://thomasdiewald.com/blog/?p=95)"
+            ],
+            [
+              "31",
+              "[@phax](https://github.com/phax)/[**ph-css**](https://github.com/phax/ph-css)",
+              "Java CSS 2 and CSS 3 parser and builder",
+              ""
+            ],
+            [
+              "29",
+              "[@PhilJay](https://github.com/PhilJay)/[**MPAndroidChart-Realm**](https://github.com/PhilJay/MPAndroidChart-Realm)",
+              "http://realm.io related features of the MPAndroidChart library.",
+              ""
+            ],
+            [
+              "28",
+              "[@phax](https://github.com/phax)/[**jcodemodel**](https://github.com/phax/jcodemodel)",
+              "A fork of the com.sun.codemodel (status 2013/09)",
+              ""
+            ],
+            [
+              "25",
+              "[@diwi](https://github.com/diwi)/[**Space_Partitioning_O…**](https://github.com/diwi/Space_Partitioning_Octree_BVH)",
+              "Octree/BVH: building and traversal (for fast ray-triangle-intersection)",
+              ""
+            ],
+            [
+              "18",
+              "[@diwi](https://github.com/diwi)/[**diewald_shapeFileRea…**](https://github.com/diwi/diewald_shapeFileReader)",
+              "java library for reading ESRI-shapeFiles",
+              "[:arrow_upper_right:](http://thomasdiewald.com/blog/?p=1382)"
+            ],
+            [
+              "16",
+              "[@diwi](https://github.com/diwi)/[**dLibs**](https://github.com/diwi/dLibs)",
+              "processing/java - kinect library",
+              "[:arrow_upper_right:](http://thomasdiewald.com/blog/?p=109)"
+            ],
+            [
+              "14",
+              "[@Kaljurand](https://github.com/Kaljurand)/[**Arvutaja**](https://github.com/Kaljurand/Arvutaja)",
+              "An Android app for voice actions in Estonian and English",
+              "[:arrow_upper_right:](http://kaljurand.github.io/Arvutaja/)"
+            ],
+            [
+              "14",
+              "[@pniederw](https://github.com/pniederw)/[**algs4partI**](https://github.com/pniederw/algs4partI)",
+              "Gradle build template for Coursera's \"Algorithms, Part I\" course",
+              "[:arrow_upper_right:](https://www.coursera.org/course/algs4partI)"
+            ],
+            [
+              "12",
+              "[@phax](https://github.com/phax)/[**ph-ubl**](https://github.com/phax/ph-ubl)",
+              "Java library for reading and writing UBL 2.0 and 2.1 documents",
+              ""
+            ],
+            [
+              "11",
+              "[@phax](https://github.com/phax)/[**as2-lib**](https://github.com/phax/as2-lib)",
+              "Library part of my OpenAS2 fork",
+              ""
+            ],
+            [
+              "10",
+              "[@Wrdlbrnft](https://github.com/Wrdlbrnft)/[**EasyAdapter**](https://github.com/Wrdlbrnft/EasyAdapter)",
+              "A powerful yet lightweight view injection & list creation library to easily and quickly create complex lists in the RecyclerView on Android.",
+              ""
+            ],
+            [
+              "9",
+              "[@derkoe](https://github.com/derkoe)/[**tapestry-jaxws**](https://github.com/derkoe/tapestry-jaxws)",
+              "Tapestry JAX-WS Integration",
+              ""
+            ],
+            [
+              "9",
+              "[@Kaljurand](https://github.com/Kaljurand)/[**Diktofon**](https://github.com/Kaljurand/Diktofon)",
+              "An Android app, a dictaphone with Estonian speech-to-text",
+              "[:arrow_upper_right:](http://diktofon.googlecode.com)"
+            ],
+            [
+              "8",
+              "[@Kaljurand](https://github.com/Kaljurand)/[**speechutils**](https://github.com/Kaljurand/speechutils)",
+              "Android library for speech-to-text and text-to-speech apps",
+              ""
+            ],
+            [
+              "7",
+              "[@diwi](https://github.com/diwi)/[**diewald_PS3**](https://github.com/diwi/diewald_PS3)",
+              "processing/java libary for PS3-Eye camera",
+              "[:arrow_upper_right:](http://thomasdiewald.com/blog/?p=1214)"
+            ],
+            [
+              "6",
+              "[@phax](https://github.com/phax)/[**as2-server**](https://github.com/phax/as2-server)",
+              "The standalone AS2 server component based on as2-lib",
+              ""
+            ],
+            [
+              "6",
+              "[@diwi](https://github.com/diwi)/[**diewald_CV_kit**](https://github.com/diwi/diewald_CV_kit)",
+              "computer vision library for processing",
+              "[:arrow_upper_right:](http://thomasdiewald.com/blog/)"
+            ],
+            [
+              "6",
+              "[@Kaljurand](https://github.com/Kaljurand)/[**net-speech-api**](https://github.com/Kaljurand/net-speech-api)",
+              "Java API for the online speech recognition services provided by phon.ioc.ee",
+              ""
+            ],
+            [
+              "6",
+              "[@Kaljurand](https://github.com/Kaljurand)/[**GF-Java**](https://github.com/Kaljurand/GF-Java)",
+              "Java front-end to a GF service, modeled after the GF Webservice.",
+              ""
+            ],
+            [
+              "5",
+              "[@mikegr](https://github.com/mikegr)/[**jodconverter**](https://github.com/mikegr/jodconverter)",
+              "JODConverter 3.0 branch",
+              "[:arrow_upper_right:](http://code.google.com/p/jodconverter/)"
+            ],
+            [
+              "4",
+              "[@Kaljurand](https://github.com/Kaljurand)/[**EKISpeak**](https://github.com/Kaljurand/EKISpeak)",
+              "Implementation of Android's TextToSpeechService that provides Estonian text-to-speech",
+              ""
+            ],
+            [
+              "4",
+              "[@manmal](https://github.com/manmal)/[**MockingDroid**](https://github.com/manmal/MockingDroid)",
+              "Template app for easy HTML mockups for interactive usability testing.",
+              ""
+            ],
+            [
+              "4",
+              "[@derkoe](https://github.com/derkoe)/[**tapestry-javamagazin**](https://github.com/derkoe/tapestry-javamagazin)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@mikegr](https://github.com/mikegr)/[**snipsnap**](https://github.com/mikegr/snipsnap)",
+              "SnipSnap - The easy Weblog and Wiki Software",
+              "[:arrow_upper_right:](http://www.snipsnap.org)"
+            ],
+            [
+              "4",
+              "[@mikegr](https://github.com/mikegr)/[**android-shuffle**](https://github.com/mikegr/android-shuffle)",
+              "Shuffle, a personal organizational tool, styled around the Getting Things Done methodology",
+              "[:arrow_upper_right:](http://code.google.com/p/android-shuffle/)"
+            ],
+            [
+              "4",
+              "[@phax](https://github.com/phax)/[**ph-javacc-maven-plug…**](https://github.com/phax/ph-javacc-maven-plugin)",
+              "An updated version of the javacc-maven-plugin using JavaCC 6.1.3",
+              ""
+            ],
+            [
+              "4",
+              "[@derkoe](https://github.com/derkoe)/[**multi-tenancy**](https://github.com/derkoe/multi-tenancy)",
+              "JPA/Hibernate - Spring Boot - Multi-tenancy Test Project",
+              ""
+            ],
+            [
+              "4",
+              "[@Wrdlbrnft](https://github.com/Wrdlbrnft)/[**SimplePreferences**](https://github.com/Wrdlbrnft/SimplePreferences)",
+              "The preferences you always wanted on Android",
+              "[:arrow_upper_right:](https://wrdlbrnft.github.io/SimplePreferences/)"
+            ],
+            [
+              "4",
+              "[@pniederw](https://github.com/pniederw)/[**gradle-workshop-gr8c…**](https://github.com/pniederw/gradle-workshop-gr8conf)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@phax](https://github.com/phax)/[**ph-pdf-layout**](https://github.com/phax/ph-pdf-layout)",
+              "Java library for creating fluid page layouts with Apache PDFBox",
+              ""
+            ],
+            [
+              "3",
+              "[@Wrdlbrnft](https://github.com/Wrdlbrnft)/[**FloatingActionButton…**](https://github.com/Wrdlbrnft/FloatingActionButtonMenu)",
+              "Easy and simple way to create an expanding and collapsing menu with FloatingActionButtons",
+              ""
+            ],
+            [
+              "3",
+              "[@Wrdlbrnft](https://github.com/Wrdlbrnft)/[**Helpers**](https://github.com/Wrdlbrnft/Helpers)",
+              "A collection of useful helper and utility classes.",
+              ""
+            ],
+            [
+              "3",
+              "[@phax](https://github.com/phax)/[**ph-commons**](https://github.com/phax/ph-commons)",
+              "Java 1.6+ Library with tons of utility classes required in all projects",
+              ""
+            ],
+            [
+              "3",
+              "[@phax](https://github.com/phax)/[**as2-peppol-client**](https://github.com/phax/as2-peppol-client)",
+              "An example AS2 client to easily send AS2 messages to PEPPOL",
+              ""
+            ],
+            [
+              "3",
+              "[@manmal](https://github.com/manmal)/[**AIC-2010-Group-25**](https://github.com/manmal/AIC-2010-Group-25)",
+              "Advanced Internet Computing at the TU Vienna, 2010 (winter term)",
+              ""
+            ],
+            [
+              "3",
+              "[@christophstrobl](https://github.com/christophstrobl)/[**spring-data-keyvalue…**](https://github.com/christophstrobl/spring-data-keyvalue-redis)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@pniederw](https://github.com/pniederw)/[**ideajettyplugin**](https://github.com/pniederw/ideajettyplugin)",
+              "Jetty Plugin for IDEA 9 Ultimate Edition (fork of http://plugins.intellij.net/plugin/?id=1…",
+              ""
+            ],
+            [
+              "3",
+              "[@phax](https://github.com/phax)/[**peppol-smp-server**](https://github.com/phax/peppol-smp-server)",
+              "A complete PEPPOL SMP server",
+              ""
+            ],
+            [
+              "3",
+              "[@mikegr](https://github.com/mikegr)/[**eFitBooster**](https://github.com/mikegr/eFitBooster)",
+              "Android appliation to track exercises in gym",
+              ""
+            ],
+            [
+              "2",
+              "[@Wrdlbrnft](https://github.com/Wrdlbrnft)/[**GravityBehavior**](https://github.com/Wrdlbrnft/GravityBehavior)",
+              "A CoordinatorLayout Behavior which rotates a View according to gravity.",
+              ""
+            ],
+            [
+              "2",
+              "[@Wrdlbrnft](https://github.com/Wrdlbrnft)/[**SimpleJson**](https://github.com/Wrdlbrnft/SimpleJson)",
+              "The next generation JSON Parser for Android",
+              "[:arrow_upper_right:](https://wrdlbrnft.github.io/SimpleJson/)"
+            ],
+            [
+              "2",
+              "[@diwi](https://github.com/diwi)/[**diewald_barcode**](https://github.com/diwi/diewald_barcode)",
+              "barcode library for processing",
+              "[:arrow_upper_right:](http://thomasdiewald.com/blog/?p=855)"
+            ],
+            [
+              "2",
+              "[@mikegr](https://github.com/mikegr)/[**mmc**](https://github.com/mikegr/mmc)",
+              "MMC Monitor",
+              "[:arrow_upper_right:](https://market.android.com/details?id=at.elfkw.mmc)"
+            ],
+            [
+              "2",
+              "[@mikegr](https://github.com/mikegr)/[**aLogMyNight**](https://github.com/mikegr/aLogMyNight)",
+              "Android appliation to log drinking activities",
+              ""
+            ],
+            [
+              "2",
+              "[@Kaljurand](https://github.com/Kaljurand)/[**Mobile-APE**](https://github.com/Kaljurand/Mobile-APE)",
+              "Android client for the APE webservice",
+              "[:arrow_upper_right:](http://attempto.ifi.uzh.ch/site/docs/ape_webservice.html)"
+            ],
+            [
+              "2",
+              "[@phax](https://github.com/phax)/[**peppol-directory**](https://github.com/phax/peppol-directory)",
+              "The official PEPPOL Directory (former Yellow Pages) software",
+              ""
+            ],
+            [
+              "2",
+              "[@phax](https://github.com/phax)/[**erechnung.gv.at-webs…**](https://github.com/phax/erechnung.gv.at-webservice-client)",
+              "Utility classes and projects for the use with ER>B - the national Austrian Invoicing solution",
+              ""
             ]
           ]
         }
