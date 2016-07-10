@@ -54,7 +54,8 @@
           "[C](undefined)",
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
-          "[Clojure](#clojure)"
+          "[Clojure](#clojure)",
+          "[CoffeeScript](#coffeescript)"
         ]
       },
       {
@@ -2209,6 +2210,51 @@
               "2",
               "[@bendlas](https://github.com/bendlas)/[**starfleets**](https://github.com/bendlas/starfleets)",
               "Coding for fun",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "CoffeeScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "29",
+              "[@aschuch](https://github.com/aschuch)/[**node-nearest-neighbo…**](https://github.com/aschuch/node-nearest-neighbor)",
+              "Nearest neighbor algorithm to find the most similar object within an array of objects.",
+              "[:arrow_upper_right:](https://npmjs.org/package/nearest-neighbor)"
+            ],
+            [
+              "6",
+              "[@emojicode](https://github.com/emojicode)/[**emojiblast**](https://github.com/emojicode/emojiblast)",
+              "Turn Atom into your Emojicode IDE",
+              ""
+            ],
+            [
+              "4",
+              "[@aschuch](https://github.com/aschuch)/[**node-entropy**](https://github.com/aschuch/node-entropy)",
+              "Shannon Entropy calculation to measure the information gain of an array of objects.",
+              "[:arrow_upper_right:](https://npmjs.org/package/shannon-entropy)"
+            ],
+            [
+              "2",
+              "[@segelgruppe](https://github.com/segelgruppe)/[**node-postman**](https://github.com/segelgruppe/node-postman)",
+              "A simple node project to take a POST request (eg from a contact form) and send a mail via the mandrill service.",
+              ""
+            ],
+            [
+              "2",
+              "[@aschuch](https://github.com/aschuch)/[**wine-api**](https://github.com/aschuch/wine-api)",
+              "A simple RESTful JSON API server to manage a wine collection.",
               ""
             ]
           ]
