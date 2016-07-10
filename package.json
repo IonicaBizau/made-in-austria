@@ -63,7 +63,8 @@
           "[Perl](#perl)",
           "[PHP](#php)",
           "[Python](#python)",
-          "[R](#r)"
+          "[R](#r)",
+          "[Ruby](#ruby)"
         ]
       },
       {
@@ -4699,6 +4700,723 @@
               "2",
               "[@zozlak](https://github.com/zozlak)/[**useR2015**](https://github.com/zozlak/useR2015)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Ruby #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "924",
+              "[@gettalong](https://github.com/gettalong)/[**kramdown**](https://github.com/gettalong/kramdown)",
+              "kramdown is a fast, pure Ruby Markdown superset converter, using a strict syntax definition and supporting several common extensions.",
+              "[:arrow_upper_right:](http://kramdown.gettalong.org)"
+            ],
+            [
+              "510",
+              "[@bradphelan](https://github.com/bradphelan)/[**jasminerice**](https://github.com/bradphelan/jasminerice)",
+              "Pain free coffeescript testing under Rails 3.1",
+              ""
+            ],
+            [
+              "257",
+              "[@clemens](https://github.com/clemens)/[**delocalize**](https://github.com/clemens/delocalize)",
+              "Date/time and number parsing for Rails.",
+              "[:arrow_upper_right:](http://www.railway.at)"
+            ],
+            [
+              "244",
+              "[@clemens](https://github.com/clemens)/[**later_dude**](https://github.com/clemens/later_dude)",
+              "LaterDude is a small calendar helper with i18n support.",
+              "[:arrow_upper_right:](http://www.railway.at)"
+            ],
+            [
+              "202",
+              "[@sudara](https://github.com/sudara)/[**sometimes**](https://github.com/sudara/sometimes)",
+              "Little hacks n' helpers to make your code more fun and unpredictable.",
+              ""
+            ],
+            [
+              "173",
+              "[@sudara](https://github.com/sudara)/[**alonetone**](https://github.com/sudara/alonetone)",
+              "The kick ass, open source, non-commercial home for musicians and their music",
+              "[:arrow_upper_right:](http://alonetone.com)"
+            ],
+            [
+              "152",
+              "[@bradphelan](https://github.com/bradphelan)/[**rocket_tag**](https://github.com/bradphelan/rocket_tag)",
+              "modern high performance tagging library for Rails 3.1 +",
+              ""
+            ],
+            [
+              "117",
+              "[@inukshuk](https://github.com/inukshuk)/[**bibtex-ruby**](https://github.com/inukshuk/bibtex-ruby)",
+              "A BibTeX library, parser, and converter for Ruby.",
+              "[:arrow_upper_right:](http://inukshuk.github.com/bibtex-ruby)"
+            ],
+            [
+              "117",
+              "[@MSch](https://github.com/MSch)/[**devise-twitter**](https://github.com/MSch/devise-twitter)",
+              "Easy twitter integration for devise",
+              ""
+            ],
+            [
+              "91",
+              "[@gettalong](https://github.com/gettalong)/[**webgen**](https://github.com/gettalong/webgen)",
+              "webgen is a fast, powerful and extensible static website generator",
+              "[:arrow_upper_right:](http://webgen.gettalong.org)"
+            ],
+            [
+              "81",
+              "[@inukshuk](https://github.com/inukshuk)/[**anystyle-parser**](https://github.com/inukshuk/anystyle-parser)",
+              "fast and smart citation reference parsing",
+              "[:arrow_upper_right:](http://anystyle.io)"
+            ],
+            [
+              "78",
+              "[@clemens](https://github.com/clemens)/[**i18n_demo_app**](https://github.com/clemens/i18n_demo_app)",
+              "Demo application to show Rails' new i18n features",
+              "[:arrow_upper_right:](http://www.railway.at)"
+            ],
+            [
+              "76",
+              "[@iboard](https://github.com/iboard)/[**CBA**](https://github.com/iboard/CBA)",
+              "Community Base Application Template",
+              "[:arrow_upper_right:](http://cba.iboard.cc)"
+            ],
+            [
+              "69",
+              "[@cypher](https://github.com/cypher)/[**git-ruby-syntax-chec…**](https://github.com/cypher/git-ruby-syntax-check)",
+              "Checks the syntax of all changed ruby files is valid before allowing a commit",
+              ""
+            ],
+            [
+              "66",
+              "[@clemens](https://github.com/clemens)/[**localized_dates**](https://github.com/clemens/localized_dates)",
+              "Date and Time localization based on Rails' i18n functionalities",
+              "[:arrow_upper_right:](http://www.railway.at)"
+            ],
+            [
+              "56",
+              "[@snusnu](https://github.com/snusnu)/[**dm-accepts_nested_at…**](https://github.com/snusnu/dm-accepts_nested_attributes)",
+              "A DataMapper plugin that allows nested model assignment like activerecord.",
+              ""
+            ],
+            [
+              "54",
+              "[@inukshuk](https://github.com/inukshuk)/[**citeproc-ruby**](https://github.com/inukshuk/citeproc-ruby)",
+              "A Citation Style Language (CSL) Cite Processor",
+              ""
+            ],
+            [
+              "51",
+              "[@pferdefleisch](https://github.com/pferdefleisch)/[**vagrant-or-chef-solo…**](https://github.com/pferdefleisch/vagrant-or-chef-solo-bootstrap)",
+              "My base cookbook with Vagrantfile and chef-solo single server bootstrap",
+              ""
+            ],
+            [
+              "50",
+              "[@pferdefleisch](https://github.com/pferdefleisch)/[**capistrano-recipes**](https://github.com/pferdefleisch/capistrano-recipes)",
+              "Clone and deploy. Deployment made incredibly simple with capistrano. Recipes for many popular infrastructure gems.",
+              ""
+            ],
+            [
+              "50",
+              "[@bastilian](https://github.com/bastilian)/[**middleman-thumbnaile…**](https://github.com/bastilian/middleman-thumbnailer)",
+              "Thumbnailer for middleman",
+              ""
+            ],
+            [
+              "41",
+              "[@ream88](https://github.com/ream88)/[**hisrc-rails**](https://github.com/ream88/hisrc-rails)",
+              "DEPRECATION NOTICE: This gem is deprecated.",
+              ""
+            ],
+            [
+              "40",
+              "[@snusnu](https://github.com/snusnu)/[**procto**](https://github.com/snusnu/procto)",
+              "Turns your ruby object into a method object",
+              ""
+            ],
+            [
+              "38",
+              "[@cypher](https://github.com/cypher)/[**thor-git**](https://github.com/cypher/thor-git)",
+              "A port of sake-git to Thor. A set of Thor tasks to make developing with Git easier.",
+              ""
+            ],
+            [
+              "33",
+              "[@eregon](https://github.com/eregon)/[**app2engine**](https://github.com/eregon/app2engine)",
+              "Ease the conversion of a Rails 3 app in an Engine",
+              "[:arrow_upper_right:](http://github.com/eregon/app2engine)"
+            ],
+            [
+              "32",
+              "[@snusnu](https://github.com/snusnu)/[**substation**](https://github.com/snusnu/substation)",
+              "Implement application boundary interfaces with a chain of responsibility",
+              ""
+            ],
+            [
+              "29",
+              "[@ream88](https://github.com/ream88)/[**simple_postmark**](https://github.com/ream88/simple_postmark)",
+              "A simple way to use Postmark™ with your Rails app.",
+              ""
+            ],
+            [
+              "29",
+              "[@MSch](https://github.com/MSch)/[**activemodel-form**](https://github.com/MSch/activemodel-form)",
+              "",
+              ""
+            ],
+            [
+              "27",
+              "[@eregon](https://github.com/eregon)/[**path**](https://github.com/eregon/path)",
+              "a Path manipulation library",
+              "[:arrow_upper_right:](https://github.com/eregon/path)"
+            ],
+            [
+              "25",
+              "[@snusnu](https://github.com/snusnu)/[**datamapper_on_rails3**](https://github.com/snusnu/datamapper_on_rails3)",
+              "Very simple sample application that shows how to get datamapper up and running with rails master branch aka rails3. Have a look at the README for more information on how to setup your rails3 app for datamapper.",
+              ""
+            ],
+            [
+              "24",
+              "[@MSch](https://github.com/MSch)/[**handlebars-ruby**](https://github.com/MSch/handlebars-ruby)",
+              "handlebars.js port to ruby",
+              "[:arrow_upper_right:](http://yehudakatz.com/2010/09/09/announcing-handlebars-js/)"
+            ],
+            [
+              "23",
+              "[@snusnu](https://github.com/snusnu)/[**rails-templates**](https://github.com/snusnu/rails-templates)",
+              "A collection of rails3 application templates for datamapper.",
+              ""
+            ],
+            [
+              "22",
+              "[@Raven24](https://github.com/Raven24)/[**diaspora-federation**](https://github.com/Raven24/diaspora-federation)",
+              "",
+              ""
+            ],
+            [
+              "22",
+              "[@clemenshelm](https://github.com/clemenshelm)/[**metybur**](https://github.com/clemenshelm/metybur)",
+              "DDP client for Ruby to connect to Meteor apps.",
+              ""
+            ],
+            [
+              "22",
+              "[@pferdefleisch](https://github.com/pferdefleisch)/[**guard-sprockets**](https://github.com/pferdefleisch/guard-sprockets)",
+              "guard helper for sprockets javascript packaging library",
+              "[:arrow_upper_right:](https://github.com/pferdefleisch/guard-sprockets)"
+            ],
+            [
+              "18",
+              "[@snusnu](https://github.com/snusnu)/[**lupo**](https://github.com/snusnu/lupo)",
+              "Includes Enumerable and provides an #each method for ruby objects",
+              ""
+            ],
+            [
+              "18",
+              "[@bastilian](https://github.com/bastilian)/[**atom-packages.direct…**](https://github.com/bastilian/atom-packages.directory)",
+              "Source Code to build http://atom-packages.directory",
+              ""
+            ],
+            [
+              "18",
+              "[@bastilian](https://github.com/bastilian)/[**wunderlist-cli**](https://github.com/bastilian/wunderlist-cli)",
+              "A Wunderlist command-line interface",
+              ""
+            ],
+            [
+              "17",
+              "[@eregon](https://github.com/eregon)/[**suby**](https://github.com/eregon/suby)",
+              "Subtitles' downloader",
+              "[:arrow_upper_right:](https://github.com/eregon/suby)"
+            ],
+            [
+              "16",
+              "[@inukshuk](https://github.com/inukshuk)/[**edtf-ruby**](https://github.com/inukshuk/edtf-ruby)",
+              "Extended Date/Time Format implementation for Ruby",
+              ""
+            ],
+            [
+              "15",
+              "[@ream88](https://github.com/ream88)/[**mongoid-versioning**](https://github.com/ream88/mongoid-versioning)",
+              "Versioned Documents for Mongoid 4+",
+              ""
+            ],
+            [
+              "15",
+              "[@snusnu](https://github.com/snusnu)/[**alfred**](https://github.com/snusnu/alfred)",
+              "Alfred the friendly IRC butler, gladly powering alfred.datamapper.org",
+              "[:arrow_upper_right:](http://alfred.datamapper.org)"
+            ],
+            [
+              "13",
+              "[@kathaka](https://github.com/kathaka)/[**fairytale**](https://github.com/kathaka/fairytale)",
+              "Wir schreiben Geschichte(n).",
+              ""
+            ],
+            [
+              "13",
+              "[@iboard](https://github.com/iboard)/[**userbase**](https://github.com/iboard/userbase)",
+              "A Rails3 starting point application with User, Posting, Episode, Comments. Uses: devise, cancan, omniauth, cucumber",
+              "[:arrow_upper_right:](http://iboard.cc/)"
+            ],
+            [
+              "13",
+              "[@snusnu](https://github.com/snusnu)/[**dm-is-commentable**](https://github.com/snusnu/dm-is-commentable)",
+              "A DataMapper plugin that adds the ability to comment any model.",
+              ""
+            ],
+            [
+              "12",
+              "[@snusnu](https://github.com/snusnu)/[**dm-reflection**](https://github.com/snusnu/dm-reflection)",
+              "DataMapper plugin that will allow to generate models source files from existing relational databases.",
+              ""
+            ],
+            [
+              "11",
+              "[@inukshuk](https://github.com/inukshuk)/[**latex-decode**](https://github.com/inukshuk/latex-decode)",
+              "Converts LaTeX to Unicode",
+              ""
+            ],
+            [
+              "11",
+              "[@snusnu](https://github.com/snusnu)/[**dm-is-localizable**](https://github.com/snusnu/dm-is-localizable)",
+              "Datamapper support for localization of content in multilanguage applications",
+              "[:arrow_upper_right:](http://quasipartikel.at)"
+            ],
+            [
+              "10",
+              "[@snusnu](https://github.com/snusnu)/[**dm-is-protectable**](https://github.com/snusnu/dm-is-protectable)",
+              "A DataMapper plugin that allows to protect property assignment.",
+              "[:arrow_upper_right:](http://sick.snusnu.info)"
+            ],
+            [
+              "10",
+              "[@snusnu](https://github.com/snusnu)/[**trxl**](https://github.com/snusnu/trxl)",
+              "A specced little language written with ruby and treetop. It has lambdas, recursion, conditionals, arrays, hashes, ranges, strings, arithmetics and some other stuff. It even has a small code import facility. ",
+              "[:arrow_upper_right:](http://sick.snusnu.info)"
+            ],
+            [
+              "9",
+              "[@snusnu](https://github.com/snusnu)/[**dm-is-rateable**](https://github.com/snusnu/dm-is-rateable)",
+              "Add the possibility to rate any DataMapper::Resource by remixing a Rating module",
+              ""
+            ],
+            [
+              "9",
+              "[@inukshuk](https://github.com/inukshuk)/[**csl-ruby**](https://github.com/inukshuk/csl-ruby)",
+              "Citation Style Language (CSL) API for Ruby",
+              ""
+            ],
+            [
+              "9",
+              "[@sudara](https://github.com/sudara)/[**soundmanager2-rails**](https://github.com/sudara/soundmanager2-rails)",
+              "Easy way to get soundmanager2 as a dep in your rails app",
+              ""
+            ],
+            [
+              "9",
+              "[@pferdefleisch](https://github.com/pferdefleisch)/[**guard-uglify**](https://github.com/pferdefleisch/guard-uglify)",
+              "A guard library for uglifyjs javascript file compression (through the uglifier gem)",
+              ""
+            ],
+            [
+              "9",
+              "[@oneup](https://github.com/oneup)/[**Puit**](https://github.com/oneup/Puit)",
+              "starting cute-wars from scratch (ruby based game)",
+              "[:arrow_upper_right:](http://72dpiarmy.com/wiki/index.php/Puit)"
+            ],
+            [
+              "8",
+              "[@ream88](https://github.com/ream88)/[**mongoid-tags**](https://github.com/ream88/mongoid-tags)",
+              "Simple Mongoid tagging system with boolean search",
+              ""
+            ],
+            [
+              "8",
+              "[@snusnu](https://github.com/snusnu)/[**dm-snippets**](https://github.com/snusnu/dm-snippets)",
+              "Collection of otherwise totally unrelated datamapper code snippets - Want commit access? Just send me a message",
+              ""
+            ],
+            [
+              "8",
+              "[@ream88](https://github.com/ream88)/[**mini_calendar**](https://github.com/ream88/mini_calendar)",
+              "CSS only calendar",
+              "[:arrow_upper_right:](https://forrst.com/posts/Mini_Calendar_HTML_updated-PjB)"
+            ],
+            [
+              "8",
+              "[@cypher](https://github.com/cypher)/[**utilitybelt**](https://github.com/cypher/utilitybelt)",
+              "IRB extenions for Power Users",
+              "[:arrow_upper_right:](http://utilitybelt.rubyforge.org/)"
+            ],
+            [
+              "7",
+              "[@snusnu](https://github.com/snusnu)/[**cookie**](https://github.com/snusnu/cookie)",
+              "An HTTP Cookie implemented in ruby",
+              ""
+            ],
+            [
+              "7",
+              "[@clemenshelm](https://github.com/clemenshelm)/[**haml-i18n**](https://github.com/clemenshelm/haml-i18n)",
+              "Easy translation of haml templates.",
+              ""
+            ],
+            [
+              "7",
+              "[@cypher](https://github.com/cypher)/[**long_url**](https://github.com/cypher/long_url)",
+              "A small wrapper for the Long URL Please API",
+              "[:arrow_upper_right:](http://www.longurlplease.com/)"
+            ],
+            [
+              "7",
+              "[@iboard](https://github.com/iboard)/[**wat**](https://github.com/iboard/wat)",
+              "Web Application Template",
+              ""
+            ],
+            [
+              "7",
+              "[@snusnu](https://github.com/snusnu)/[**testor**](https://github.com/snusnu/testor)",
+              "Automated testing of multiple gems against multiple rubies using bundler, rvm and git(hub)",
+              ""
+            ],
+            [
+              "7",
+              "[@snusnu](https://github.com/snusnu)/[**dm-is-self_referenti…**](https://github.com/snusnu/dm-is-self_referential)",
+              "A datamapper plugin that allows declarative specification of self referential m:m relationships.",
+              ""
+            ],
+            [
+              "7",
+              "[@gettalong](https://github.com/gettalong)/[**cmdparse**](https://github.com/gettalong/cmdparse)",
+              "Advanced command line parser supporting nested commands",
+              "[:arrow_upper_right:](http://cmdparse.gettalong.org)"
+            ],
+            [
+              "7",
+              "[@sudara](https://github.com/sudara)/[**pretty-text**](https://github.com/sudara/pretty-text)",
+              "Rails plugin that does one thing: gives you a view helper to generate \"pretty text\" via rmagick",
+              "[:arrow_upper_right:](http://sudara.modernthings.net)"
+            ],
+            [
+              "6",
+              "[@snusnu](https://github.com/snusnu)/[**subway**](https://github.com/snusnu/subway)",
+              "substation on rack",
+              ""
+            ],
+            [
+              "6",
+              "[@oneup](https://github.com/oneup)/[**ruby-console**](https://github.com/oneup/ruby-console)",
+              "console color fun",
+              ""
+            ],
+            [
+              "6",
+              "[@sudara](https://github.com/sudara)/[**lepilo-rails**](https://github.com/sudara/lepilo-rails)",
+              "Lepilo CMS for rails",
+              "[:arrow_upper_right:](http://lepilo.at/)"
+            ],
+            [
+              "6",
+              "[@bradphelan](https://github.com/bradphelan)/[**Active-Illusion**](https://github.com/bradphelan/Active-Illusion)",
+              "Create read only models backed by queries not by tables",
+              "[:arrow_upper_right:](https://github.com/bradphelan/Active-Illusion)"
+            ],
+            [
+              "6",
+              "[@clemens](https://github.com/clemens)/[**weebo**](https://github.com/clemens/weebo)",
+              "Define Google Analytics Content Experiments with ease.",
+              ""
+            ],
+            [
+              "6",
+              "[@snusnu](https://github.com/snusnu)/[**dm-is-remixable**](https://github.com/snusnu/dm-is-remixable)",
+              "A rewrite of dm-is-remixable that tries to feel more dm'ish and adds desired behavior",
+              ""
+            ],
+            [
+              "6",
+              "[@snusnu](https://github.com/snusnu)/[**merb_resource_contro…**](https://github.com/snusnu/merb_resource_controller)",
+              "A Merb plugin that provides the default RESTful CRUD actions for resource controllers.",
+              "[:arrow_upper_right:](http://sick.snusnu.info)"
+            ],
+            [
+              "6",
+              "[@snusnu](https://github.com/snusnu)/[**ramom**](https://github.com/snusnu/ramom)",
+              "relational algebra meets object mapping",
+              ""
+            ],
+            [
+              "5",
+              "[@MSch](https://github.com/MSch)/[**threadlocal**](https://github.com/MSch/threadlocal)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@pferdefleisch](https://github.com/pferdefleisch)/[**ansible_utils**](https://github.com/pferdefleisch/ansible_utils)",
+              "Playbook and role scaffold generator for ansible http://www.ansibleworks.com/docs/",
+              ""
+            ],
+            [
+              "5",
+              "[@iboard](https://github.com/iboard)/[**iboard**](https://github.com/iboard/iboard)",
+              "RAILS CMS and Blog Engine, see the WIKI or http://iboard.cc",
+              "[:arrow_upper_right:](http://iboard.cc)"
+            ],
+            [
+              "5",
+              "[@ream88](https://github.com/ream88)/[**mongoid-paranoia**](https://github.com/ream88/mongoid-paranoia)",
+              "Paranoid Documents for Mongoid 4+",
+              ""
+            ],
+            [
+              "5",
+              "[@snusnu](https://github.com/snusnu)/[**testor-server**](https://github.com/snusnu/testor-server)",
+              "Distributed CI for DataMapper",
+              "[:arrow_upper_right:](http://testor.nextsnu.snusnu.info/status)"
+            ],
+            [
+              "5",
+              "[@clemens](https://github.com/clemens)/[**steam-demo**](https://github.com/clemens/steam-demo)",
+              "Demo application for steam (http://github.com/svenfuchs/steam)",
+              ""
+            ],
+            [
+              "5",
+              "[@andreashappe](https://github.com/andreashappe)/[**spree-mpay24**](https://github.com/andreashappe/spree-mpay24)",
+              "Spree integration for Mpay24.at payment gateway",
+              ""
+            ],
+            [
+              "5",
+              "[@snusnu](https://github.com/snusnu)/[**meterdata-core**](https://github.com/snusnu/meterdata-core)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@cypher](https://github.com/cypher)/[**ruby-select**](https://github.com/cypher/ruby-select)",
+              "TODO",
+              ""
+            ],
+            [
+              "4",
+              "[@eregon](https://github.com/eregon)/[**Classes**](https://github.com/eregon/Classes)",
+              "Some Ruby classes which might be useful",
+              ""
+            ],
+            [
+              "4",
+              "[@bastilian](https://github.com/bastilian)/[**fluxapi**](https://github.com/bastilian/fluxapi)",
+              "Ruby Fluxiom API wrapper",
+              ""
+            ],
+            [
+              "4",
+              "[@snusnu](https://github.com/snusnu)/[**mom**](https://github.com/snusnu/mom)",
+              "morpher object mapper",
+              ""
+            ],
+            [
+              "4",
+              "[@ream88](https://github.com/ream88)/[**mongoid-undo**](https://github.com/ream88/mongoid-undo)",
+              "Super simple undo for your Mongoid app",
+              ""
+            ],
+            [
+              "4",
+              "[@iboard](https://github.com/iboard)/[**progress_upload_fiel…**](https://github.com/iboard/progress_upload_field)",
+              "A Gem for HTML5 upload progress bars with Rails 3.1 and jQuery",
+              ""
+            ],
+            [
+              "3",
+              "[@bjelline](https://github.com/bjelline)/[**web-engineering-text…**](https://github.com/bjelline/web-engineering-textbook)",
+              "Backend for http://web-engineering.github.com",
+              ""
+            ],
+            [
+              "3",
+              "[@clemens](https://github.com/clemens)/[**i18n-cascading-backe…**](https://github.com/clemens/i18n-cascading-backend)",
+              "Cascading Backend for Ruby/Rails i18n",
+              "[:arrow_upper_right:](http://www.railway.at)"
+            ],
+            [
+              "3",
+              "[@snusnu](https://github.com/snusnu)/[**axiom-schema**](https://github.com/snusnu/axiom-schema)",
+              "A logical schema of axiom relations that can span multiple databases",
+              ""
+            ],
+            [
+              "3",
+              "[@cypher](https://github.com/cypher)/[**codebutler**](https://github.com/cypher/codebutler)",
+              "Easily serve your highlighted codefiles from a local webserver",
+              "[:arrow_upper_right:](http://rubyforge.org/projects/codebutler/)"
+            ],
+            [
+              "3",
+              "[@inukshuk](https://github.com/inukshuk)/[**csl-styles**](https://github.com/inukshuk/csl-styles)",
+              "CSL styles and locales as a RubyGem",
+              ""
+            ],
+            [
+              "3",
+              "[@bradphelan](https://github.com/bradphelan)/[**wkhtmltopdf-osx**](https://github.com/bradphelan/wkhtmltopdf-osx)",
+              "Gem for using wkhtmltopdf on osx.",
+              ""
+            ],
+            [
+              "3",
+              "[@snusnu](https://github.com/snusnu)/[**dm-is-cloneable**](https://github.com/snusnu/dm-is-cloneable)",
+              "A DataMapper plugin that adds the possibility to clone models with different persistable sets of attributes",
+              "[:arrow_upper_right:](http://sick.snusnu.info)"
+            ],
+            [
+              "3",
+              "[@iboard](https://github.com/iboard)/[**yarb**](https://github.com/iboard/yarb)",
+              "Yet Another Ruby Bootstrap (A Starter-application using PStore instead of a database, HAML, bootstrap-sass, rspec, jasmine, simplecov, guard, and yard)",
+              "[:arrow_upper_right:](http://yarb.iboard.cc)"
+            ],
+            [
+              "3",
+              "[@iboard](https://github.com/iboard)/[**ib3client**](https://github.com/iboard/ib3client)",
+              "Application Framework using a remote iBoard-Instance (ib3) to access the user-model (RESTFUL)",
+              ""
+            ],
+            [
+              "3",
+              "[@pferdefleisch](https://github.com/pferdefleisch)/[**vagrant-drb-demo**](https://github.com/pferdefleisch/vagrant-drb-demo)",
+              "Gems and config for my vagrant DRuby demo at vienna.rb July 18 2013",
+              ""
+            ],
+            [
+              "3",
+              "[@snusnu](https://github.com/snusnu)/[**orc**](https://github.com/snusnu/orc)",
+              "indicate computation result success along with status and context",
+              ""
+            ],
+            [
+              "2",
+              "[@ream88](https://github.com/ream88)/[**eco-rails**](https://github.com/ream88/eco-rails)",
+              "Use your Eco templates from your Rails app.",
+              "[:arrow_upper_right:](http://mariouher.com/eco-rails)"
+            ],
+            [
+              "2",
+              "[@clemens](https://github.com/clemens)/[**ilohv**](https://github.com/clemens/ilohv)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@iboard](https://github.com/iboard)/[**webdir**](https://github.com/iboard/webdir)",
+              "A simple \"Webdir\" Webinterface for RAILS. See the README file",
+              "[:arrow_upper_right:](http://iboard.cc/webdir)"
+            ],
+            [
+              "2",
+              "[@iboard](https://github.com/iboard)/[**jsort**](https://github.com/iboard/jsort)",
+              "A Gem for painless jquery sorts",
+              ""
+            ],
+            [
+              "2",
+              "[@bradphelan](https://github.com/bradphelan)/[**openkitchen**](https://github.com/bradphelan/openkitchen)",
+              "rails backend for gobbq",
+              ""
+            ],
+            [
+              "2",
+              "[@clemens](https://github.com/clemens)/[**clint**](https://github.com/clemens/clint)",
+              "Triggers for Rails",
+              "[:arrow_upper_right:](http://www.railway.at)"
+            ],
+            [
+              "2",
+              "[@cypher](https://github.com/cypher)/[**djgoatboy-podcast**](https://github.com/cypher/djgoatboy-podcast)",
+              "A podcast feed generator for Giles Bowkett's @djgoatboy account",
+              "[:arrow_upper_right:](http://nuclearsquid.com/djgoatboy.rss)"
+            ],
+            [
+              "2",
+              "[@clemenshelm](https://github.com/clemenshelm)/[**tuwien_logon**](https://github.com/clemenshelm/tuwien_logon)",
+              "Ruby authetication gem for the Vienna University of Technology",
+              ""
+            ],
+            [
+              "2",
+              "[@Raven24](https://github.com/Raven24)/[**dvdDB**](https://github.com/Raven24/dvdDB)",
+              "small shared media library - a playground for Backbone.js and Handlebars templates with Ruby on Rails",
+              ""
+            ],
+            [
+              "2",
+              "[@Raven24](https://github.com/Raven24)/[**qtruby-ocr**](https://github.com/Raven24/qtruby-ocr)",
+              "small gui written in ruby/qt that uses tesseract to ocr images",
+              ""
+            ],
+            [
+              "2",
+              "[@andreashappe](https://github.com/andreashappe)/[**smtp_add_tls_support**](https://github.com/andreashappe/smtp_add_tls_support)",
+              "Adds SMTP tls support to ActionMailer, this is useful for legacy installations",
+              ""
+            ],
+            [
+              "2",
+              "[@ream88](https://github.com/ream88)/[**simple_tumblr**](https://github.com/ream88/simple_tumblr)",
+              "A simple way to use the Tumblr™ API in Ruby.",
+              ""
+            ],
+            [
+              "2",
+              "[@oneup](https://github.com/oneup)/[**planet**](https://github.com/oneup/planet)",
+              "javascript_desktop + kiwibucket",
+              ""
+            ],
+            [
+              "2",
+              "[@ream88](https://github.com/ream88)/[**simple_menu**](https://github.com/ream88/simple_menu)",
+              "Super simple and bulletproof menus for your rails app.",
+              ""
+            ],
+            [
+              "2",
+              "[@bjelline](https://github.com/bjelline)/[**bottle**](https://github.com/bjelline/bottle)",
+              "Implementation von '99 Bottles of Beer on the Wall' in ruby on Rails",
+              "[:arrow_upper_right:](http://bottles.heroku.com/)"
+            ],
+            [
+              "2",
+              "[@ream88](https://github.com/ream88)/[**mongoid-encrypted_st…**](https://github.com/ream88/mongoid-encrypted_string)",
+              "Encrypted string type for Mongoid.",
+              "[:arrow_upper_right:](mariouher.com/mongoid-encrypted_string)"
+            ],
+            [
+              "2",
+              "[@sh0w](https://github.com/sh0w)/[**serendipity**](https://github.com/sh0w/serendipity)",
+              "take photos and blend them with other people's photos whoaah",
+              ""
+            ],
+            [
+              "2",
+              "[@sudara](https://github.com/sudara)/[**fitter_happier**](https://github.com/sudara/fitter_happier)",
+              "A Rails Plugin for adding a simple health check to your application",
               ""
             ]
           ]
