@@ -48,7 +48,8 @@
         "ul": [
           "[JavaScript](#javascript)",
           "[Java](#java)",
-          "[C#](#c-1)"
+          "[C#](#c-1)",
+          "[CSS](#css)"
         ]
       },
       {
@@ -1394,6 +1395,33 @@
               "[@bojanbjelic](https://github.com/bojanbjelic)/[**xsltr**](https://github.com/bojanbjelic/xsltr)",
               "Performs xsl transformations. msxls replacement",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "CSS #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "37",
+              "[@SamBrishes](https://github.com/SamBrishes)/[**kenney-icon-font**](https://github.com/SamBrishes/kenney-icon-font)",
+              "The Kenney Icon Font is specifically designed for your (browser) game or other gaming related website / project!",
+              "[:arrow_upper_right:](http://sambrishes.github.io/kenney-icon-font/)"
+            ],
+            [
+              "2",
+              "[@nicokratky](https://github.com/nicokratky)/[**nicokratky.me**](https://github.com/nicokratky/nicokratky.me)",
+              "well... just the code of my website",
+              "[:arrow_upper_right:](http://nicokratky.me)"
             ]
           ]
         }
