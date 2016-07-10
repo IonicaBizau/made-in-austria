@@ -61,7 +61,8 @@
           "[Lua](#lua)",
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
-          "[PHP](#php)"
+          "[PHP](#php)",
+          "[Python](#python)"
         ]
       },
       {
@@ -3924,6 +3925,741 @@
               "[@CHH](https://github.com/CHH)/[**weblife1auth**](https://github.com/CHH/weblife1auth)",
               "[UNMAINTAINED] Weblife1Auth provides an adapter for Zend_Auth for log on to the Weblife1 API",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Python #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "1278",
+              "[@mitsuhiko](https://github.com/mitsuhiko)/[**flask-sqlalchemy**](https://github.com/mitsuhiko/flask-sqlalchemy)",
+              "Adds SQLAlchemy support to Flask",
+              "[:arrow_upper_right:](http://flask-sqlalchemy.pocoo.org/)"
+            ],
+            [
+              "957",
+              "[@jrief](https://github.com/jrief)/[**django-angular**](https://github.com/jrief/django-angular)",
+              "Let AngularJS play well with Django",
+              "[:arrow_upper_right:](http://django-angular.awesto.com/)"
+            ],
+            [
+              "737",
+              "[@mitsuhiko](https://github.com/mitsuhiko)/[**pipsi**](https://github.com/mitsuhiko/pipsi)",
+              "pip script installer",
+              ""
+            ],
+            [
+              "502",
+              "[@jrief](https://github.com/jrief)/[**django-websocket-red…**](https://github.com/jrief/django-websocket-redis)",
+              "Websockets for Django applications using Redis as message queue",
+              "[:arrow_upper_right:](http://django-websocket-redis.awesto.com/)"
+            ],
+            [
+              "418",
+              "[@mitsuhiko](https://github.com/mitsuhiko)/[**flask-oauth**](https://github.com/mitsuhiko/flask-oauth)",
+              "OAuth Support for Flask",
+              "[:arrow_upper_right:](http://flask.pocoo.org/)"
+            ],
+            [
+              "412",
+              "[@mitsuhiko](https://github.com/mitsuhiko)/[**python-modernize**](https://github.com/mitsuhiko/python-modernize)",
+              "Modernizes Python code for eventual Python 3 migration. Build on top of 2to3",
+              ""
+            ],
+            [
+              "385",
+              "[@mitsuhiko](https://github.com/mitsuhiko)/[**pluginbase**](https://github.com/mitsuhiko/pluginbase)",
+              "A simple but flexible plugin system for Python.",
+              ""
+            ],
+            [
+              "360",
+              "[@metachris](https://github.com/metachris)/[**pdfx**](https://github.com/metachris/pdfx)",
+              "Extract references (pdf, url, doi, arxiv) and metadata from a PDF; optionally download all referenced PDFs",
+              "[:arrow_upper_right:](http://www.metachris.com/pdfx)"
+            ],
+            [
+              "273",
+              "[@mitsuhiko](https://github.com/mitsuhiko)/[**classy**](https://github.com/mitsuhiko/classy)",
+              "A classy JavaScript class library",
+              "[:arrow_upper_right:](http://classy.pocoo.org/)"
+            ],
+            [
+              "260",
+              "[@mitsuhiko](https://github.com/mitsuhiko)/[**platter**](https://github.com/mitsuhiko/platter)",
+              "A useful helper for wheel deployments.",
+              ""
+            ],
+            [
+              "257",
+              "[@thp](https://github.com/thp)/[**urlwatch**](https://github.com/thp/urlwatch)",
+              "A tool for monitoring webpages for updates",
+              "[:arrow_upper_right:](http://thp.io/2008/urlwatch/)"
+            ],
+            [
+              "223",
+              "[@mitsuhiko](https://github.com/mitsuhiko)/[**unp**](https://github.com/mitsuhiko/unp)",
+              "Unpacks things.",
+              ""
+            ],
+            [
+              "197",
+              "[@mitsuhiko](https://github.com/mitsuhiko)/[**rstblog**](https://github.com/mitsuhiko/rstblog)",
+              "NIH site generator",
+              ""
+            ],
+            [
+              "195",
+              "[@mitsuhiko](https://github.com/mitsuhiko)/[**flask-pastebin**](https://github.com/mitsuhiko/flask-pastebin)",
+              "Example pastebin with websockets, sqlalchemy, facebook connect and a bunch of other buzzwords",
+              ""
+            ],
+            [
+              "191",
+              "[@mitsuhiko](https://github.com/mitsuhiko)/[**python-geoip**](https://github.com/mitsuhiko/python-geoip)",
+              "GeoIP database access for Python under a BSD license.",
+              ""
+            ],
+            [
+              "181",
+              "[@mitsuhiko](https://github.com/mitsuhiko)/[**python-regex-scanner**](https://github.com/mitsuhiko/python-regex-scanner)",
+              "Demo of how to use the underlying SRE engine to build a regex scanner",
+              "[:arrow_upper_right:](http://lucumr.pocoo.org/2015/11/18/pythons-hidden-re-gems/)"
+            ],
+            [
+              "178",
+              "[@mitsuhiko](https://github.com/mitsuhiko)/[**python-unio**](https://github.com/mitsuhiko/python-unio)",
+              "Unbreaks Unicode on Python",
+              ""
+            ],
+            [
+              "151",
+              "[@mitsuhiko](https://github.com/mitsuhiko)/[**flask-openid**](https://github.com/mitsuhiko/flask-openid)",
+              "Flask-OpenID adds openid support to flask applications",
+              ""
+            ],
+            [
+              "140",
+              "[@stefankoegl](https://github.com/stefankoegl)/[**python-json-patch**](https://github.com/stefankoegl/python-json-patch)",
+              "Applying JSON Patches in Python 2.6+ and 3.x",
+              "[:arrow_upper_right:](https://python-json-patch.readthedocs.org/)"
+            ],
+            [
+              "123",
+              "[@mitsuhiko](https://github.com/mitsuhiko)/[**python-pbkdf2**](https://github.com/mitsuhiko/python-pbkdf2)",
+              "Because pbkdf2 is awesome and bcrypt is overkill",
+              ""
+            ],
+            [
+              "113",
+              "[@mitsuhiko](https://github.com/mitsuhiko)/[**jinja2-htmlcompress**](https://github.com/mitsuhiko/jinja2-htmlcompress)",
+              "Compresses HTML in Jinja2 streams",
+              ""
+            ],
+            [
+              "87",
+              "[@billdawson](https://github.com/billdawson)/[**ti_coffee_plugin**](https://github.com/billdawson/ti_coffee_plugin)",
+              "(ABANDONED) A build-time CoffeeScript compiler plugin for Titanium build scripts",
+              ""
+            ],
+            [
+              "82",
+              "[@jrief](https://github.com/jrief)/[**djangocms-cascade**](https://github.com/jrief/djangocms-cascade)",
+              "Collection of plugins for DjangoCMS to work on a subset of the DOM inside placeholders",
+              ""
+            ],
+            [
+              "77",
+              "[@mitsuhiko](https://github.com/mitsuhiko)/[**jsonjinja**](https://github.com/mitsuhiko/jsonjinja)",
+              "A Jinja2 inspired templating language for rendering JSON data on the server and client.",
+              ""
+            ],
+            [
+              "70",
+              "[@mitsuhiko](https://github.com/mitsuhiko)/[**unicode-nazi**](https://github.com/mitsuhiko/unicode-nazi)",
+              "Annoying helper module that finds unicode/bytestring comparisions",
+              ""
+            ],
+            [
+              "68",
+              "[@mitsuhiko](https://github.com/mitsuhiko)/[**bf3-aggregator**](https://github.com/mitsuhiko/bf3-aggregator)",
+              "Sourcecode for the bf3 developer news aggregator.",
+              "[:arrow_upper_right:](http://bf3.immersedcode.org/)"
+            ],
+            [
+              "68",
+              "[@untitaker](https://github.com/untitaker)/[**python-atomicwrites**](https://github.com/untitaker/python-atomicwrites)",
+              "Powerful Python library for atomic file writes.",
+              "[:arrow_upper_right:](https://python-atomicwrites.readthedocs.org/)"
+            ],
+            [
+              "67",
+              "[@stefankoegl](https://github.com/stefankoegl)/[**kdtree**](https://github.com/stefankoegl/kdtree)",
+              "A Python implementation of a kd-tree",
+              ""
+            ],
+            [
+              "64",
+              "[@mitsuhiko](https://github.com/mitsuhiko)/[**phpserialize**](https://github.com/mitsuhiko/phpserialize)",
+              "A PHP serializer implementation for Python",
+              "[:arrow_upper_right:](http://pypi.python.org/pypi/phpserialize)"
+            ],
+            [
+              "63",
+              "[@mitsuhiko](https://github.com/mitsuhiko)/[**solace**](https://github.com/mitsuhiko/solace)",
+              "Non-plurk fork of Solace. Might eventually be merged back. Solace is a Stackoverflow inspired platform.",
+              ""
+            ],
+            [
+              "62",
+              "[@mitsuhiko](https://github.com/mitsuhiko)/[**templatetk**](https://github.com/mitsuhiko/templatetk)",
+              "My GSOC Project for Template Compilation",
+              ""
+            ],
+            [
+              "60",
+              "[@sebix](https://github.com/sebix)/[**python-textile**](https://github.com/sebix/python-textile)",
+              "Please see textile/python-textile at",
+              "[:arrow_upper_right:](https://github.com/textile/python-textile/)"
+            ],
+            [
+              "56",
+              "[@mitsuhiko](https://github.com/mitsuhiko)/[**badideas**](https://github.com/mitsuhiko/badideas)",
+              "Examples from my europython talk",
+              ""
+            ],
+            [
+              "50",
+              "[@mitsuhiko](https://github.com/mitsuhiko)/[**speaklater**](https://github.com/mitsuhiko/speaklater)",
+              "Lazy strings for Python",
+              "[:arrow_upper_right:](http://pypi.python.org/pypi/speaklater)"
+            ],
+            [
+              "45",
+              "[@mitsuhiko](https://github.com/mitsuhiko)/[**probe**](https://github.com/mitsuhiko/probe)",
+              "Probes remote websites",
+              ""
+            ],
+            [
+              "44",
+              "[@mitsuhiko](https://github.com/mitsuhiko)/[**fungiform**](https://github.com/mitsuhiko/fungiform)",
+              "A form library for Python based on Zine's form system.",
+              ""
+            ],
+            [
+              "43",
+              "[@stefankoegl](https://github.com/stefankoegl)/[**python-json-pointer**](https://github.com/stefankoegl/python-json-pointer)",
+              "Resolve JSON Pointers in Python",
+              "[:arrow_upper_right:](https://python-json-pointer.readthedocs.org/)"
+            ],
+            [
+              "42",
+              "[@mitsuhiko](https://github.com/mitsuhiko)/[**flask-feedback**](https://github.com/mitsuhiko/flask-feedback)",
+              "",
+              "[:arrow_upper_right:](http://feedback.flask.pocoo.org/)"
+            ],
+            [
+              "41",
+              "[@mitsuhiko](https://github.com/mitsuhiko)/[**sqlalchemy-django-qu…**](https://github.com/mitsuhiko/sqlalchemy-django-query)",
+              "A Django like query object for SQLAlchemy",
+              ""
+            ],
+            [
+              "38",
+              "[@nzjrs](https://github.com/nzjrs)/[**facebook-notify**](https://github.com/nzjrs/facebook-notify)",
+              "Facebook notification monitor for GNOME",
+              "[:arrow_upper_right:](http://nzjrs.github.com/facebook-notify/)"
+            ],
+            [
+              "37",
+              "[@jrief](https://github.com/jrief)/[**django-sass-processo…**](https://github.com/jrief/django-sass-processor)",
+              "SASS processor to compile SCSS files into *.css, while rendering, or offline.",
+              ""
+            ],
+            [
+              "31",
+              "[@mitsuhiko](https://github.com/mitsuhiko)/[**zine**](https://github.com/mitsuhiko/zine)",
+              "A blog",
+              "[:arrow_upper_right:](http://zine.pocoo.org/)"
+            ],
+            [
+              "31",
+              "[@pebbie](https://github.com/pebbie)/[**pebahasa**](https://github.com/pebbie/pebahasa)",
+              "natural language processing web service hosted in google appengine using bottlepy",
+              "[:arrow_upper_right:](http://nlp.pebbie.net)"
+            ],
+            [
+              "31",
+              "[@originell](https://github.com/originell)/[**pycloudapp**](https://github.com/originell/pycloudapp)",
+              "A wrapper around CloudApp API",
+              ""
+            ],
+            [
+              "30",
+              "[@metachris](https://github.com/metachris)/[**py2app**](https://github.com/metachris/py2app)",
+              "Fork of the original py2app from https://bitbucket.org/ronaldoussoren/py2…",
+              "[:arrow_upper_right:](https://pythonhosted.org/py2app/)"
+            ],
+            [
+              "30",
+              "[@mitsuhiko](https://github.com/mitsuhiko)/[**cli-tools**](https://github.com/mitsuhiko/cli-tools)",
+              "Command line utilities",
+              ""
+            ],
+            [
+              "24",
+              "[@originell](https://github.com/originell)/[**sorl-watermark**](https://github.com/originell/sorl-watermark)",
+              "Image based watermarks for sorl-thumbnail",
+              ""
+            ],
+            [
+              "22",
+              "[@nzjrs](https://github.com/nzjrs)/[**gnome-tweak-tool**](https://github.com/nzjrs/gnome-tweak-tool)",
+              "GNOME Tweak Tool - Customize GNOME3 and GNOME Shell Settings ",
+              "[:arrow_upper_right:](http://live.gnome.org/GnomeTweakTool)"
+            ],
+            [
+              "22",
+              "[@metachris](https://github.com/metachris)/[**raspberrypi-utils**](https://github.com/metachris/raspberrypi-utils)",
+              "Collection of utilities for the Raspberry Pi",
+              ""
+            ],
+            [
+              "20",
+              "[@mfussenegger](https://github.com/mfussenegger)/[**tornado-template**](https://github.com/mfussenegger/tornado-template)",
+              "Tornado template with Jinja2 and Sqlalchemy",
+              ""
+            ],
+            [
+              "20",
+              "[@billdawson](https://github.com/billdawson)/[**tidevtools**](https://github.com/billdawson/tidevtools)",
+              "(ABANDONED) Small tools useful for those of us pounding away on titanium everyday",
+              ""
+            ],
+            [
+              "16",
+              "[@nzjrs](https://github.com/nzjrs)/[**wasp**](https://github.com/nzjrs/wasp)",
+              "Wasp UAV",
+              "[:arrow_upper_right:](http://waspuav.org/)"
+            ],
+            [
+              "15",
+              "[@metachris](https://github.com/metachris)/[**feedmailer**](https://github.com/metachris/feedmailer)",
+              "RSS to Email Webapp (Python, AppEngine)",
+              "[:arrow_upper_right:](http://www.feedserf.com)"
+            ],
+            [
+              "15",
+              "[@jensens](https://github.com/jensens)/[**pyramid-gae-tutorial**](https://github.com/jensens/pyramid-gae-tutorial)",
+              "Pyramid on Google’s App Engine (the easy way using buildout)",
+              ""
+            ],
+            [
+              "14",
+              "[@natano](https://github.com/natano)/[**python-git-orm**](https://github.com/natano/python-git-orm)",
+              "Git Object-Relational Mapper",
+              ""
+            ],
+            [
+              "12",
+              "[@natano](https://github.com/natano)/[**presentation**](https://github.com/natano/presentation)",
+              "DouF00 - fat free presentations",
+              ""
+            ],
+            [
+              "10",
+              "[@originell](https://github.com/originell)/[**django-kittenstorage**](https://github.com/originell/django-kittenstorage)",
+              "Django Storage Engine which returns images of kittens if files could not be found.",
+              ""
+            ],
+            [
+              "10",
+              "[@untitaker](https://github.com/untitaker)/[**python-webuntis**](https://github.com/untitaker/python-webuntis)",
+              "UNMAINTAINED -- Bindings for WebUntis",
+              "[:arrow_upper_right:](http://python-webuntis.readthedocs.org/en/latest/)"
+            ],
+            [
+              "9",
+              "[@metachris](https://github.com/metachris)/[**django-boilerplate**](https://github.com/metachris/django-boilerplate)",
+              "Django Boilerplate",
+              ""
+            ],
+            [
+              "8",
+              "[@untitaker](https://github.com/untitaker)/[**watdo**](https://github.com/untitaker/watdo)",
+              "ABANDONED -- A task-manager for the command line.",
+              ""
+            ],
+            [
+              "8",
+              "[@thp](https://github.com/thp)/[**minidb**](https://github.com/thp/minidb)",
+              "A simple SQLite3 store for Python objects",
+              "[:arrow_upper_right:](http://thp.io/2010/minidb/)"
+            ],
+            [
+              "7",
+              "[@fabiant7t](https://github.com/fabiant7t)/[**django-oida**](https://github.com/fabiant7t/django-oida)",
+              "A set of tools to execute parts of your code only if a specified application is installed.",
+              "[:arrow_upper_right:](http://github.com/fabiant7t/django-oida)"
+            ],
+            [
+              "7",
+              "[@jrief](https://github.com/jrief)/[**django-nodebow**](https://github.com/jrief/django-nodebow)",
+              "Just initialized",
+              ""
+            ],
+            [
+              "7",
+              "[@natano](https://github.com/natano)/[**python-entropy**](https://github.com/natano/python-entropy)",
+              "Fast entropy calculation",
+              ""
+            ],
+            [
+              "6",
+              "[@metachris](https://github.com/metachris)/[**raspberrypi-django**](https://github.com/metachris/raspberrypi-django)",
+              "Raspberry Pi Django Setup",
+              ""
+            ],
+            [
+              "6",
+              "[@metachris](https://github.com/metachris)/[**wpscanner**](https://github.com/metachris/wpscanner)",
+              "Wordpress security scanner written in Python",
+              ""
+            ],
+            [
+              "6",
+              "[@originell](https://github.com/originell)/[**django-tagging-autoc…**](https://github.com/originell/django-tagging-autocomplete)",
+              "A fork of django-tagging-autocomplete by Ludwik Trammer",
+              ""
+            ],
+            [
+              "6",
+              "[@nzjrs](https://github.com/nzjrs)/[**pygtk**](https://github.com/nzjrs/pygtk)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@originell](https://github.com/originell)/[**simpleblog**](https://github.com/originell/simpleblog)",
+              "a simple blog engine created with django",
+              ""
+            ],
+            [
+              "4",
+              "[@natano](https://github.com/natano)/[**tiget**](https://github.com/natano/tiget)",
+              "The Git Ticket Tracker",
+              ""
+            ],
+            [
+              "4",
+              "[@metachris](https://github.com/metachris)/[**python-posix-daemon**](https://github.com/metachris/python-posix-daemon)",
+              "Simple and efficient Python daemon framework based on Sander Marechal's code.",
+              "[:arrow_upper_right:](http://www.jejik.com/articles/2007/02/a_simple_unix_linux_daemon_in_python/)"
+            ],
+            [
+              "4",
+              "[@dobe](https://github.com/dobe)/[**ep2014tutorial**](https://github.com/dobe/ep2014tutorial)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@omnidan](https://github.com/omnidan)/[**iForceBot**](https://github.com/omnidan/iForceBot)",
+              "[DISCONTINUED] If you want to work on it, feel free to fork and start working. An IRC bot with much power and easy-to-code modules! Daniel0108 only maintains the framework and *his* plugins. The plugin downloader and repository are not official, nor maintained by him.",
+              ""
+            ],
+            [
+              "4",
+              "[@metachris](https://github.com/metachris)/[**binary-serializer**](https://github.com/metachris/binary-serializer)",
+              "Minimalistic binary serialization protocol (a la protocol buffers) with Python and Java implementations.",
+              ""
+            ],
+            [
+              "4",
+              "[@mfussenegger](https://github.com/mfussenegger)/[**pypsh**](https://github.com/mfussenegger/pypsh)",
+              "remotely execute commands in parallel with ssh on hostnames that match a regex.",
+              ""
+            ],
+            [
+              "4",
+              "[@nzjrs](https://github.com/nzjrs)/[**libserial**](https://github.com/nzjrs/libserial)",
+              "Utility Python module for working with serial ports",
+              ""
+            ],
+            [
+              "4",
+              "[@jrief](https://github.com/jrief)/[**django-shop-productv…**](https://github.com/jrief/django-shop-productvariations)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@originell](https://github.com/originell)/[**sysinfo**](https://github.com/originell/sysinfo)",
+              "hardware and software information collector for linux",
+              ""
+            ],
+            [
+              "4",
+              "[@jrief](https://github.com/jrief)/[**django-shop-ipayment**](https://github.com/jrief/django-shop-ipayment)",
+              "A django-SHOP payment backend for IPayment (https://ipayment.de/)",
+              ""
+            ],
+            [
+              "4",
+              "[@jensens](https://github.com/jensens)/[**obnam**](https://github.com/jensens/obnam)",
+              "Fork of http://liw.fi/obnam/ in order to make it pypi releaseable.",
+              ""
+            ],
+            [
+              "4",
+              "[@nzjrs](https://github.com/nzjrs)/[**ienabler**](https://github.com/nzjrs/ienabler)",
+              "Internet Enabler Clone for University of Canterbury",
+              "[:arrow_upper_right:](http://nzjrs.github.com/ienabler )"
+            ],
+            [
+              "4",
+              "[@nzjrs](https://github.com/nzjrs)/[**pygobject**](https://github.com/nzjrs/pygobject)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@originell](https://github.com/originell)/[**supppl**](https://github.com/originell/supppl)",
+              "supplierplan.at parse library",
+              ""
+            ],
+            [
+              "3",
+              "[@d2m](https://github.com/d2m)/[**plonetheme.zopeorg**](https://github.com/d2m/plonetheme.zopeorg)",
+              "plonetheme.zopeorg is the theme for the 2011 www.zope.org relaunch.",
+              ""
+            ],
+            [
+              "3",
+              "[@untitaker](https://github.com/untitaker)/[**uberspace-deploy-scr…**](https://github.com/untitaker/uberspace-deploy-scripts)",
+              "Some deployment scripts for uberspace.de",
+              ""
+            ],
+            [
+              "3",
+              "[@thet](https://github.com/thet)/[**buildout-base**](https://github.com/thet/buildout-base)",
+              "buildout base config files",
+              ""
+            ],
+            [
+              "3",
+              "[@omnidan](https://github.com/omnidan)/[**python-latex**](https://github.com/omnidan/python-latex)",
+              ":mortar_board: Python modules for LaTeX parsing and management",
+              ""
+            ],
+            [
+              "3",
+              "[@nzjrs](https://github.com/nzjrs)/[**gnome-development-mo…**](https://github.com/nzjrs/gnome-development-monitor)",
+              "Collects activity statistics from GNOME SVN commits",
+              ""
+            ],
+            [
+              "3",
+              "[@originell](https://github.com/originell)/[**thrift**](https://github.com/originell/thrift)",
+              "Fork of thrift 0.8.0 with unicode patches applied",
+              ""
+            ],
+            [
+              "3",
+              "[@nzjrs](https://github.com/nzjrs)/[**conduit**](https://github.com/nzjrs/conduit)",
+              "Mirror of GNOME Conduit git repo",
+              "[:arrow_upper_right:](http://git.gnome.org/cgit/conduit)"
+            ],
+            [
+              "2",
+              "[@thet](https://github.com/thet)/[**elevate.cynin.fixes**](https://github.com/thet/elevate.cynin.fixes)",
+              "Cynin fixes for elevate",
+              ""
+            ],
+            [
+              "2",
+              "[@jensens](https://github.com/jensens)/[**newpermission**](https://github.com/jensens/newpermission)",
+              "Example Code showing how to create new role and permission in Plone and related Problems.",
+              ""
+            ],
+            [
+              "2",
+              "[@jensens](https://github.com/jensens)/[**collective.recipe.ap…**](https://github.com/jensens/collective.recipe.appengine)",
+              "Appengine Recipe for Buildout",
+              ""
+            ],
+            [
+              "2",
+              "[@jrief](https://github.com/jrief)/[**django-shop-wishlist…**](https://github.com/jrief/django-shop-wishlists)",
+              "Wishlists plugin for django-shop",
+              ""
+            ],
+            [
+              "2",
+              "[@mfussenegger](https://github.com/mfussenegger)/[**docker-tornado-crate…**](https://github.com/mfussenegger/docker-tornado-crate-demo)",
+              "Simple demo showing how to run a python web app inside a docker container with a linked crate container",
+              ""
+            ],
+            [
+              "2",
+              "[@jrief](https://github.com/jrief)/[**cmsplugin-text-wrapp…**](https://github.com/jrief/cmsplugin-text-wrapper)",
+              "A cms plugin which extends and replaces the text plugin shipped with django-cms with simple wrapper functionalities.",
+              ""
+            ],
+            [
+              "2",
+              "[@pebbie](https://github.com/pebbie)/[**pylibsvm**](https://github.com/pebbie/pylibsvm)",
+              "python port of libSVM (v3.10) which is converted from Java version and refactored",
+              ""
+            ],
+            [
+              "2",
+              "[@pebbie](https://github.com/pebbie)/[**autotome**](https://github.com/pebbie/autotome)",
+              "AutoToMe: RDF Conversion Mapping Language from multiple data source (CSV, JSON, Web API) and a reference implementation in Linked Widget",
+              ""
+            ],
+            [
+              "2",
+              "[@d2m](https://github.com/d2m)/[**plonetheme.iaem**](https://github.com/d2m/plonetheme.iaem)",
+              "plone4 theme for the iaem.at website",
+              ""
+            ],
+            [
+              "2",
+              "[@d2m](https://github.com/d2m)/[**iaem.buildout**](https://github.com/d2m/iaem.buildout)",
+              "buildout for the new iaem website",
+              ""
+            ],
+            [
+              "2",
+              "[@originell](https://github.com/originell)/[**django-dogstorage**](https://github.com/originell/django-dogstorage)",
+              "Django Storage Engine which returns images of dogs if files could not be found. ",
+              ""
+            ],
+            [
+              "2",
+              "[@untitaker](https://github.com/untitaker)/[**pytest-subtesthack**](https://github.com/untitaker/pytest-subtesthack)",
+              "A hack to explicitly set up and tear down fixtures.",
+              ""
+            ],
+            [
+              "2",
+              "[@metachris](https://github.com/metachris)/[**photoblog**](https://github.com/metachris/photoblog)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@jrief](https://github.com/jrief)/[**djangocms-bootstrap3**](https://github.com/jrief/djangocms-bootstrap3)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@metachris](https://github.com/metachris)/[**androidsnippets.com**](https://github.com/metachris/androidsnippets.com)",
+              "Rewrite of androidsnippets.com for relaunch",
+              "[:arrow_upper_right:](http://androidsnippets.com)"
+            ],
+            [
+              "2",
+              "[@thet](https://github.com/thet)/[**helsinki.buildout.pr…**](https://github.com/thet/helsinki.buildout.program)",
+              "helsinki buildout for django programmverwaltung",
+              "[:arrow_upper_right:](http://helsinki.at/)"
+            ],
+            [
+              "2",
+              "[@stefankoegl](https://github.com/stefankoegl)/[**python-couchdb-examp…**](https://github.com/stefankoegl/python-couchdb-examples)",
+              "Example application for Python-CouchDB trainings",
+              ""
+            ],
+            [
+              "2",
+              "[@thet](https://github.com/thet)/[**programmatic.transmo…**](https://github.com/thet/programmatic.transmogrifier)",
+              "Transmogrifier Pipeline and Blueprint for programmatic",
+              ""
+            ],
+            [
+              "2",
+              "[@stefankoegl](https://github.com/stefankoegl)/[**django-registration-…**](https://github.com/stefankoegl/django-registration-couchdb)",
+              "A fork of django-registration based on django-couchdb-utils",
+              ""
+            ],
+            [
+              "2",
+              "[@thet](https://github.com/thet)/[**thet.helsinki.projec…**](https://github.com/thet/thet.helsinki.project)",
+              "project content type for radio helsinki",
+              "[:arrow_upper_right:](http://helsinki.at/)"
+            ],
+            [
+              "2",
+              "[@metachris](https://github.com/metachris)/[**GridGrouper**](https://github.com/metachris/GridGrouper)",
+              "Group similar members close to each other in a grid",
+              ""
+            ],
+            [
+              "2",
+              "[@natano](https://github.com/natano)/[**passta**](https://github.com/natano/passta)",
+              "simple password manager",
+              ""
+            ],
+            [
+              "2",
+              "[@haraldschilly](https://github.com/haraldschilly)/[**panobbgo**](https://github.com/haraldschilly/panobbgo)",
+              "solver for parallel noisy global black-box optimization -- this is currently only work in progress",
+              ""
+            ],
+            [
+              "2",
+              "[@originell](https://github.com/originell)/[**reftral**](https://github.com/originell/reftral)",
+              "API for translating via translate.reference.com",
+              ""
+            ],
+            [
+              "2",
+              "[@nzjrs](https://github.com/nzjrs)/[**python-gtk-windows-d…**](https://github.com/nzjrs/python-gtk-windows-deploy)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@chassing](https://github.com/chassing)/[**SublimeText2-Setting…**](https://github.com/chassing/SublimeText2-Settings)",
+              "My SublimeText2 User Settings",
+              ""
+            ],
+            [
+              "2",
+              "[@chassing](https://github.com/chassing)/[**drawupme**](https://github.com/chassing/drawupme)",
+              "drawup.me",
+              ""
+            ],
+            [
+              "2",
+              "[@nzjrs](https://github.com/nzjrs)/[**electools**](https://github.com/nzjrs/electools)",
+              "Old PyGTK Utils - Serial Port Terminal, Abandoned Arduino IDE, etc.",
+              ""
+            ],
+            [
+              "2",
+              "[@pprett](https://github.com/pprett)/[**sketchd**](https://github.com/pprett/sketchd)",
+              "Twisted server to sketch data streams",
+              ""
+            ],
+            [
+              "2",
+              "[@thet](https://github.com/thet)/[**elevate.cynin.buildo…**](https://github.com/thet/elevate.cynin.buildout)",
+              "elevate cynin buildout",
+              "[:arrow_upper_right:](http://elevate.at/)"
             ]
           ]
         }
