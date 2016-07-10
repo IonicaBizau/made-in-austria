@@ -67,7 +67,8 @@
           "[Ruby](#ruby)",
           "[Scala](#scala)",
           "[Shell](#shell)",
-          "[Swift](#swift)"
+          "[Swift](#swift)",
+          "[TeX](#tex)"
         ]
       },
       {
@@ -5603,6 +5604,27 @@
               "2",
               "[@raphaelseher](https://github.com/raphaelseher)/[**HorizontalCalendarVi…**](https://github.com/raphaelseher/HorizontalCalendarView)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "TeX #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "7",
+              "[@hannestschofenig](https://github.com/hannestschofenig)/[**tschofenig-ids**](https://github.com/hannestschofenig/tschofenig-ids)",
+              "Repository for Internet Drafts",
               ""
             ]
           ]
