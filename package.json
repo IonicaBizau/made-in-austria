@@ -57,7 +57,8 @@
           "[Clojure](#clojure)",
           "[CoffeeScript](#coffeescript)",
           "[Go](#go)",
-          "[Haskell](#haskell)"
+          "[Haskell](#haskell)",
+          "[Lua](#lua)"
         ]
       },
       {
@@ -2552,6 +2553,63 @@
               "[@hvr](https://github.com/hvr)/[**cryptohash-md5**](https://github.com/hvr/cryptohash-md5)",
               "Fast, pure and practical MD5 implementation",
               "[:arrow_upper_right:](https://hackage.haskell.org/package/cryptohash-md5)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Lua #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "48",
+              "[@Andrettin](https://github.com/Andrettin)/[**Wyrmsun**](https://github.com/Andrettin/Wyrmsun)",
+              "Strategy game based on history, mythology and fiction",
+              "[:arrow_upper_right:](http://andrettin.github.io/)"
+            ],
+            [
+              "11",
+              "[@luastoned](https://github.com/luastoned)/[**lua-essentials**](https://github.com/luastoned/lua-essentials)",
+              "A module that extends Lua with a few essential functions",
+              ""
+            ],
+            [
+              "8",
+              "[@silverwind](https://github.com/silverwind)/[**idTip**](https://github.com/silverwind/idTip)",
+              "WoW Addon: Adds IDs to the ingame tooltips.",
+              ""
+            ],
+            [
+              "6",
+              "[@luastoned](https://github.com/luastoned)/[**turbo-telegram**](https://github.com/luastoned/turbo-telegram)",
+              "Telegram (https://telegram.org/) bot wrapper for Turbo.lua (http://turbolua.org)",
+              ""
+            ],
+            [
+              "5",
+              "[@Ferdi265](https://github.com/Ferdi265)/[**ComputerCraft-EventL…**](https://github.com/Ferdi265/ComputerCraft-EventLoop)",
+              "An implementation of an Event Loop for ComputerCraft that provides an interface similar to Node.js's EventEmitter and setTimeout()",
+              ""
+            ],
+            [
+              "4",
+              "[@seclorum](https://github.com/seclorum)/[**metalab_sessions**](https://github.com/seclorum/metalab_sessions)",
+              "General purpose repository for the Metalab MOAI hacking sessions ..",
+              ""
+            ],
+            [
+              "3",
+              "[@seasick](https://github.com/seasick)/[**Zombie-Zero**](https://github.com/seasick/Zombie-Zero)",
+              "Small zombie game made with/for Löve2d",
+              "[:arrow_upper_right:](http://www.seasickgames.com)"
             ]
           ]
         }
