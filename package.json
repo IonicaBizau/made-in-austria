@@ -49,7 +49,8 @@
           "[JavaScript](#javascript)",
           "[Java](#java)",
           "[C#](#c-1)",
-          "[CSS](#css)"
+          "[CSS](#css)",
+          "[HTML](#html)"
         ]
       },
       {
@@ -1422,6 +1423,27 @@
               "[@nicokratky](https://github.com/nicokratky)/[**nicokratky.me**](https://github.com/nicokratky/nicokratky.me)",
               "well... just the code of my website",
               "[:arrow_upper_right:](http://nicokratky.me)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "HTML #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@moser96](https://github.com/moser96)/[**responsive-svg-circl…**](https://github.com/moser96/responsive-svg-circlebar)",
+              "An easy to use Circlebar script by using jQuery",
+              ""
             ]
           ]
         }
