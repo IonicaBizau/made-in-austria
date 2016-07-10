@@ -51,7 +51,8 @@
           "[C#](#c-1)",
           "[CSS](#css)",
           "[HTML](#html)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -1783,6 +1784,285 @@
               "2",
               "[@wash](https://github.com/wash)/[**sissiz**](https://github.com/wash/sissiz)",
               "SISSIz: Dinucleotide controlled random alignments and RNA gene prediction",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "117",
+              "[@pmj](https://github.com/pmj)/[**virtio-net-osx**](https://github.com/pmj/virtio-net-osx)",
+              "Mac OS X driver for a (virtualised) \"virtio\" network device. Virtio network devices are supported by KVM and VirtualBox. Fastest virtual network device for VirtualBox OSX Guests, allows kernel debugging of guests via gdb.",
+              ""
+            ],
+            [
+              "95",
+              "[@thotro](https://github.com/thotro)/[**arduino-dw1000**](https://github.com/thotro/arduino-dw1000)",
+              "A library that offers functionality to use Decawave's DW1000 chips/modules with Arduino.",
+              ""
+            ],
+            [
+              "48",
+              "[@manhofer](https://github.com/manhofer)/[**Line3Dpp**](https://github.com/manhofer/Line3Dpp)",
+              "Line3D++ - Multi-View Stereo using Line Segments",
+              ""
+            ],
+            [
+              "35",
+              "[@agrippa1994](https://github.com/agrippa1994)/[**DX9-Overlay-API**](https://github.com/agrippa1994/DX9-Overlay-API)",
+              "Overlay API for DirectX 9 based games.",
+              ""
+            ],
+            [
+              "27",
+              "[@motonacciu](https://github.com/motonacciu)/[**meta-serialization**](https://github.com/motonacciu/meta-serialization)",
+              "A C++ header-only support for serialization of generic objects to be used when the type is known a-priori.",
+              ""
+            ],
+            [
+              "27",
+              "[@pmj](https://github.com/pmj)/[**objective-vcdiff**](https://github.com/pmj/objective-vcdiff)",
+              "Objective-C wrapper for Google's open-vcdiff binary diff library",
+              ""
+            ],
+            [
+              "23",
+              "[@strahlex](https://github.com/strahlex)/[**QtQuickVcp**](https://github.com/strahlex/QtQuickVcp)",
+              "A Virtual Control Panel for Machinekit written in Qt/C++/QML",
+              ""
+            ],
+            [
+              "23",
+              "[@taketwo](https://github.com/taketwo)/[**rs**](https://github.com/taketwo/rs)",
+              "PCL grabber for RealSense devices",
+              ""
+            ],
+            [
+              "19",
+              "[@bedahr](https://github.com/bedahr)/[**Spencer**](https://github.com/bedahr/Spencer)",
+              "Speech Based Recommender System (Recomment 2.0)",
+              ""
+            ],
+            [
+              "16",
+              "[@motonacciu](https://github.com/motonacciu)/[**clomp**](https://github.com/motonacciu/clomp)",
+              "OpenMP support for LLVM/Clang compiler ",
+              ""
+            ],
+            [
+              "15",
+              "[@mlang](https://github.com/mlang)/[**bmc**](https://github.com/mlang/bmc)",
+              "Braille Music Compiler",
+              "[:arrow_upper_right:](http://bmc.blind.guru/)"
+            ],
+            [
+              "13",
+              "[@manhofer](https://github.com/manhofer)/[**Line3D**](https://github.com/manhofer/Line3D)",
+              "Line3D - Multi-View Stereo using Line Segments",
+              ""
+            ],
+            [
+              "11",
+              "[@SimonWallner](https://github.com/SimonWallner)/[**kocmoc-demo**](https://github.com/SimonWallner/kocmoc-demo)",
+              "a neat little demo using openGL 3",
+              ""
+            ],
+            [
+              "10",
+              "[@clemenscorny](https://github.com/clemenscorny)/[**brisk**](https://github.com/clemenscorny/brisk)",
+              "Binary Robust Invariant Scalable Keypoints",
+              ""
+            ],
+            [
+              "10",
+              "[@motonacciu](https://github.com/motonacciu)/[**mpp**](https://github.com/motonacciu/mpp)",
+              "Advanced MPI bindings for C++",
+              ""
+            ],
+            [
+              "10",
+              "[@almightycouch](https://github.com/almightycouch)/[**meteorpp**](https://github.com/almightycouch/meteorpp)",
+              "Meteor DDP & Minimongo implementation in C++.",
+              ""
+            ],
+            [
+              "8",
+              "[@taketwo](https://github.com/taketwo)/[**pmd_camboard_nano**](https://github.com/taketwo/pmd_camboard_nano)",
+              "ROS driver for PMD[vision]® CamBoard nano depth sensor",
+              ""
+            ],
+            [
+              "8",
+              "[@taketwo](https://github.com/taketwo)/[**ds**](https://github.com/taketwo/ds)",
+              "PCL grabber for DepthSense devices",
+              ""
+            ],
+            [
+              "7",
+              "[@pmj](https://github.com/pmj)/[**QemuUSBTablet-OSX**](https://github.com/pmj/QemuUSBTablet-OSX)",
+              "Driver allowing OS X guests to use the \"usb-tablet\" absolute pointing device in Qemu.",
+              ""
+            ],
+            [
+              "6",
+              "[@patrickFuerst](https://github.com/patrickFuerst)/[**hairymess**](https://github.com/patrickFuerst/hairymess)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@agrippa1994](https://github.com/agrippa1994)/[**WebSocket-API**](https://github.com/agrippa1994/WebSocket-API)",
+              "Websocket client API for AutoHotKey and other scripting and programming languages.",
+              ""
+            ],
+            [
+              "5",
+              "[@agrippa1994](https://github.com/agrippa1994)/[**iOS-PLC**](https://github.com/agrippa1994/iOS-PLC)",
+              "Siemens Simatic S7 communication software for iOS using Snap7",
+              ""
+            ],
+            [
+              "5",
+              "[@agrippa1994](https://github.com/agrippa1994)/[**CPP-SAMP-API**](https://github.com/agrippa1994/CPP-SAMP-API)",
+              "An API for C++ which can send commands, show messages and much more in SA:MP",
+              ""
+            ],
+            [
+              "5",
+              "[@agrippa1994](https://github.com/agrippa1994)/[**SA-MP-WebSockets**](https://github.com/agrippa1994/SA-MP-WebSockets)",
+              "SA:MP WebSocket-Client and Server implementation",
+              ""
+            ],
+            [
+              "4",
+              "[@pmj](https://github.com/pmj)/[**osxbook-SimpleCrypto…**](https://github.com/pmj/osxbook-SimpleCryptoDisk)",
+              "An update to the SimpleCryptoDisk filter scheme driver example from the book Mac OS X Internals by Amit Singh",
+              ""
+            ],
+            [
+              "3",
+              "[@taketwo](https://github.com/taketwo)/[**tviewer**](https://github.com/taketwo/tviewer)",
+              "A simple cloud viewer on top of PCL Visualizer",
+              ""
+            ],
+            [
+              "3",
+              "[@agrippa1994](https://github.com/agrippa1994)/[**SAMP-Gametext**](https://github.com/agrippa1994/SAMP-Gametext)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@agrippa1994](https://github.com/agrippa1994)/[**nodejs-fdf**](https://github.com/agrippa1994/nodejs-fdf)",
+              "Create FDF files with nodejs",
+              ""
+            ],
+            [
+              "3",
+              "[@SimonWallner](https://github.com/SimonWallner)/[**kocmoc-core**](https://github.com/SimonWallner/kocmoc-core)",
+              "Core engine parts of kocmoc",
+              "[:arrow_upper_right:](http://simonwallner.at)"
+            ],
+            [
+              "3",
+              "[@agrippa1994](https://github.com/agrippa1994)/[**passwdmgr**](https://github.com/agrippa1994/passwdmgr)",
+              "Console based application for storing passwords in an encrypted file.",
+              ""
+            ],
+            [
+              "3",
+              "[@agrippa1994](https://github.com/agrippa1994)/[**v8_test**](https://github.com/agrippa1994/v8_test)",
+              "Basic C++ embedding tests with Google's V8 JavaScript-Engine",
+              ""
+            ],
+            [
+              "3",
+              "[@agrippa1994](https://github.com/agrippa1994)/[**samp-nodejs-plugin**](https://github.com/agrippa1994/samp-nodejs-plugin)",
+              "A plugin for creating gamemodes and filterscripts in SA:MP using nodejs via JXCore and SA:MP-GDK",
+              ""
+            ],
+            [
+              "3",
+              "[@Joe-Z](https://github.com/Joe-Z)/[**OF_Particles**](https://github.com/Joe-Z/OF_Particles)",
+              "Particle-Emitter-Project for my Computer Graphics 2 course",
+              "[:arrow_upper_right:](http://joe-z.multimediatechnology.at/)"
+            ],
+            [
+              "2",
+              "[@strahlex](https://github.com/strahlex)/[**battleship**](https://github.com/strahlex/battleship)",
+              "A Battleship Game",
+              ""
+            ],
+            [
+              "2",
+              "[@pmj](https://github.com/pmj)/[**literal-collections**](https://github.com/pmj/literal-collections)",
+              "Functions for creating pre-populated (\"literal\") STL collections using C++11 variadic templates. Useful for compilers that don't support the new initialiser lists but do support variadic templates (such as clang 3.0.0 and GCC 4.3).",
+              ""
+            ],
+            [
+              "2",
+              "[@bedahr](https://github.com/bedahr)/[**recomment**](https://github.com/bedahr/recomment)",
+              "Voice controlled recommender system",
+              ""
+            ],
+            [
+              "2",
+              "[@SimonWallner](https://github.com/SimonWallner)/[**kocmoc-main**](https://github.com/SimonWallner/kocmoc-main)",
+              "main part of kocmoc",
+              "[:arrow_upper_right:](http://simonwallner.at)"
+            ],
+            [
+              "2",
+              "[@mlang](https://github.com/mlang)/[**yatm**](https://github.com/mlang/yatm)",
+              "Yet Another Time Machine",
+              ""
+            ],
+            [
+              "2",
+              "[@mlang](https://github.com/mlang)/[**xsdcxx-musicxml**](https://github.com/mlang/xsdcxx-musicxml)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@agrippa1994](https://github.com/agrippa1994)/[**node-aida64**](https://github.com/agrippa1994/node-aida64)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@agrippa1994](https://github.com/agrippa1994)/[**Password-Manager**](https://github.com/agrippa1994/Password-Manager)",
+              "A password manager for iOS and a password server written in PHP",
+              ""
+            ],
+            [
+              "2",
+              "[@agrippa1994](https://github.com/agrippa1994)/[**node-win32-keyhook**](https://github.com/agrippa1994/node-win32-keyhook)",
+              "Global keyhook library for NodeJS (Windows only)",
+              ""
+            ],
+            [
+              "2",
+              "[@Joe-Z](https://github.com/Joe-Z)/[**Super-Mario-Bros.--f…**](https://github.com/Joe-Z/Super-Mario-Bros.--first-level--in-OF)",
+              "The first level of Super Mario Bros. made for 2 players with openFrameworks",
+              ""
+            ],
+            [
+              "2",
+              "[@agrippa1994](https://github.com/agrippa1994)/[**iOS-Encryption**](https://github.com/agrippa1994/iOS-Encryption)",
+              "Encryption app for iOS",
               ""
             ]
           ]
