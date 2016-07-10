@@ -58,7 +58,8 @@
           "[CoffeeScript](#coffeescript)",
           "[Go](#go)",
           "[Haskell](#haskell)",
-          "[Lua](#lua)"
+          "[Lua](#lua)",
+          "[Objective-C](#objective-c)"
         ]
       },
       {
@@ -2610,6 +2611,723 @@
               "[@seasick](https://github.com/seasick)/[**Zombie-Zero**](https://github.com/seasick/Zombie-Zero)",
               "Small zombie game made with/for Löve2d",
               "[:arrow_upper_right:](http://www.seasickgames.com)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Objective-C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3878",
+              "[@steipete](https://github.com/steipete)/[**Aspects**](https://github.com/steipete/Aspects)",
+              "Delightful, simple library for aspect oriented programming.",
+              ""
+            ],
+            [
+              "2445",
+              "[@steipete](https://github.com/steipete)/[**PSTCollectionView**](https://github.com/steipete/PSTCollectionView)",
+              "Open Source, 100% API compatible replacement of UICollectionView for iOS4.3+",
+              "[:arrow_upper_right:](http://petersteinberger.com)"
+            ],
+            [
+              "2040",
+              "[@steipete](https://github.com/steipete)/[**PSStackedView**](https://github.com/steipete/PSStackedView)",
+              "open source implementation of Twitter/iPad stacked ui - done right.",
+              "[:arrow_upper_right:](http://twitter.com/steipete)"
+            ],
+            [
+              "1522",
+              "[@ericjohnson](https://github.com/ericjohnson)/[**canabalt-ios**](https://github.com/ericjohnson/canabalt-ios)",
+              "Open source release of Canabalt for iOS",
+              "[:arrow_upper_right:](www.semisecretsoftware.com)"
+            ],
+            [
+              "994",
+              "[@steipete](https://github.com/steipete)/[**AFDownloadRequestOpe…**](https://github.com/steipete/AFDownloadRequestOperation)",
+              "A progressive download operation for AFNetworking.",
+              ""
+            ],
+            [
+              "895",
+              "[@brutella](https://github.com/brutella)/[**chatheads**](https://github.com/brutella/chatheads)",
+              "An implementation of Facebook's ChatHeads on iOS.",
+              ""
+            ],
+            [
+              "852",
+              "[@steipete](https://github.com/steipete)/[**PSPDFTextView**](https://github.com/steipete/PSPDFTextView)",
+              "A subclass of UITextView that fixes the most glaring problems from iOS 7 and 7.1.",
+              "[:arrow_upper_right:](http://pspdfkit.com)"
+            ],
+            [
+              "751",
+              "[@steipete](https://github.com/steipete)/[**PSTAlertController**](https://github.com/steipete/PSTAlertController)",
+              "API similar to UIAlertController, backwards compatible to iOS 7. Will use the new shiny API when you run iOS 8.",
+              ""
+            ],
+            [
+              "681",
+              "[@lmirosevic](https://github.com/lmirosevic)/[**GBDeviceInfo**](https://github.com/lmirosevic/GBDeviceInfo)",
+              "Detects the hardware, software and display of the current iOS or Mac OS X device at runtime.",
+              ""
+            ],
+            [
+              "656",
+              "[@steipete](https://github.com/steipete)/[**PSPushPopPressView**](https://github.com/steipete/PSPushPopPressView)",
+              "Zoom, Rotate, Drag – everything at the same time. A view-container for direct manipulation, inspired by Our Choice from Push Pop Press.",
+              "[:arrow_upper_right:](http://twitter.com/steipete)"
+            ],
+            [
+              "620",
+              "[@mmackh](https://github.com/mmackh)/[**IPDFCameraViewContro…**](https://github.com/mmackh/IPDFCameraViewController)",
+              "UIView subclass with camera preview, live border detection, perspective correction and an easy to use API",
+              "[:arrow_upper_right:](https://instapdf.com)"
+            ],
+            [
+              "618",
+              "[@mmackh](https://github.com/mmackh)/[**Hacker-News-for-iOS**](https://github.com/mmackh/Hacker-News-for-iOS)",
+              "Hacker News client for iPad and iPhone [DEPRECATED]",
+              ""
+            ],
+            [
+              "591",
+              "[@steipete](https://github.com/steipete)/[**PSFoundation**](https://github.com/steipete/PSFoundation)",
+              "Categories and helper classes for iOS projects.",
+              "[:arrow_upper_right:](http://twitter.com/steipete)"
+            ],
+            [
+              "559",
+              "[@yinkou](https://github.com/yinkou)/[**OCMapView**](https://github.com/yinkou/OCMapView)",
+              "Simple and easy to use clustering mapView for iOS",
+              "[:arrow_upper_right:](http://www.unet.univie.ac.at/~a0846794/OCMapView/)"
+            ],
+            [
+              "521",
+              "[@scheinem](https://github.com/scheinem)/[**MSCMoreOptionTableVi…**](https://github.com/scheinem/MSCMoreOptionTableViewCell)",
+              "Drop-in solution to achieve the \"More\" button in an UITableView's \"Swipe to Delete\" menu (as seen in Mail.app under iOS 7)",
+              ""
+            ],
+            [
+              "274",
+              "[@mmackh](https://github.com/mmackh)/[**KEYPullDownMenu**](https://github.com/mmackh/KEYPullDownMenu)",
+              "A pull down menu, similar to notification center on iOS that supports an unlimited number of items. Items can either be selected, deleted or reordered. The control is aimed at providing context for switching data within the same view controller.",
+              ""
+            ],
+            [
+              "239",
+              "[@odrobnik](https://github.com/odrobnik)/[**MyAppSales**](https://github.com/odrobnik/MyAppSales)",
+              "Mobile ITC Reports Downloader and Dashboard",
+              "[:arrow_upper_right:](http://www.cocoanetics.com/my-app-sales/)"
+            ],
+            [
+              "217",
+              "[@steipete](https://github.com/steipete)/[**PSTDelegateProxy**](https://github.com/steipete/PSTDelegateProxy)",
+              "A simple proxy that forwards optional methods to delegates - less boilerplate in your code!",
+              ""
+            ],
+            [
+              "196",
+              "[@lmirosevic](https://github.com/lmirosevic)/[**GBVersionTracking**](https://github.com/lmirosevic/GBVersionTracking)",
+              "Track which versions of your iOS or Mac OS X app a user has previously installed, and the whole upgrade cookie crumb trail.",
+              ""
+            ],
+            [
+              "194",
+              "[@steipete](https://github.com/steipete)/[**PSYouTubeExtractor**](https://github.com/steipete/PSYouTubeExtractor)",
+              "Display YouTube URLs in a MPMoviePlayerController",
+              "[:arrow_upper_right:](http://twitter.com/steipete)"
+            ],
+            [
+              "193",
+              "[@phranck](https://github.com/phranck)/[**CCNStatusItem**](https://github.com/phranck/CCNStatusItem)",
+              "CCNStatusItem is a subclass of NSObject to act as a custom view for NSStatusItem. It supports a customizable statusItemWindow handling any viewController for presenting the content.",
+              ""
+            ],
+            [
+              "187",
+              "[@steipete](https://github.com/steipete)/[**PSPDFKit-Demo**](https://github.com/steipete/PSPDFKit-Demo)",
+              "A drop-in-ready framework that helps in almost every aspect of PDF-rendering on iOS.",
+              "[:arrow_upper_right:](http://pspdfkit.com)"
+            ],
+            [
+              "183",
+              "[@steipete](https://github.com/steipete)/[**PSMenuItem**](https://github.com/steipete/PSMenuItem)",
+              "A block based UIMenuItem subclass.",
+              ""
+            ],
+            [
+              "177",
+              "[@steipete](https://github.com/steipete)/[**UIKitDebugging**](https://github.com/steipete/UIKitDebugging)",
+              "A set of files that enables various debug flags in UIKit",
+              ""
+            ],
+            [
+              "177",
+              "[@steipete](https://github.com/steipete)/[**PSiOSAppTemplate**](https://github.com/steipete/PSiOSAppTemplate)",
+              "iOS Application Template with JSON-Parsing, AutoUpdating, CrashReporter+Sender, Statistics, custom Logging, Localization and all those little things already set up, ready for you to make awesome stuff!",
+              "[:arrow_upper_right:](http://twitter.com/steipete)"
+            ],
+            [
+              "140",
+              "[@steipete](https://github.com/steipete)/[**PSAlertView**](https://github.com/steipete/PSAlertView)",
+              "Modern block-based wrappers for UIAlertView and UIActionSheet.",
+              ""
+            ],
+            [
+              "133",
+              "[@anka](https://github.com/anka)/[**bw_examples**](https://github.com/anka/bw_examples)",
+              "Examples of JadeMind's Blog",
+              "[:arrow_upper_right:](http://www.jademind.com/blog)"
+            ],
+            [
+              "131",
+              "[@phranck](https://github.com/phranck)/[**CNGridView**](https://github.com/phranck/CNGridView)",
+              "CNGridView is a (wanna be) replacement for NSCollectionView. It has full delegate and dataSource support with method calls like known from NSTableView/UITableView.",
+              ""
+            ],
+            [
+              "129",
+              "[@eternalstorms](https://github.com/eternalstorms)/[**ESSVideoShare-for-OS…**](https://github.com/eternalstorms/ESSVideoShare-for-OS-X-Lion)",
+              "A framework for OS X Lion (and later) and iOS to implement publishing videos to YouTube, Vimeo, Facebook and Flickr with ease",
+              "[:arrow_upper_right:](http://www.eternalstorms.at/)"
+            ],
+            [
+              "123",
+              "[@phranck](https://github.com/phranck)/[**CNSplitView**](https://github.com/phranck/CNSplitView)",
+              "CNSplitView is an feature enhanced derivative of NSSplitView. It has support for sticky top or bottom toolbars for each of its subviews.",
+              ""
+            ],
+            [
+              "100",
+              "[@phranck](https://github.com/phranck)/[**CNUserNotification**](https://github.com/phranck/CNUserNotification)",
+              "CNUserNotification is a kind of proxy to give OS X Lion 10.7 „the same‟ support for user notifications like OS X Mountain Lion 10.8 does. Benefits are also a bit more flexibility since you are able to define a custom banner image or variable dismiss delay times.",
+              ""
+            ],
+            [
+              "97",
+              "[@alexleutgoeb](https://github.com/alexleutgoeb)/[**ALToastView**](https://github.com/alexleutgoeb/ALToastView)",
+              "Android-like toast messages for iOS",
+              ""
+            ],
+            [
+              "92",
+              "[@lmirosevic](https://github.com/lmirosevic)/[**GBPing**](https://github.com/lmirosevic/GBPing)",
+              "Highly accurate ICMP Ping controller for iOS",
+              ""
+            ],
+            [
+              "92",
+              "[@steipete](https://github.com/steipete)/[**PSStoreButton**](https://github.com/steipete/PSStoreButton)",
+              "UIButton that is styled like iPhone's AppStore-Button. No Images used!",
+              "[:arrow_upper_right:](http://twitter.com/steipete)"
+            ],
+            [
+              "80",
+              "[@alexleutgoeb](https://github.com/alexleutgoeb)/[**ALPickerView**](https://github.com/alexleutgoeb/ALPickerView)",
+              "Multiple row selection in UIPickerView",
+              ""
+            ],
+            [
+              "78",
+              "[@ericjohnson](https://github.com/ericjohnson)/[**twitter-xauth**](https://github.com/ericjohnson/twitter-xauth)",
+              "A simple twitter client that allows you to authorize with xauth, and post status updates",
+              ""
+            ],
+            [
+              "70",
+              "[@westbaer](https://github.com/westbaer)/[**FMEngine**](https://github.com/westbaer/FMEngine)",
+              "Objective-C Framework for the last.fm API",
+              ""
+            ],
+            [
+              "67",
+              "[@phranck](https://github.com/phranck)/[**CCNPreferencesWindow…**](https://github.com/phranck/CCNPreferencesWindowController)",
+              "CCNPreferencesWindowController is an Objective-C subclass of NSWindowController that automatically manages your custom view controllers for handling app preferences.",
+              ""
+            ],
+            [
+              "66",
+              "[@steipete](https://github.com/steipete)/[**PSTCenteredScrollVie…**](https://github.com/steipete/PSTCenteredScrollView)",
+              "Shows off different ways to center content in a UIScrollView.",
+              "[:arrow_upper_right:](http://petersteinberger.com/blog/2013/how-to-center-uiscrollview/)"
+            ],
+            [
+              "65",
+              "[@mmackh](https://github.com/mmackh)/[**PCRapidSelectionView**](https://github.com/mmackh/PCRapidSelectionView)",
+              "Interactive, beautiful & fast UIActionSheet replacement, supports continuous hold & select",
+              ""
+            ],
+            [
+              "64",
+              "[@m2mtech](https://github.com/m2mtech)/[**matchismo-2013-14**](https://github.com/m2mtech/matchismo-2013-14)",
+              "Playing Card Game from cs193p",
+              "[:arrow_upper_right:](http://cs193p.m2m.at/tag/matchismo+2013-14/)"
+            ],
+            [
+              "63",
+              "[@phranck](https://github.com/phranck)/[**CNBaseView**](https://github.com/phranck/CNBaseView)",
+              "CNBaseView is a subclass of NSView that can show an icon and/or a text message if it has no subviews. Both, the icon and the message text are optional. If you keep it empty CNBaseView acts as a normal NSView.",
+              ""
+            ],
+            [
+              "60",
+              "[@phranck](https://github.com/phranck)/[**CNBackstageControlle…**](https://github.com/phranck/CNBackstageController)",
+              "CNBackstageController is an derivative of NSWindowController and a special impelementation to show you the content you would like to see. It mimics the behavior you’ve just seen in Notification Center (the Slide-In effect) of Mountain Lion.",
+              ""
+            ],
+            [
+              "56",
+              "[@eternalstorms](https://github.com/eternalstorms)/[**NSView-ESSViewCatego…**](https://github.com/eternalstorms/NSView-ESSViewCategory)",
+              "a category on NSView that simplifies zoom-transitioning between two NSViews",
+              "[:arrow_upper_right:](https://eternalstorms.wordpress.com/?p=387)"
+            ],
+            [
+              "50",
+              "[@steipete](https://github.com/steipete)/[**iOS6-Runtime-Headers**](https://github.com/steipete/iOS6-Runtime-Headers)",
+              "6.0 (GM)",
+              ""
+            ],
+            [
+              "42",
+              "[@soberman](https://github.com/soberman)/[**ARSPopover**](https://github.com/soberman/ARSPopover)",
+              "Universal popover for iPhone and iPad.",
+              ""
+            ],
+            [
+              "41",
+              "[@eternalstorms](https://github.com/eternalstorms)/[**ESSSquareProgressInd…**](https://github.com/eternalstorms/ESSSquareProgressIndicator)",
+              "a rectangular (square), indeterminate progress indicator for iOS and OS X",
+              "[:arrow_upper_right:](https://eternalstorms.wordpress.com/2015/04/02/esssquareprogressindicator-for-ios-and-os-x/)"
+            ],
+            [
+              "31",
+              "[@m2mtech](https://github.com/m2mtech)/[**Matchismo**](https://github.com/m2mtech/Matchismo)",
+              "Playing Card Game from cs193p",
+              "[:arrow_upper_right:](http://cs193p.m2m.at/tag/matchismo/)"
+            ],
+            [
+              "30",
+              "[@mobfox](https://github.com/mobfox)/[**MobFox-iOS-SDK**](https://github.com/mobfox/MobFox-iOS-SDK)",
+              "MobFox iOS SDK supporting Banner Ads, Video Ads, and Native Ads",
+              "[:arrow_upper_right:](www.mobfox.com)"
+            ],
+            [
+              "29",
+              "[@lmirosevic](https://github.com/lmirosevic)/[**GBToolbox**](https://github.com/lmirosevic/GBToolbox)",
+              "Goonbee's iOS development toolbox",
+              ""
+            ],
+            [
+              "28",
+              "[@lukele](https://github.com/lukele)/[**GPGMail-SL**](https://github.com/lukele/GPGMail-SL)",
+              "This repository is outdated and will be discontinued. For latest code and information check: http://github.com/GPGTools/GPGMail",
+              "[:arrow_upper_right:](http://github.com/GPGTools/GPGMail)"
+            ],
+            [
+              "27",
+              "[@scheinem](https://github.com/scheinem)/[**MSCTimeSpanPicker**](https://github.com/scheinem/MSCTimeSpanPicker)",
+              "UIDatePicker styled Picker for selecting time spans",
+              ""
+            ],
+            [
+              "25",
+              "[@steipete](https://github.com/steipete)/[**PSTFoundationBenchma…**](https://github.com/steipete/PSTFoundationBenchmark)",
+              "Foundation Collection Classes Benchmarks",
+              ""
+            ],
+            [
+              "24",
+              "[@odrobnik](https://github.com/odrobnik)/[**Cocoanetics-Benchmar…**](https://github.com/odrobnik/Cocoanetics-Benchmarks)",
+              "Collection of Image Decompression Benchmarks",
+              "[:arrow_upper_right:](http://www.cocoanetics.com/2011/10/avoiding-image-decompression-sickness/)"
+            ],
+            [
+              "24",
+              "[@alexleutgoeb](https://github.com/alexleutgoeb)/[**toodledo-objc**](https://github.com/alexleutgoeb/toodledo-objc)",
+              "A toodledo-API implementation in Objective-C",
+              ""
+            ],
+            [
+              "23",
+              "[@lemonmojo](https://github.com/lemonmojo)/[**IconComposer2x**](https://github.com/lemonmojo/IconComposer2x)",
+              "Icon Composer 2x is a replacement for Apple's Icon Composer that supports Retina Resolution Icons.",
+              "[:arrow_upper_right:](http://www.lemonmojo.com/work)"
+            ],
+            [
+              "22",
+              "[@lemonmojo](https://github.com/lemonmojo)/[**LMAlertPopover**](https://github.com/lemonmojo/LMAlertPopover)",
+              "LMAlertPopover provides a simple API for showing an NSAlert as Popover (NSPopover).",
+              ""
+            ],
+            [
+              "20",
+              "[@mmackh](https://github.com/mmackh)/[**PCSplitView**](https://github.com/mmackh/PCSplitView)",
+              "Super powerful layout for iOS, simplified.",
+              "[:arrow_upper_right:](http://inoads.com)"
+            ],
+            [
+              "20",
+              "[@alexleutgoeb](https://github.com/alexleutgoeb)/[**WellDone**](https://github.com/alexleutgoeb/WellDone)",
+              "GTD-Client for Mac OS X (project work, Vienna UT)",
+              ""
+            ],
+            [
+              "18",
+              "[@lmirosevic](https://github.com/lmirosevic)/[**GBStorage**](https://github.com/lmirosevic/GBStorage)",
+              "Simple iOS and Mac OS X persistence layer with in-memory caching, optional persistence, pre-loading, namespacing and a sweet syntax.",
+              ""
+            ],
+            [
+              "18",
+              "[@lmirosevic](https://github.com/lmirosevic)/[**GBAnalytics**](https://github.com/lmirosevic/GBAnalytics)",
+              "Abstracts away different analytics networks and provides a unified simple interface",
+              ""
+            ],
+            [
+              "17",
+              "[@lmirosevic](https://github.com/lmirosevic)/[**GBCardStack**](https://github.com/lmirosevic/GBCardStack)",
+              "iOS UI paradigm for a stack of sliding cards. Used in VLC iRemote",
+              "[:arrow_upper_right:](http://www.goonbee.com/apps/vlc-remote)"
+            ],
+            [
+              "16",
+              "[@anka](https://github.com/anka)/[**JMTimerBeam**](https://github.com/anka/JMTimerBeam)",
+              "A decent timer beam displayed on top of your OSX screen.",
+              ""
+            ],
+            [
+              "15",
+              "[@phranck](https://github.com/phranck)/[**CCNNavigationControl…**](https://github.com/phranck/CCNNavigationController)",
+              "An Mac OS X Navigation Controller that acts mostly like the counter part on iOS - UINavigationController.",
+              ""
+            ],
+            [
+              "15",
+              "[@phranck](https://github.com/phranck)/[**CCNLaunchAtLoginItem**](https://github.com/phranck/CCNLaunchAtLoginItem)",
+              "An Objective-C class that encapsulates the functionality for launching a Mac application automatic on login, presented in a very simple interface.",
+              ""
+            ],
+            [
+              "13",
+              "[@odrobnik](https://github.com/odrobnik)/[**DTRichTextEditorDemo**](https://github.com/odrobnik/DTRichTextEditorDemo)",
+              "Demo for DTRichTextEditor.framework",
+              ""
+            ],
+            [
+              "13",
+              "[@lemonmojo](https://github.com/lemonmojo)/[**StartupDisk**](https://github.com/lemonmojo/StartupDisk)",
+              "StartupDisk is a little menu bar application for OS X that let's you quickly change the current startup disk.",
+              ""
+            ],
+            [
+              "13",
+              "[@brutella](https://github.com/brutella)/[**nsuserdefaults-macro…**](https://github.com/brutella/nsuserdefaults-macros)",
+              "Some handy NSUserDefaults macros/functions",
+              ""
+            ],
+            [
+              "12",
+              "[@yinkou](https://github.com/yinkou)/[**OBaconView**](https://github.com/yinkou/OBaconView)",
+              "Animated hovering-views-view with datasource/delegate like a tableView",
+              ""
+            ],
+            [
+              "12",
+              "[@m2mtech](https://github.com/m2mtech)/[**photomania-2013-14**](https://github.com/m2mtech/photomania-2013-14)",
+              "photomania demo from cs193p",
+              "[:arrow_upper_right:](http://cs193p.m2m.at/tag/photomania+2013-14/)"
+            ],
+            [
+              "11",
+              "[@ericjohnson](https://github.com/ericjohnson)/[**textureAtlas**](https://github.com/ericjohnson/textureAtlas)",
+              "textureAtlas code used to generate the texture atlases in the Canabalt iOS port",
+              ""
+            ],
+            [
+              "11",
+              "[@lmirosevic](https://github.com/lmirosevic)/[**GBLaunchCounter**](https://github.com/lmirosevic/GBLaunchCounter)",
+              "Count how many times your iOS or Mac OS X app has been launched, and optionally register blocks for when a certain number of launches has occurred.",
+              ""
+            ],
+            [
+              "9",
+              "[@lukele](https://github.com/lukele)/[**iCal-Classic-Page-Fl…**](https://github.com/lukele/iCal-Classic-Page-Flip)",
+              "Plugin which disables the Lion style page flip animation in iCal",
+              ""
+            ],
+            [
+              "8",
+              "[@mmackh](https://github.com/mmackh)/[**Broadcast.io**](https://github.com/mmackh/Broadcast.io)",
+              "Demo Node.js + iOS app that is entirly based on MessagesTableViewController & socket.IO-objc",
+              ""
+            ],
+            [
+              "8",
+              "[@eternalstorms](https://github.com/eternalstorms)/[**ESSImageCategory**](https://github.com/eternalstorms/ESSImageCategory)",
+              "Category on NSImage to write NSImages to disk in other formats than TIFF",
+              "[:arrow_upper_right:](http://eternalstorms.at/opensource)"
+            ],
+            [
+              "7",
+              "[@eternalstorms](https://github.com/eternalstorms)/[**NSBeginAlertSheet-us…**](https://github.com/eternalstorms/NSBeginAlertSheet-using-Blocks)",
+              "instead of traditional @selector callbacks, this uses blocks",
+              "[:arrow_upper_right:](https://eternalstorms.wordpress.com/2012/10/12/nsbeginalertsheet-with-blocks/)"
+            ],
+            [
+              "7",
+              "[@lmirosevic](https://github.com/lmirosevic)/[**GBHUD**](https://github.com/lmirosevic/GBHUD)",
+              "Lightweight HUD (heads up display) for quick transient modals in iOS & OSX apps",
+              ""
+            ],
+            [
+              "7",
+              "[@lmirosevic](https://github.com/lmirosevic)/[**GBLocation**](https://github.com/lmirosevic/GBLocation)",
+              "Wrapper facade for simplifying the Core Motion APIs and exposing a blocks based interface.",
+              ""
+            ],
+            [
+              "7",
+              "[@lemonmojo](https://github.com/lemonmojo)/[**RoyalTSX_Public**](https://github.com/lemonmojo/RoyalTSX_Public)",
+              "Public Source Code of Royal TSX V1",
+              "[:arrow_upper_right:](http://www.royaltsx.com/)"
+            ],
+            [
+              "7",
+              "[@lmirosevic](https://github.com/lmirosevic)/[**GBLoading**](https://github.com/lmirosevic/GBLoading)",
+              "An elegant, lightweight & most importantly robust asynchronous resource loading library for iOS.",
+              ""
+            ],
+            [
+              "7",
+              "[@lmirosevic](https://github.com/lmirosevic)/[**GBFeatureManager**](https://github.com/lmirosevic/GBFeatureManager)",
+              "Simple iOS and Mac OS X feature manager for unlocking functionality (e.g. for IAP purchases).",
+              ""
+            ],
+            [
+              "7",
+              "[@brutella](https://github.com/brutella)/[**Axt**](https://github.com/brutella/Axt)",
+              "A forgiving HTML SAX Parser for iOS",
+              ""
+            ],
+            [
+              "6",
+              "[@phranck](https://github.com/phranck)/[**CCNXML**](https://github.com/phranck/CCNXML)",
+              "Simple basic handling of XML files for both reading and manual creation in Objective-C.",
+              ""
+            ],
+            [
+              "6",
+              "[@lemonmojo](https://github.com/lemonmojo)/[**WKWebView-Screenshot**](https://github.com/lemonmojo/WKWebView-Screenshot)",
+              "WKWebView+Screenshot provides simple methods that use private(!) APIs of the WebKit framework to capture a screenshot of a WKWebView running on OS X.",
+              ""
+            ],
+            [
+              "6",
+              "[@lmirosevic](https://github.com/lmirosevic)/[**GBMotion**](https://github.com/lmirosevic/GBMotion)",
+              "Utility library for helping with motion detection, such as orientation, etc.",
+              ""
+            ],
+            [
+              "5",
+              "[@lemonmojo](https://github.com/lemonmojo)/[**LanguageMenu**](https://github.com/lemonmojo/LanguageMenu)",
+              "LanguageMenu is a little menu bar application for OS X that let's the user change the current system language.",
+              "[:arrow_upper_right:](http://www.lemonmojo.com/work)"
+            ],
+            [
+              "5",
+              "[@lemonmojo](https://github.com/lemonmojo)/[**LMComboBox**](https://github.com/lemonmojo/LMComboBox)",
+              "LMComboBox is a subclass of NSComboBox that provides an easy way to access the underlying NSTableViewDelegate, allowing you to make customizations to the drawing of the items in the NSComboBox.",
+              ""
+            ],
+            [
+              "5",
+              "[@soberman](https://github.com/soberman)/[**ARSSlideTransition**](https://github.com/soberman/ARSSlideTransition)",
+              "Custom slide view controller transition animation.",
+              ""
+            ],
+            [
+              "5",
+              "[@mmackh](https://github.com/mmackh)/[**MStaff**](https://github.com/mmackh/MStaff)",
+              "3rd Party WhenIWork.com iOS Client app with multiple account support built for Hotel Marietta, Obertauern",
+              ""
+            ],
+            [
+              "5",
+              "[@lmirosevic](https://github.com/lmirosevic)/[**GBStickyViews**](https://github.com/lmirosevic/GBStickyViews)",
+              "Allows you to anchor a view onto another view, even if they're across view hierarchies and coordinate spaces.",
+              ""
+            ],
+            [
+              "5",
+              "[@scheinem](https://github.com/scheinem)/[**MSCPDFReader**](https://github.com/scheinem/MSCPDFReader)",
+              "Drop-In PDF viewer for iOS",
+              ""
+            ],
+            [
+              "4",
+              "[@westbaer](https://github.com/westbaer)/[**Recapable**](https://github.com/westbaer/Recapable)",
+              "GSCapability-Editor for iPhone/iPod touch/iPad.",
+              ""
+            ],
+            [
+              "4",
+              "[@soberman](https://github.com/soberman)/[**URLQueryBuilder**](https://github.com/soberman/URLQueryBuilder)",
+              "Handy NSURL category, that make URL creation easy and fast.",
+              ""
+            ],
+            [
+              "4",
+              "[@m2mtech](https://github.com/m2mtech)/[**attributor**](https://github.com/m2mtech/attributor)",
+              "Atributor Demo from cs193p",
+              "[:arrow_upper_right:](http://cs193p.m2m.at/tag/attributor)"
+            ],
+            [
+              "4",
+              "[@lmirosevic](https://github.com/lmirosevic)/[**LiveDepot**](https://github.com/lmirosevic/LiveDepot)",
+              "A library for simple file downloading and inventory management for iOS. Including background transfers, mirrors, thumbnails, proper timeouts, persistent deferred retrying, reachability integration, and an elegant blocks based API. It's NSURLSession for download tasks, on lean steroids.",
+              ""
+            ],
+            [
+              "4",
+              "[@odrobnik](https://github.com/odrobnik)/[**WWDCSessions**](https://github.com/odrobnik/WWDCSessions)",
+              "A small tool for Mac OS X that checks if the WWDC session videos of the current year are available",
+              ""
+            ],
+            [
+              "4",
+              "[@m2mtech](https://github.com/m2mtech)/[**SPoT**](https://github.com/m2mtech/SPoT)",
+              "SPoT from cs193p",
+              "[:arrow_upper_right:](http://cs193p.m2m.at/tag/spot/)"
+            ],
+            [
+              "3",
+              "[@scheinem](https://github.com/scheinem)/[**iOSAppTemplate**](https://github.com/scheinem/iOSAppTemplate)",
+              "App Template for iOS",
+              ""
+            ],
+            [
+              "3",
+              "[@mmackh](https://github.com/mmackh)/[**MMFatPipe**](https://github.com/mmackh/MMFatPipe)",
+              "Image Resize + Asynchronous Upload",
+              ""
+            ],
+            [
+              "3",
+              "[@lmirosevic](https://github.com/lmirosevic)/[**GBLittleNotification**](https://github.com/lmirosevic/GBLittleNotification)",
+              "Little library for showing in-app popups (e.g. for showing push notifications while the app is open, or notifying the user of transient event). Supports fully customisable animations, styling and interactions.",
+              ""
+            ],
+            [
+              "3",
+              "[@westbaer](https://github.com/westbaer)/[**KissXML**](https://github.com/westbaer/KissXML)",
+              "GitHub mirror of KissXML",
+              "[:arrow_upper_right:](http://code.google.com/p/kissxml/)"
+            ],
+            [
+              "3",
+              "[@eternalstorms](https://github.com/eternalstorms)/[**NSProgressIndicator-…**](https://github.com/eternalstorms/NSProgressIndicator-ESSProgressIndicatorCategory)",
+              "animate a determinate progress indicator's doubleValue",
+              "[:arrow_upper_right:](https://eternalstorms.wordpress.com/?p=406)"
+            ],
+            [
+              "3",
+              "[@mobfox](https://github.com/mobfox)/[**MobFox-iOS-SDK-Core-…**](https://github.com/mobfox/MobFox-iOS-SDK-Core-Lib)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@lmirosevic](https://github.com/lmirosevic)/[**GBPingDemo**](https://github.com/lmirosevic/GBPingDemo)",
+              "Demo project for GBPing",
+              ""
+            ],
+            [
+              "3",
+              "[@tailoredapps](https://github.com/tailoredapps)/[**ChartThatThing**](https://github.com/tailoredapps/ChartThatThing)",
+              "Example Prjoect containing diagrams (customized for barPlots)",
+              ""
+            ],
+            [
+              "3",
+              "[@lemonmojo](https://github.com/lemonmojo)/[**NSDocumentSingleWind…**](https://github.com/lemonmojo/NSDocumentSingleWindowTest)",
+              "A testbed for the NSDocument framework in a single Window Controller",
+              ""
+            ],
+            [
+              "3",
+              "[@lmirosevic](https://github.com/lmirosevic)/[**GBFancyCamera**](https://github.com/lmirosevic/GBFancyCamera)",
+              "A blocks based class for taking pictures from the camera or camera roll, with preview and filters. Supports fully customising the UI as well as custom filters.",
+              ""
+            ],
+            [
+              "3",
+              "[@gotschi](https://github.com/gotschi)/[**iphone2websocket**](https://github.com/gotschi/iphone2websocket)",
+              "iphone controlled gaming via websockets",
+              ""
+            ],
+            [
+              "2",
+              "[@m2mtech](https://github.com/m2mtech)/[**topregions**](https://github.com/m2mtech/topregions)",
+              "TopRegions Assignment from cs193p",
+              "[:arrow_upper_right:](http://cs193p.m2m.at/tag/topregions+2013-14/)"
+            ],
+            [
+              "2",
+              "[@m2mtech](https://github.com/m2mtech)/[**Photomania**](https://github.com/m2mtech/Photomania)",
+              "Photomania from cs193p",
+              "[:arrow_upper_right:](http://cs193p.m2m.at/tag/photomania/)"
+            ],
+            [
+              "2",
+              "[@odrobnik](https://github.com/odrobnik)/[**Julia-lernt-iOS**](https://github.com/odrobnik/Julia-lernt-iOS)",
+              "Source Code for tutorials on www.julialerntios.com",
+              ""
+            ],
+            [
+              "2",
+              "[@westbaer](https://github.com/westbaer)/[**QuickShottr-Toggle**](https://github.com/westbaer/QuickShottr-Toggle)",
+              "SBSettings toggle for QuickShottr",
+              ""
+            ],
+            [
+              "2",
+              "[@tailoredapps](https://github.com/tailoredapps)/[**iLogMyNight**](https://github.com/tailoredapps/iLogMyNight)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@lmirosevic](https://github.com/lmirosevic)/[**GBLaunchAtLogin**](https://github.com/lmirosevic/GBLaunchAtLogin)",
+              "Add your app as a login item on Mac OS X",
+              ""
+            ],
+            [
+              "2",
+              "[@lmirosevic](https://github.com/lmirosevic)/[**GBRetractableTabBar**](https://github.com/lmirosevic/GBRetractableTabBar)",
+              "iOS Control for a retractable tab bar that supports full customisation in terms of sizing, behaviour, and custom views.",
+              ""
+            ],
+            [
+              "2",
+              "[@lmirosevic](https://github.com/lmirosevic)/[**GBCloudBoxClient**](https://github.com/lmirosevic/GBCloudBoxClient)",
+              "GBCloudBox is a framework for over-the-air, asynchronous, in-the-background, resource syncing between iOS or Mac OS X apps and a server.",
+              ""
+            ],
+            [
+              "2",
+              "[@m2mtech](https://github.com/m2mtech)/[**topplaces-2013-14**](https://github.com/m2mtech/topplaces-2013-14)",
+              "Flickr Photo Viewer from cs193p",
+              "[:arrow_upper_right:](http://cs193p.m2m.at/tag/topplaces+2013-14/)"
             ]
           ]
         }
