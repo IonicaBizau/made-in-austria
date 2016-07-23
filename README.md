@@ -1,16 +1,9 @@
 
-# made-in-austria
+# Made in Austria
 
  [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/made-in-austria.svg)](https://www.npmjs.com/package/made-in-austria) [![Downloads](https://img.shields.io/npm/dt/made-in-austria.svg)](https://www.npmjs.com/package/made-in-austria) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > A list of neat projects made in Austria
-
-## :cloud: Installation
-
-```sh
-$ npm i --save made-in-austria
-```
-
 
 ## Contents
 
@@ -983,31 +976,6 @@ $ npm i --save made-in-austria
 7 | [@znake](https://github.com/znake)/[**znake-vim**](https://github.com/znake/znake-vim) | A customized Railscasts theme I use in VIM |
 2 | [@allanberger](https://github.com/allanberger)/[**vimfiles**](https://github.com/allanberger/vimfiles) | Vimfiles optimized for developing in Python |
 2 | [@linluk](https://github.com/linluk)/[**my-dot-files**](https://github.com/linluk/my-dot-files) | this is where i save my dot files |
-
-## :clipboard: Example
-
-
-
-```js
-const madeInAustria = require("made-in-austria");
-
-console.log(madeInAustria());
-```
-
-## :memo: Documentation
-
-
-### `madeInAustria(a, b)`
-A list of neat projects made in Austria
-
-#### Params
-- **Number** `a`: Param descrpition.
-- **Number** `b`: Param descrpition.
-
-#### Return
-- **Number** Return description.
-
-
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
