@@ -40,6 +40,7 @@
   },
   "homepage": "https://github.com/IonicaBizau/made-in-austria#readme",
   "blah": {
+    "title": "Made in Austria",
     "installation": [
       {
         "h2": "Contents"
