@@ -36,9 +36,9 @@
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 10524 | [@enyo](https://github.com/enyo)/[**dropzone**](https://github.com/enyo/dropzone) | Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars. | [:arrow_upper_right:](http://www.dropzonejs.com)
-9119 | [@mxstbr](https://github.com/mxstbr)/[**react-boilerplate**](https://github.com/mxstbr/react-boilerplate) | 🔥 A highly scalable, offline-first foundation for your react apps with the best developer experience and a focus on performance and best practices. |
 1841 | [@michael](https://github.com/michael)/[**github**](https://github.com/michael/github) | A higher-level wrapper around the Github API. Intended for the browser. |
-1605 | [@mxstbr](https://github.com/mxstbr)/[**sharingbuttons.io**](https://github.com/mxstbr/sharingbuttons.io) | Quickly generate social sharing buttons with a tiny performance footprint | [:arrow_upper_right:](http://sharingbuttons.io)
+1597 | [@nikgraf](https://github.com/nikgraf)/[**belle**](https://github.com/nikgraf/belle) | Configurable React Components with great UX. |
+1418 | [@nikgraf](https://github.com/nikgraf)/[**draft-js-plugins**](https://github.com/draft-js-plugins/draft-js-plugins) | React Plugin Architecture for Draft.js including Slack-Like Emojis, FB-Like Mentions and Stickers. |
 1372 | [@okonet](https://github.com/okonet)/[**react-dropzone**](https://github.com/okonet/react-dropzone) | Simple HTML5 drag-drop zone with React.js. | [:arrow_upper_right:](http://okonet.ru/react-dropzone/)
 1175 | [@enyo](https://github.com/enyo)/[**opentip**](https://github.com/enyo/opentip) | Opentip is an open source javascript tooltip based on the protoype framework. | [:arrow_upper_right:](http://www.opentip.org)
 554 | [@michael](https://github.com/michael)/[**multiselect**](https://github.com/michael/multiselect) | jQuery UI Multiselect Widget | [:arrow_upper_right:](http://www.quasipartikel.at/multiselect)
