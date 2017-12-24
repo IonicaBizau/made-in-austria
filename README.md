@@ -9,6 +9,7 @@
 
 ## Contents
 
+
  - [JavaScript](#javascript)
  - [Java](#java)
  - [C#](#c-1)
@@ -35,6 +36,7 @@
  - [VimL](#viml)
 
 ### JavaScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 10524 | [@enyo](https://github.com/enyo)/[**dropzone**](https://github.com/enyo/dropzone) | Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars. | [:arrow_upper_right:](http://www.dropzonejs.com)
@@ -152,7 +154,9 @@
 2 | [@enyo](https://github.com/enyo)/[**excanvas**](https://github.com/enyo/excanvas) | Excanvas (modified so it works in IE8) |
 2 | [@michael](https://github.com/michael)/[**substance-editor**](https://github.com/michael/substance-editor) | Substance Editor |
 2 | [@DominikGuzei](https://github.com/DominikGuzei)/[**Stylekit**](https://github.com/DominikGuzei/Stylekit) | The source code for the StyleKit project written in Google Web Toolkit | [:arrow_upper_right:](http://wizzart.at/stylekit)
+
 ### Java #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 10019 | [@PhilJay](https://github.com/PhilJay)/[**MPAndroidChart**](https://github.com/PhilJay/MPAndroidChart) | A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations. |
@@ -212,7 +216,9 @@
 2 | [@Kaljurand](https://github.com/Kaljurand)/[**Mobile-APE**](https://github.com/Kaljurand/Mobile-APE) | Android client for the APE webservice | [:arrow_upper_right:](http://attempto.ifi.uzh.ch/site/docs/ape_webservice.html)
 2 | [@phax](https://github.com/phax)/[**peppol-directory**](https://github.com/phax/peppol-directory) | The official PEPPOL Directory (former Yellow Pages) software |
 2 | [@phax](https://github.com/phax)/[**erechnung.gv.at-webs…**](https://github.com/phax/erechnung.gv.at-webservice-client) | Utility classes and projects for the use with ER>B - the national Austrian Invoicing solution |
+
 ### C# #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 875 | [@techtalk](https://github.com/techtalk)/[**SpecFlow**](https://github.com/techtalk/SpecFlow) | Binding business requirements to .Net code | [:arrow_upper_right:](http://www.specflow.org/)
@@ -262,16 +268,22 @@
 2 | [@Tigraine](https://github.com/Tigraine)/[**elms-connector**](https://github.com/Tigraine/elms-connector) | A connector for Microsoft's ELMS Campus verification | [:arrow_upper_right:](http://www.tigraine.at)
 2 | [@saxx](https://github.com/saxx)/[**Wuzlstats**](https://github.com/saxx/Wuzlstats) | Web app to track wuzl (tabletop soccer) score. |
 2 | [@bojanbjelic](https://github.com/bojanbjelic)/[**xsltr**](https://github.com/bojanbjelic/xsltr) | Performs xsl transformations. msxls replacement |
+
 ### CSS #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 37 | [@SamBrishes](https://github.com/SamBrishes)/[**kenney-icon-font**](https://github.com/SamBrishes/kenney-icon-font) | The Kenney Icon Font is specifically designed for your (browser) game or other gaming related website / project! | [:arrow_upper_right:](http://sambrishes.github.io/kenney-icon-font/)
 2 | [@nicokratky](https://github.com/nicokratky)/[**nicokratky.me**](https://github.com/nicokratky/nicokratky.me) | well... just the code of my website | [:arrow_upper_right:](http://nicokratky.me)
+
 ### HTML #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@moser96](https://github.com/moser96)/[**responsive-svg-circl…**](https://github.com/moser96/responsive-svg-circlebar) | An easy to use Circlebar script by using jQuery |
+
 ### C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 299 | [@lanoxx](https://github.com/lanoxx)/[**tilda**](https://github.com/lanoxx/tilda) | A Gtk based drop down terminal for Linux and Unix |
@@ -328,7 +340,9 @@
 2 | [@kamarush](https://github.com/kamarush)/[**Xperia-TI-Wlan**](https://github.com/kamarush/Xperia-TI-Wlan) |  |
 2 | [@m6w6](https://github.com/m6w6)/[**ext-raphf**](https://github.com/m6w6/ext-raphf) | Resource and persistent handles factory |
 2 | [@wash](https://github.com/wash)/[**sissiz**](https://github.com/wash/sissiz) | SISSIz: Dinucleotide controlled random alignments and RNA gene prediction |
+
 ### C++ #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 117 | [@pmj](https://github.com/pmj)/[**virtio-net-osx**](https://github.com/pmj/virtio-net-osx) | Mac OS X driver for a (virtualised) "virtio" network device. Virtio network devices are supported by KVM and VirtualBox. Fastest virtual network device for VirtualBox OSX Guests, allows kernel debugging of guests via gdb. |
@@ -375,7 +389,9 @@
 2 | [@agrippa1994](https://github.com/agrippa1994)/[**node-win32-keyhook**](https://github.com/agrippa1994/node-win32-keyhook) | Global keyhook library for NodeJS (Windows only) |
 2 | [@Joe-Z](https://github.com/Joe-Z)/[**Super-Mario-Bros.--f…**](https://github.com/Joe-Z/Super-Mario-Bros.--first-level--in-OF) | The first level of Super Mario Bros. made for 2 players with openFrameworks |
 2 | [@agrippa1994](https://github.com/agrippa1994)/[**iOS-Encryption**](https://github.com/agrippa1994/iOS-Encryption) | Encryption app for iOS |
+
 ### ActionScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2015 | [@Gamua](https://github.com/Gamua)/[**Starling-Framework**](https://github.com/Gamua/Starling-Framework) | The Cross Platform Game Engine | [:arrow_upper_right:](http://www.starling-framework.org)
@@ -384,7 +400,9 @@
 20 | [@PrimaryFeather](https://github.com/PrimaryFeather)/[**Memory3D**](https://github.com/PrimaryFeather/Memory3D) | A simple implementation of "Memory" (also known as "Concentration") showcasing Starling's Sprite3D functionality. |
 8 | [@Gamua](https://github.com/Gamua)/[**Starling-Extension-D…**](https://github.com/Gamua/Starling-Extension-Dynamic-Lighting) | Use normal maps for realistic light effects in the Starling Framework. |
 3 | [@ripcurlx](https://github.com/ripcurlx)/[**make-it-easy-as3**](https://github.com/ripcurlx/make-it-easy-as3) | A tiny framework that makes it easy to write Test Data Builders in ActionScript 3 |
+
 ### Clojure #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 570 | [@pkamenarsky](https://github.com/pkamenarsky)/[**atea**](https://github.com/pkamenarsky/atea) | A minimalistic menu bar time tracker for MacOS |
@@ -400,7 +418,9 @@
 2 | [@bendlas](https://github.com/bendlas)/[**ai-challenge**](https://github.com/bendlas/ai-challenge) | google ai challenge 2011 |
 2 | [@bendlas](https://github.com/bendlas)/[**newfact**](https://github.com/bendlas/newfact) | New refactoring tool for clojure |
 2 | [@bendlas](https://github.com/bendlas)/[**starfleets**](https://github.com/bendlas/starfleets) | Coding for fun |
+
 ### CoffeeScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 29 | [@aschuch](https://github.com/aschuch)/[**node-nearest-neighbo…**](https://github.com/aschuch/node-nearest-neighbor) | Nearest neighbor algorithm to find the most similar object within an array of objects. | [:arrow_upper_right:](https://npmjs.org/package/nearest-neighbor)
@@ -408,7 +428,9 @@
 4 | [@aschuch](https://github.com/aschuch)/[**node-entropy**](https://github.com/aschuch/node-entropy) | Shannon Entropy calculation to measure the information gain of an array of objects. | [:arrow_upper_right:](https://npmjs.org/package/shannon-entropy)
 2 | [@segelgruppe](https://github.com/segelgruppe)/[**node-postman**](https://github.com/segelgruppe/node-postman) | A simple node project to take a POST request (eg from a contact form) and send a mail via the mandrill service. |
 2 | [@aschuch](https://github.com/aschuch)/[**wine-api**](https://github.com/aschuch/wine-api) | A simple RESTful JSON API server to manage a wine collection. |
+
 ### Go #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 653 | [@eaigner](https://github.com/eaigner)/[**hood**](https://github.com/eaigner/hood) | Database agnostic ORM for Go |
@@ -428,7 +450,9 @@
 3 | [@eaigner](https://github.com/eaigner)/[**libspf2**](https://github.com/eaigner/libspf2) | Go wrapper for libspf2  |
 2 | [@linecker](https://github.com/linecker)/[**delta**](https://github.com/linecker/delta) | Highlight timestamp gaps. |
 2 | [@eaigner](https://github.com/eaigner)/[**govat**](https://github.com/eaigner/govat) | Validate EU VAT numbers in Go |
+
 ### Haskell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 109 | [@hvr](https://github.com/hvr)/[**cassava**](https://github.com/hvr/cassava) | Easy CSV parsing | [:arrow_upper_right:](http://hackage.haskell.org/package/cassava)
@@ -458,7 +482,9 @@
 2 | [@haraldsteinlechner](https://github.com/haraldsteinlechner)/[**research**](https://github.com/haraldsteinlechner/research) | My Research and Related Work |
 2 | [@hvr](https://github.com/hvr)/[**ghci-ng**](https://github.com/hvr/ghci-ng) | GHCi Technology Preview | [:arrow_upper_right:](http://hackage.haskell.org/package/ghci-ng)
 2 | [@hvr](https://github.com/hvr)/[**cryptohash-md5**](https://github.com/hvr/cryptohash-md5) | Fast, pure and practical MD5 implementation | [:arrow_upper_right:](https://hackage.haskell.org/package/cryptohash-md5)
+
 ### Lua #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 48 | [@Andrettin](https://github.com/Andrettin)/[**Wyrmsun**](https://github.com/Andrettin/Wyrmsun) | Strategy game based on history, mythology and fiction | [:arrow_upper_right:](http://andrettin.github.io/)
@@ -468,7 +494,9 @@
 5 | [@Ferdi265](https://github.com/Ferdi265)/[**ComputerCraft-EventL…**](https://github.com/Ferdi265/ComputerCraft-EventLoop) | An implementation of an Event Loop for ComputerCraft that provides an interface similar to Node.js's EventEmitter and setTimeout() |
 4 | [@seclorum](https://github.com/seclorum)/[**metalab_sessions**](https://github.com/seclorum/metalab_sessions) | General purpose repository for the Metalab MOAI hacking sessions .. |
 3 | [@seasick](https://github.com/seasick)/[**Zombie-Zero**](https://github.com/seasick/Zombie-Zero) | Small zombie game made with/for Löve2d | [:arrow_upper_right:](http://www.seasickgames.com)
+
 ### Objective-C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3878 | [@steipete](https://github.com/steipete)/[**Aspects**](https://github.com/steipete/Aspects) | Delightful, simple library for aspect oriented programming. |
@@ -588,7 +616,9 @@
 2 | [@lmirosevic](https://github.com/lmirosevic)/[**GBRetractableTabBar**](https://github.com/lmirosevic/GBRetractableTabBar) | iOS Control for a retractable tab bar that supports full customisation in terms of sizing, behaviour, and custom views. |
 2 | [@lmirosevic](https://github.com/lmirosevic)/[**GBCloudBoxClient**](https://github.com/lmirosevic/GBCloudBoxClient) | GBCloudBox is a framework for over-the-air, asynchronous, in-the-background, resource syncing between iOS or Mac OS X apps and a server. |
 2 | [@m2mtech](https://github.com/m2mtech)/[**topplaces-2013-14**](https://github.com/m2mtech/topplaces-2013-14) | Flickr Photo Viewer from cs193p | [:arrow_upper_right:](http://cs193p.m2m.at/tag/topplaces+2013-14/)
+
 ### Perl #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 20 | [@szbalint](https://github.com/szbalint)/[**WWW--Curl**](https://github.com/szbalint/WWW--Curl) | Perl binding for libcurl | [:arrow_upper_right:](http://curl.haxx.se)
@@ -612,7 +642,9 @@
 2 | [@base64tokyo](https://github.com/base64tokyo)/[**App-Benchmark**](https://github.com/base64tokyo/App-Benchmark) |  |
 2 | [@gonter](https://github.com/gonter)/[**docu-tools**](https://github.com/gonter/docu-tools) | collection of tools to process documentation items in various formats |
 2 | [@base64tokyo](https://github.com/base64tokyo)/[**CatalystX-Crudite**](https://github.com/base64tokyo/CatalystX-Crudite) | Framework for Catalyst-based CMS Web Applications |
+
 ### PHP #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 198 | [@webmozart](https://github.com/webmozart)/[**json**](https://github.com/webmozart/json) | A robust JSON decoder/encoder with support for schema validation. |
@@ -688,7 +720,9 @@
 2 | [@xhezairi](https://github.com/xhezairi)/[**akismet-wolf**](https://github.com/xhezairi/akismet-wolf) | Akismet Plugin for Wolf CMS | [:arrow_upper_right:](http://www.xhezairi.com/code/akismet-wolfcms)
 2 | [@thasmo](https://github.com/thasmo)/[**php.honeypot-blackli…**](https://github.com/thasmo/php.honeypot-blacklist) | A simple PHP library for querying the Project Honeypot Http:BL API. |
 2 | [@CHH](https://github.com/CHH)/[**weblife1auth**](https://github.com/CHH/weblife1auth) | [UNMAINTAINED] Weblife1Auth provides an adapter for Zend_Auth for log on to the Weblife1 API |
+
 ### Python #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 1278 | [@mitsuhiko](https://github.com/mitsuhiko)/[**flask-sqlalchemy**](https://github.com/mitsuhiko/flask-sqlalchemy) | Adds SQLAlchemy support to Flask | [:arrow_upper_right:](http://flask-sqlalchemy.pocoo.org/)
@@ -811,14 +845,18 @@
 2 | [@nzjrs](https://github.com/nzjrs)/[**electools**](https://github.com/nzjrs/electools) | Old PyGTK Utils - Serial Port Terminal, Abandoned Arduino IDE, etc. |
 2 | [@pprett](https://github.com/pprett)/[**sketchd**](https://github.com/pprett/sketchd) | Twisted server to sketch data streams |
 2 | [@thet](https://github.com/thet)/[**elevate.cynin.buildo…**](https://github.com/thet/elevate.cynin.buildout) | elevate cynin buildout | [:arrow_upper_right:](http://elevate.at/)
+
 ### R #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 8 | [@zozlak](https://github.com/zozlak)/[**ZPD**](https://github.com/zozlak/ZPD) |  |
 6 | [@rhochreiter](https://github.com/rhochreiter)/[**financeR**](https://github.com/rhochreiter/financeR) | Financial Engineering with R |
 5 | [@rhochreiter](https://github.com/rhochreiter)/[**modopt.matlab**](https://github.com/rhochreiter/modopt.matlab) | Modeling Optimization Problems with R - MatLab(R) compatibility functions |
 2 | [@zozlak](https://github.com/zozlak)/[**useR2015**](https://github.com/zozlak/useR2015) |  |
+
 ### Ruby #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 924 | [@gettalong](https://github.com/gettalong)/[**kramdown**](https://github.com/gettalong/kramdown) | kramdown is a fast, pure Ruby Markdown superset converter, using a strict syntax definition and supporting several common extensions. | [:arrow_upper_right:](http://kramdown.gettalong.org)
@@ -938,7 +976,9 @@
 2 | [@ream88](https://github.com/ream88)/[**mongoid-encrypted_st…**](https://github.com/ream88/mongoid-encrypted_string) | Encrypted string type for Mongoid. | [:arrow_upper_right:](mariouher.com/mongoid-encrypted_string)
 2 | [@sh0w](https://github.com/sh0w)/[**serendipity**](https://github.com/sh0w/serendipity) | take photos and blend them with other people's photos whoaah |
 2 | [@sudara](https://github.com/sudara)/[**fitter_happier**](https://github.com/sudara/fitter_happier) | A Rails Plugin for adding a simple health check to your application |
+
 ### Scala #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 99 | [@manuelbernhardt](https://github.com/manuelbernhardt)/[**reactive-web-applica…**](https://github.com/manuelbernhardt/reactive-web-applications) | Sources of the sample applications of the Reactive Web Application book | [:arrow_upper_right:](http://manning.com/books/reactive-web-applications)
@@ -956,7 +996,9 @@
 2 | [@kixi](https://github.com/kixi)/[**bitcoin-xchange**](https://github.com/kixi/bitcoin-xchange) | Proof of concept for a (Bitcoin) exchange software based on CQRS and Event Sourcing. |
 2 | [@AlexanderDaniel](https://github.com/AlexanderDaniel)/[**play2-caching**](https://github.com/AlexanderDaniel/play2-caching) | Caching of Futures in Play 2.1 |
 2 | [@manuelbernhardt](https://github.com/manuelbernhardt)/[**play2-deadlock**](https://github.com/manuelbernhardt/play2-deadlock) | Example of deadlock in play2 with actors |
+
 ### Shell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 95 | [@simmac](https://github.com/simmac)/[**minimal_adb_fastboot**](https://github.com/simmac/minimal_adb_fastboot) | Installs the adb and fastboot binaries for OS X and Linux. |
@@ -964,22 +1006,29 @@
 22 | [@close2](https://github.com/close2)/[**shell-xmpp-client**](https://github.com/close2/shell-xmpp-client) | Xmpp client written in bash / ash (openwrt).  It's only dependency is ncat (or similar) for the actual ssl connection. |
 5 | [@MacLemon](https://github.com/MacLemon)/[**ongakuka**](https://github.com/MacLemon/ongakuka) | Remotely listen to your own music with iTunes hosted by mt-daapd and tunneled through ssh. |
 4 | [@bmedicke](https://github.com/bmedicke)/[**periodic-screenshots**](https://github.com/bmedicke/periodic-screenshots) | bash script that periodically takes screenshots. i use it to create time-lapse videos of projects. | [:arrow_upper_right:](http://benjy.multimediatechnology.at/blog/2010/06/18/making-of-quantum-jumpnrun/)
+
 ### Swift #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 63 | [@aloco](https://github.com/aloco)/[**SimpleButton**](https://github.com/aloco/SimpleButton) | Simple UIButton subclass with additional state change animations (e.g. backgroundColor) and missing features |
 6 | [@kasimir-technology](https://github.com/kasimir-technology)/[**AppReviewTimeMonitor**](https://github.com/kasimir-technology/AppReviewTimeMonitor) | Free OSX Application that puts the information from http://appreviewtimes.com/ in the statusbar |
 2 | [@raphaelseher](https://github.com/raphaelseher)/[**HorizontalCalendarVi…**](https://github.com/raphaelseher/HorizontalCalendarView) |  |
+
 ### TeX #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 7 | [@hannestschofenig](https://github.com/hannestschofenig)/[**tschofenig-ids**](https://github.com/hannestschofenig/tschofenig-ids) | Repository for Internet Drafts |
+
 ### VimL #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 7 | [@znake](https://github.com/znake)/[**znake-vim**](https://github.com/znake/znake-vim) | A customized Railscasts theme I use in VIM |
 2 | [@allanberger](https://github.com/allanberger)/[**vimfiles**](https://github.com/allanberger/vimfiles) | Vimfiles optimized for developing in Python |
 2 | [@linluk](https://github.com/linluk)/[**my-dot-files**](https://github.com/linluk/my-dot-files) | this is where i save my dot files |
+
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
